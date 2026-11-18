@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T22:01:19+00:00",
+  "updatedAt": "2026-11-18T23:00:25+00:00",
   "movies": [
     {
       "title": "Heartland",
@@ -58,7 +58,8 @@
       "overview": "Follows Latif, a devoutly religious hitman, who embarks on a desperate journey across Houston to protect his children after his wife dies, confronting forces closing in and beliefs threatening to unravel.",
       "addedAt": "2026-11-04T15:49:25+00:00",
       "tmdbId": 1437396,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
+      "overviewEn": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
     },
     {
       "title": "Primetime",
@@ -87,7 +88,8 @@
       "overview": "A struggling novelist makes a deal with a demonic spirit promising to catapult his writing career to stardom.",
       "addedAt": "2026-11-01T03:37:30+00:00",
       "tmdbId": 1746103,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/43O9DP9u77w0FBnCqYhgcuAk2S9.jpg",
+      "overviewEn": "A struggling novelist makes a deal with a demonic spirit promising to catapult his writing career to stardom."
     },
     {
       "title": "9/11: Reclaiming Ground Zero",
@@ -555,7 +557,8 @@
       "overview": "A grieving father and his young son relocate to the quiet town of Garretton, which was terrorized by a serial killer known as The Whisper Man 15 years earlier, while rumors circulate that Whisper Man worked with an accomplice.",
       "addedAt": "2026-09-02T18:12:09+00:00",
       "tmdbId": 860508,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/ndRs5lADYm0PeVjuOxaMcInY0o2.jpg",
+      "overviewEn": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case."
     },
     {
       "title": "Motor City",
@@ -664,7 +667,8 @@
       "overview": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
       "addedAt": "2026-08-12T01:42:09+00:00",
       "tmdbId": 1308767,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
+      "overviewEn": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming."
     },
     {
       "title": "The Invite",
@@ -1127,13 +1131,14 @@
       "overviewEn": "Tommy Riley has moved with his dad to Chicago from a 'nice place'. He keeps to himself, goes to school. However, after a street fight, he's noticed and quickly falls into the world of illegal underground boxing — where punches can kill."
     },
     {
-      "title": "Wuthering Heights",
+      "title": "“Wuthering Heights”",
       "originalTitle": "",
       "year": 2026,
       "overview": "A forbidden relationship unfolds between Cathy and Heathcliff, which develops from quiet longing to a dangerous pull of intense attraction, passion and increasing turmoil. Cathy and Heathcliff are at the center of a dramatically escalating relationship whose emotional course is getting further and further out of control.",
       "addedAt": "2026-05-07T02:03:41+00:00",
       "tmdbId": 1316092,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
+      "overviewEn": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England."
     },
     {
       "title": "Porco Rosso",
@@ -1152,7 +1157,8 @@
       "overview": "Shizuku lives a simple life, dominated by her love for stories and writing. One day she notices that all the library books she has have been previously checked out by the same person: \"Seiji Amasawa.\"",
       "addedAt": "2026-05-07T01:44:59+00:00",
       "tmdbId": 37797,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/z0mG3wx5hEela19ZTwp49b2pCxh.jpg",
+      "overviewEn": "Shizuku lives a simple life, dominated by her love for stories and writing. One day she notices that all the library books she has have been previously checked out by the same person: \"Seiji Amasawa.\""
     },
     {
       "title": "The Wind Rises",
@@ -1161,7 +1167,8 @@
       "overview": "Jiro Horikoshi studies assiduously to fulfill his aim of becoming an aeronautical engineer. As WWII begins, fighter aircraft designed by him end up getting used by the Japanese Empire against its foes.",
       "addedAt": "2026-05-07T00:52:40+00:00",
       "tmdbId": 149870,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/jcjNEfMVwBrqDpj0hys1XmTwfpM.jpg",
+      "overviewEn": "A lifelong love of flight inspires Japanese aviation engineer Jiro Horikoshi, whose storied career includes the creation of the A-6M World War II fighter plane."
     },
     {
       "title": "When Marnie Was There",
@@ -1170,7 +1177,8 @@
       "overview": "Anna, a shy 12-year-old girl, is sent to spend time with her aunt and uncle who live in the countryside, where she meets Marnie. The two become best friends. But Anna gradually discovers that Marnie is not quite who she appears to be.",
       "addedAt": "2026-05-07T00:52:36+00:00",
       "tmdbId": 242828,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/vug1dvDI1tSa60Z8qjCuUE7ntkO.jpg",
+      "overviewEn": "Upon being sent to live with relatives in the countryside due to an illness, an emotionally distant adolescent girl becomes obsessed with an abandoned mansion and infatuated with a girl who lives there - a girl who may or may not be real."
     },
     {
       "title": "The Boy and the Heron",
@@ -1399,7 +1407,8 @@
       "overview": "Reeling from their daughter's loss, Nicole and Sebastian come into possession of a secluded Venezuelan farm, unaware of the dark forces they're about to face.",
       "addedAt": "2026-04-25T03:11:19+00:00",
       "tmdbId": 1280300,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/sX8tqkFR1aqZaLQ4Jgb8jEMB4RN.jpg",
+      "overviewEn": "Reeling from their daughter's loss, Nicole and Sebastian come into possession of a secluded Venezuelan farm, unaware of the dark forces they're about to face."
     },
     {
       "title": "Ballistic",
@@ -1428,7 +1437,8 @@
       "overview": "Merriell Sunday Sr. and Hollis Bannister vanished in Alaska. Ellie and Merriell Jr. mount a search, but an ancient threat stalks their expedition into the wilderness, hunting them as they seek the truth behind the disappearances.",
       "addedAt": "2026-04-11T03:34:09+00:00",
       "tmdbId": 1418657,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/zaqEfoKcWkVni2eONhJ7DRhMO8Q.jpg",
+      "overviewEn": "When an oil tycoon and a famous adventurer vanish into the harsh winter of remote northern Alaska, a hand-picked rescue team endeavors to bring them home. What they don’t know is that they are trespassing on The Yeti’s territory, and the elements are the least of their worries."
     },
     {
       "title": "War Machine",
@@ -1437,7 +1447,8 @@
       "overview": "Follow the final recruits of a grueling special ops boot camp who encounter a mysterious deadly force.",
       "addedAt": "2026-04-06T19:16:58+00:00",
       "tmdbId": 1265609,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg",
+      "overviewEn": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine."
     },
     {
       "title": "The Bride!",
@@ -1736,7 +1747,8 @@
       "overview": "Estranged half brothers Jonny, a volatile suspended cop, and James, a disciplined Navy SEAL, reluctantly reunite in Hawaii after their private investigator father is murdered, triggering a dangerous clash with Yakuza operatives.",
       "addedAt": "2026-01-31T01:48:42+00:00",
       "tmdbId": 1168190,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/ny2FmfUZHyUaIHgBpcSxPVfoo6J.jpg",
+      "overviewEn": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart."
     },
     {
       "title": "Silent Night, Deadly Night",
@@ -1845,7 +1857,8 @@
       "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
       "addedAt": "2026-01-08T04:49:00+00:00",
       "tmdbId": 1084242,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+      "overviewEn": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before."
     },
     {
       "title": "Nuremberg",
@@ -2344,7 +2357,8 @@
       "overview": "A newly arrived governor finds his province under the control of the corrupt Colonel Huerta. To avoid assassination by Huerta, he pretends to be weak and indecisive so Huerta will believe he poses no threat. But secretly he masquerades as Zorro, and joins the monk Francisco and the beautiful aristocrat Ortensia in their fight for justice against Huerta and his soldiers.",
       "addedAt": "2025-10-13T17:23:07+00:00",
       "tmdbId": 18450,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/nfFRJkQjvajXHMknqjawhR9PVU5.jpg",
+      "overviewEn": "A newly arrived governor finds his province under the control of the corrupt Colonel Huerta. To avoid assassination by Huerta, he pretends to be weak and indecisive so Huerta will believe he poses no threat. But secretly he masquerades as Zorro, and joins the monk Francisco and the beautiful aristocrat Hortensia in their fight for justice against Huerta and his soldiers."
     },
     {
       "title": "The Legend of Zorro",
@@ -2673,7 +2687,8 @@
       "overview": "An American grandson of the infamous scientist, struggling to prove that his grandfather was not as insane as people believe, is invited to Transylvania, where he discovers the process that reanimates a dead body.",
       "addedAt": "2025-09-09T23:59:40+00:00",
       "tmdbId": 3034,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/3BvvVKPg9yucChlSvQtJxAbLmj9.jpg",
+      "overviewEn": "A young neurosurgeon inherits the castle of his grandfather, the famous Dr. Victor von Frankenstein. In the castle he finds a funny hunchback, a pretty lab assistant and the elderly housekeeper. Young Frankenstein believes that the work of his grandfather was delusional, but when he discovers the book where the mad doctor described his reanimation experiment, he suddenly changes his mind."
     },
     {
       "title": "Dracula",
@@ -2692,7 +2707,8 @@
       "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
       "addedAt": "2025-09-09T05:54:47+00:00",
       "tmdbId": 1078605,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/f1IGYeQLHfKFdlzv448vVIBjwXY.jpg",
+      "overviewEn": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance."
     },
     {
       "title": "Guns Up",
@@ -2801,7 +2817,8 @@
       "overview": "Tells the \"riches to rags\" story of the Nobles, three upper-class twenty-somethings that appear to have no limits to their checkbooks, and no direction in their lives. Until one day, their father tries to teach them a lesson by staging a financial scandal that forces the whole family to escape to an old house in the poor side of town, and leads the \"kids\" to do what they haven't done before: get jobs.",
       "addedAt": "2025-09-01T00:13:51+00:00",
       "tmdbId": 180147,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/40JLnLz5KEQeZnUCKD3zf8sQJFx.jpg",
+      "overviewEn": "Tells the \"riches to rags\" story of the Nobles, three upper-class twenty-somethings that appear to have no limits to their checkbooks, and no direction in their lives. Until one day, their father tries to teach them a lesson by staging a financial scandal that forces the whole family to escape to an old house in the poor side of town, and leads the \"kids\" to do what they haven't done before: get jobs."
     },
     {
       "title": "The Laundromat",
@@ -2990,7 +3007,8 @@
       "overview": "Will Radford is a top analyst for Homeland Security who tracks potential threats through a mass surveillance program, until one day an attack by an unknown entity leads him to question whether the government is hiding something from him... and from the rest of the world.",
       "addedAt": "2025-08-04T02:13:21+00:00",
       "tmdbId": 755898,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+      "overviewEn": "Will Radford is a top analyst for Homeland Security who tracks potential threats through a mass surveillance program, until one day an attack by an unknown entity leads him to question whether the government is hiding something from him... and from the rest of the world."
     },
     {
       "title": "28 Years Later",
@@ -3128,7 +3146,8 @@
       "overview": "Levon Cade left his profession behind to work construction and be a good dad to his daughter. But when a local girl vanishes, he's asked to return to the skills that made him a mythic figure in the shadowy world of counter-terrorism.",
       "addedAt": "2025-07-05T03:29:02+00:00",
       "tmdbId": 1197306,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg",
+      "overviewEn": "Levon Cade left behind a decorated military career in the black ops to live a simple life working construction. But when his boss's daughter, who is like family to him, is taken by human traffickers, his search to bring her home uncovers a world of corruption far greater than he ever could have imagined."
     },
     {
       "title": "The Old Guard 2",
@@ -3367,7 +3386,8 @@
       "overview": "The harrowing true story of a US Navy Seal platoon surveillance mission gone dangerously wrong. Warfare captures the intensity of combat like never before, and delivers an unflinching portrayal of brotherhood, sacrifice, and survival.",
       "addedAt": "2025-05-06T13:48:06+00:00",
       "tmdbId": 1241436,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/l39TlELomwysfsr37vrvCV6rmaQ.jpg",
+      "overviewEn": "A platoon of Navy SEALs embarks on a dangerous mission in Ramadi, Iraq, with the chaos and brotherhood of war retold through their memories of the event."
     },
     {
       "title": "UFO Abduction",
@@ -3716,7 +3736,8 @@
       "overview": "With his marriage fraying, Blake persuades his wife Charlotte to take a break from the city and visit his remote childhood home in rural Oregon. As they arrive at the farmhouse in the dead of night, they're attacked by an unseen animal and barricade themselves inside the home as the creature prowls the perimeter. But as the night stretches on, Blake begins to behave strangely, transforming into something unrecognizable.",
       "addedAt": "2025-02-04T17:17:05+00:00",
       "tmdbId": 710295,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/jTPBMPTgk9zOUGSkWcoOGbX8cTi.jpg",
+      "overviewEn": "With his marriage fraying, Blake persuades his wife Charlotte to take a break from the city and visit his remote childhood home in rural Oregon. As they arrive at the farmhouse in the dead of night, they're attacked by an unseen animal and barricade themselves inside the home as the creature prowls the perimeter. But as the night stretches on, Blake begins to behave strangely, transforming into something unrecognizable."
     },
     {
       "title": "Polar",
@@ -3915,7 +3936,8 @@
       "overview": "Elphaba, a young woman ridiculed for her green skin, and Galinda, a popular girl, become friends at Shiz University in the Land of Oz. After an encounter with the Wonderful Wizard of Oz, their friendship reaches a crossroads.",
       "addedAt": "2025-01-03T01:23:57+00:00",
       "tmdbId": 402431,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/j5AVKdTm8mG7tjoxIPU5V7riaDy.jpg",
+      "overviewEn": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West."
     },
     {
       "title": "The Lord of the Rings: The War of the Rohirrim",
@@ -4244,7 +4266,8 @@
       "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
       "addedAt": "2024-10-15T18:47:02+00:00",
       "tmdbId": 1184918,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+      "overviewEn": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose."
     },
     {
       "title": "Alien: Romulus",
@@ -4953,7 +4976,8 @@
       "overview": "Inhabitants of a quaint countryside town uncover chilling news: a demon is on the verge of being born in their midst. In a race against time, they attempt to flee before the malevolent force comes to life, but escaping may already be out of reach.",
       "addedAt": "2024-02-01T18:38:50+00:00",
       "tmdbId": 744857,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/iQ7G9LhP7NRRIUM4Vlai3eOxBAc.jpg",
+      "overviewEn": "When brothers Pedro and Jimi discover that a demonic infection has been festering in a nearby farmhouse, they attempt to evict the victim from their land. Failing to adhere to the proper rites of exorcism, their reckless actions inadvertently trigger an epidemic of possessions across their rural community."
     },
     {
       "title": "Heroic",
@@ -5091,7 +5115,8 @@
       "overview": "Willy Wonka – chock-full of ideas and determined to change the world one delectable bite at a time – is proof that the best things in life begin with a dream, and if you’re lucky enough to meet Willy Wonka, anything is possible.",
       "addedAt": "2024-01-20T19:07:51+00:00",
       "tmdbId": 787699,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/usJcUVupBLbvhr5xHQKc8UPguWp.jpg",
+      "overviewEn": "Willy Wonka – chock-full of ideas and determined to change the world one delectable bite at a time – is proof that the best things in life begin with a dream, and if you’re lucky enough to meet Willy Wonka, anything is possible."
     },
     {
       "title": "Minority Report",
@@ -5740,7 +5765,8 @@
       "overview": "The life story of Weird Al Yankovic, the artist who became famous for his parodies of well-known songs. We see his early life and how his father tried to stifle his creativity, his slow to success and the trappings of fame. Some parts of the film may be fictional. Well, it is a parody.",
       "addedAt": "2023-05-09T19:34:45+00:00",
       "tmdbId": 928344,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "overviewEn": "Exploring every facet of ‘Weird Al’ Yankovic’s life, from his meteoric rise to fame with early hits like ‘Eat It’ and ‘Like a Surgeon’ to his torrid celebrity love affairs and famously depraved lifestyle, this biopic takes audiences on a truly unbelievable journey through Yankovic’s life and career, from gifted child prodigy to the greatest musical legend of all time."
     },
     {
       "title": "Paint",
@@ -5959,7 +5985,8 @@
       "overview": "Billy and Sydney think they're the best basketball hustlers in town, so when they join forces, nothing can stop them, except each other. To add to their problems, Billy owes money and is being chased by a pair of gangster types.",
       "addedAt": "2023-04-12T08:37:34+00:00",
       "tmdbId": 10158,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/jnI05Z2Cm9ACEJo8FGen7tdHKLl.jpg",
+      "overviewEn": "Two street basketball hustlers try to con each other, then team up for a bigger score."
     },
     {
       "title": "Hellboy",
@@ -6342,13 +6369,14 @@
       "overviewEn": "Mumbai, India, November 26, 2008. While several terrorists spread hatred and death through the city, others attack the Taj Mahal Palace Hotel. Both hotel staff and guests risk their lives, making unthinkable sacrifices to protect themselves and keep everyone safe while help arrives."
     },
     {
-      "title": "X-Men: Dark Phoenix",
+      "title": "Dark Phoenix",
       "originalTitle": "",
       "year": 2019,
       "overview": "Jean Grey begins to develop incredible powers that corrupt and turn her into a Dark Phoenix, causing the X-Men to have to decide if her life is worth more than all of humanity.",
       "addedAt": "2023-04-12T08:36:51+00:00",
       "tmdbId": 320288,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/gUGhbJVZAOBAf5Zg6OHF6JWrABf.jpg",
+      "overviewEn": "The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when she's hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. The X-Men must now band together to save her soul and battle aliens that want to use Grey's new abilities to rule the galaxy."
     },
     {
       "title": "Booksmart",
@@ -6397,7 +6425,8 @@
       "overview": "A struggling musician realizes he's the only person on Earth who can remember The Beatles after waking up in an alternate reality where they never existed.",
       "addedAt": "2023-04-12T08:36:46+00:00",
       "tmdbId": 515195,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/9fYka5CQt9nrb6LOtKicysUf9NA.jpg",
+      "overviewEn": "A struggling musician realizes he's the only person on Earth who can remember The Beatles after waking up in an alternate reality where the group was forgotten."
     },
     {
       "title": "Midsommar",
@@ -6675,7 +6704,8 @@
       "overview": "The boyfriend (Cantinflas) of the servant of a rich industrial man, gets into the house in order to kill a mad dog. Suddenly this man appears so the servant tells him that Cantinflas is his wife's brother (Leonardo), who had been lost for years. The rich man then remembers that his father in law's testament could only be paid when all brothers get together, so treats Cantinflas, a real bum, as a king.",
       "addedAt": "2023-04-12T08:36:22+00:00",
       "tmdbId": 69060,
-      "poster": ""
+      "poster": "",
+      "overviewEn": "Cantinflas, the boyfriend of the servant of a rich industrial man, gets into the house in order to kill a mad dog. Suddenly this man appears so the servant tells him that Cantinflas is his wife's brother (Leonardo), who had been lost for years. The rich man then remembers that his father in law's testament could only be paid when all brothers get together, so treats Cantinflas, a real bum, as a king."
     },
     {
       "title": "Spider-Man: Into the Spider-Verse",
@@ -7082,7 +7112,8 @@
       "overview": "On the outbreak of the First World War, Albert's beloved horse 'Joey' is sold to the Cavalry by his Father. After being sent to France, in a bid to survive, Joey has an unexpected journey across war torn Europe. Albert enlists in the British Army, and is wounded during the Battle of the Somme. Whilst recovering in Hospital, he learns of a Horse, found in no mans land.",
       "addedAt": "2023-04-12T08:35:45+00:00",
       "tmdbId": 57212,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/3aRHhvvngFPJFy5uAjo7GVr3PhL.jpg",
+      "overviewEn": "On the brink of the First World War, Albert's beloved horse Joey is sold to the Cavalry by his father. Against the backdrop of the Great War, Joey begins an odyssey full of danger, joy, and sorrow, and he transforms everyone he meets along the way. Meanwhile, Albert, unable to forget his equine friend, searches the battlefields of France to find Joey and bring him home."
     },
     {
       "title": "Star Wars",
@@ -7261,7 +7292,8 @@
       "overview": "Columbus, Tallahassee, Wichita, and Little Rock move to the American heartland as they face off against evolved zombies, fellow survivors, and the growing pains of the snarky makeshift family.",
       "addedAt": "2023-04-12T08:35:27+00:00",
       "tmdbId": 338967,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/dtRbVsUb5O12WWO54SRpiMtHKC0.jpg",
+      "overviewEn": "Columbus, Tallahassee, Wichita, and Little Rock move to the American heartland as they face off against evolved zombies, fellow survivors, and the growing pains of the snarky makeshift family."
     },
     {
       "title": "Jojo Rabbit",
@@ -7530,7 +7562,8 @@
       "overview": "Jack Cunningham was a high school basketball phenom who walked away from the game, forfeiting his future. Years later, when he reluctantly accepts a coaching job at his alma mater, he may get one last shot at redemption.",
       "addedAt": "2023-04-12T08:35:04+00:00",
       "tmdbId": 529485,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/ylPnfaphW3FrLBUVwAREVtiL9My.jpg",
+      "overviewEn": "A former basketball all-star, who has lost his wife and family foundation in a struggle with addiction, attempts to regain his soul and salvation by becoming the coach of a disparate ethnically mixed high school basketball team at his alma mater."
     },
     {
       "title": "The Gentlemen",
@@ -7699,7 +7732,8 @@
       "overview": "Perseus tries to live a quieter life as a village fisherman while – dangerously weakened by humanity's lack of devotion – the gods are losing control of the long-imprisoned Titans and their ferocious leader, Kronos.",
       "addedAt": "2023-04-12T08:34:33+00:00",
       "tmdbId": 57165,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/b9n2R3xZWQ8MVZgndQoV34stS0h.jpg",
+      "overviewEn": "Perseus tries to live a quieter life as a village fisherman while – dangerously weakened by humanity's lack of devotion – the gods are losing control of the long-imprisoned Titans and their ferocious leader, Kronos."
     },
     {
       "title": "Clash of the Titans",
@@ -7918,16 +7952,18 @@
       "overview": "Wonder Woman finds herself battling two opponents, Maxwell Lord, a shrewd entrepreneur, and Barbara Minerva, a friend-turned-foe. Meanwhile, she also ends up crossing paths with her love interest.",
       "addedAt": "2023-04-12T08:33:56+00:00",
       "tmdbId": 464052,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
+      "overviewEn": "A botched store robbery places Wonder Woman in a global battle against a powerful and mysterious ancient force that puts her powers in jeopardy."
     },
     {
-      "title": "The Witches",
+      "title": "Roald Dahl's The Witches",
       "originalTitle": "",
       "year": 2020,
       "overview": "In late 1967, a young orphaned boy goes to live with his loving grandma in the rural Alabama town of Demopolis. As the boy and his grandmother encounter some deceptively glamorous but thoroughly diabolical witches, she wisely whisks him away to a seaside resort. Regrettably, they arrive at precisely the same time that the world's Grand High Witch has gathered.",
       "addedAt": "2023-04-12T08:33:55+00:00",
       "tmdbId": 531219,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/betExZlgK0l7CZ9CsCBVcwO1OjL.jpg",
+      "overviewEn": "In late 1967, a young orphaned boy goes to live with his loving grandma in the rural Alabama town of Demopolis. As the boy and his grandmother encounter some deceptively glamorous but thoroughly diabolical witches, she wisely whisks him away to a seaside resort. Regrettably, they arrive at precisely the same time that the world's Grand High Witch has gathered."
     },
     {
       "title": "Greenland",
@@ -8076,7 +8112,8 @@
       "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
       "addedAt": "2023-04-12T08:33:30+00:00",
       "tmdbId": 791373,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/xx7YR2kmu6Xji31au9VvGdCp4T1.jpg",
+      "overviewEn": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions."
     },
     {
       "title": "Dances with Wolves",
@@ -8215,7 +8252,8 @@
       "overview": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
       "addedAt": "2023-04-12T08:33:05+00:00",
       "tmdbId": 244786,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/E1fpfU9cMCgFYL3QPvJr3vt20X.jpg",
+      "overviewEn": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity."
     },
     {
       "title": "Se7en",
@@ -9134,7 +9172,8 @@
       "overview": "When a team of mercenaries breaks into a wealthy family compound on Christmas Eve, taking everyone inside hostage, the team isn't prepared for a surprise combatant: Santa Claus is on the grounds, and he's about to show why this Nick is no saint.",
       "addedAt": "2023-04-12T08:30:27+00:00",
       "tmdbId": 899112,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/e8CpMgdyihz9Td7amQDqubPuzfN.jpg",
+      "overviewEn": "When a team of mercenaries breaks into a wealthy family compound on Christmas Eve, taking everyone inside hostage, the team isn’t prepared for a surprise combatant: Santa Claus is on the grounds, and he’s about to show why this Nick is no saint."
     },
     {
       "title": "Medieval",
@@ -9193,7 +9232,8 @@
       "overview": "Carpenter Pepe El Toro lives peacefully with his daughter Chachita in an impoverished Mexico City neighborhood. He pursues a romance with the pretty Celia, but tragedy comes knocking on his door when he is falsely accused of having perpetrated a felony.",
       "addedAt": "2023-04-12T08:30:12+00:00",
       "tmdbId": 53510,
-      "poster": ""
+      "poster": "",
+      "overviewEn": "Carpenter Pepe El Toro lives peacefully with his daughter Chachita in an impoverished Mexico City neighborhood. He pursues a romance with the pretty Celia, but tragedy comes knocking on his door when he is falsely accused of having perpetrated a felony."
     },
     {
       "title": "La Vie en Rose",
@@ -9202,7 +9242,8 @@
       "overview": "Biopic of the iconic French singer Édith Piaf. Raised by her grandmother in a brothel, she was discovered while singing on a street corner at the age of 19. Despite her success, Piaf's life was filled with tragedy.",
       "addedAt": "2023-04-12T08:30:11+00:00",
       "tmdbId": 1407,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/3b9DAONAsFRhJKu25R33PE3VwDh.jpg",
+      "overviewEn": "From the mean streets of the Belleville district of Paris to the dazzling limelight of New York's most famous concert halls, Edith Piaf's life was a constant battle to sing and survive, to live and love. Raised in her grandmother's brothel, Piaf was discovered in 1935 by nightclub owner Louis Leplee, who persuaded her to sing despite her extreme nervousness. Piaf became one of France's immortal icons, her voice one of the indelible signatures of the 20th century."
     },
     {
       "title": "Encino Man",
@@ -9271,7 +9312,8 @@
       "overview": "A reclusive English teacher (Brendan Fraser), living alone in the wake of a tragedy, attempts to reconnect with his teenage daughter for a chance at redemption in filmmaker Darren Aronofsky's emotional story of heartache, empathy, and grace.",
       "addedAt": "2023-04-12T08:29:59+00:00",
       "tmdbId": 785084,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/jFTodRhRwdD2nYJ170O5xyJcSdr.jpg",
+      "overviewEn": "A reclusive English teacher suffering from severe obesity attempts to reconnect with his estranged teenage daughter for one last chance at redemption."
     },
     {
       "title": "Avatar: The Way of Water",
@@ -9334,13 +9376,14 @@
       "overviewEn": "Billy Batson and his foster siblings, who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world."
     },
     {
-      "title": "Winnie-the-Pooh: Blood and Honey",
+      "title": "Winnie the Pooh: Blood and Honey",
       "originalTitle": "",
       "year": 2023,
       "overview": "The days of adventures and merriment have come to an end, as Christopher Robin, now a young man, has left Winnie-The-Pooh and Piglet to fend for themselves. As time passes, feeling angry and abandoned, the two become feral. After getting a taste for blood, Winnie-The-Pooh and Piglet set off to find a new source of food. It's not long before their bloody rampage begins",
       "addedAt": "2023-04-12T08:29:47+00:00",
       "tmdbId": 980078,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/y3iPrVHicDBcx2N6eamv0jbHH6H.jpg",
+      "overviewEn": "After Christopher Robin abandons them for college, Pooh and Piglet embark on a bloody rampage as they search for a new source of food."
     },
     {
       "title": "Cocaine Bear",
@@ -9379,7 +9422,8 @@
       "overview": "Seventeen-year-old Thale has just moved to a small town after her mother got a new job at the local police station. After a student is brutally killed at a party Thale attends, she becomes a key witness. Was the killer an animal? A wolf?",
       "addedAt": "2023-04-12T08:29:42+00:00",
       "tmdbId": 788752,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/dKJiNgq9oCXkiee9xZy0DxRRUQ9.jpg",
+      "overviewEn": "After witnessing a grotesque murder at a party in her new town, a teenager starts having strange visions and bizarre desires."
     },
     {
       "title": "Los Simpsons 11x02 El Cambio De Bart",
