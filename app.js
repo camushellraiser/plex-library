@@ -36,6 +36,8 @@ const messages = {
     requestError: 'No pudimos consultar el buscador. Intenta nuevamente.',
     requestSelected: 'Película seleccionada. Completa tu solicitud.',
     requestDuplicate: '¡Buenas noticias! Esta película ya está en Plex. No necesitas solicitarla.',
+    requestAlreadyPending: 'Esta película ya fue solicitada. No hace falta pedirla otra vez.', requestAlreadyProcessing: 'Esta película ya fue solicitada y está en proceso.',
+    adminTitle: 'Administrar solicitudes', adminPassword: 'Clave privada de administrador', adminOpen: 'Administración', adminLoad: 'Consultar solicitudes', adminPending: 'Solicitada', adminProcessing: 'En proceso', adminDismissed: 'Descartada', adminAvailable: 'Disponible en Plex', adminError: 'No pudimos consultar o actualizar las solicitudes.', adminEmpty: 'Todavía no hay solicitudes.', adminNoKey: 'Escribe tu clave de administrador.', requestEmailWarning: 'Solicitud guardada, pero el correo no pudo enviarse. Revísala en administración.',
     chosenFilmLabel: 'Película seleccionada', nameLabel: 'Tu nombre', namePlaceholder: '¿Quién solicita la película?',
     noteLabel: 'Comentario <small>(opcional)</small>', notePlaceholder: '¿Algo que debamos saber?',
     submitRequest: 'Enviar solicitud', submitSending: 'Enviando solicitud...',
@@ -79,6 +81,8 @@ const messages = {
     requestError: 'Could not reach movie search. Please try again.',
     requestSelected: 'Movie selected. Complete your request.',
     requestDuplicate: 'Good news! This movie is already in Plex. No need to request it.',
+    requestAlreadyPending: 'This movie has already been requested. No need to request it again.', requestAlreadyProcessing: 'This movie has already been requested and is in progress.',
+    adminTitle: 'Manage requests', adminPassword: 'Private admin key', adminOpen: 'Administration', adminLoad: 'Load requests', adminPending: 'Requested', adminProcessing: 'In progress', adminDismissed: 'Dismissed', adminAvailable: 'Available in Plex', adminError: 'Could not load or update requests.', adminEmpty: 'No requests yet.', adminNoKey: 'Enter your admin key.', requestEmailWarning: 'Request saved, but email failed. Check the admin panel.',
     chosenFilmLabel: 'Selected movie', nameLabel: 'Your name', namePlaceholder: 'Who is requesting the movie?',
     noteLabel: 'Comment <small>(optional)</small>', notePlaceholder: 'Anything else we should know?',
     submitRequest: 'Send request', submitSending: 'Sending request...',
@@ -109,6 +113,7 @@ let limit = 18;
 let requestResults = [];
 let selected = null;
 let requestIsDuplicate = false;
+let selectedRequestStatus = null;
 let requestStatus = 'requestIdle';
 let formStatus = null;
 let requestTimer = null;
@@ -199,6 +204,7 @@ function renderLanguage() {
   renderRequestStatus();
   renderFormStatus();
   if (activeDialogMovie) renderDialog(activeDialogMovie);
+  renderAdminLabels();
 }
 function setLanguage(lang) {
   if (!messages[lang] || lang === language) return;
@@ -321,14 +327,16 @@ function renderRequestResults() {
     button.append(createPoster(movie, 'result-art'));
     const info = el('div', 'result-text');
     info.append(el('strong', '', movie.title), el('small', '', movie.year ? String(movie.year) : t('unknownYear')));
+    if (isDuplicate(movie)) info.append(el('small','film-state in-plex',t('cardAvailable')));
+    else if (movie.requestStatus) info.append(el('small','film-state',t(movie.requestStatus==='processing'?'adminProcessing':'adminPending')));
     button.append(info, icon('icon-arrow'));
     button.addEventListener('click', () => chooseRequest(movie));
     parent.append(button);
   });
 }
 function renderSelectedMovie() {
-  $('requestForm').hidden = !selected || requestIsDuplicate;
-  if (!selected || requestIsDuplicate) return;
+  $('requestForm').hidden = !selected || requestIsDuplicate || !!selectedRequestStatus;
+  if (!selected || requestIsDuplicate || selectedRequestStatus) return;
   const parent = $('selectedMovie'); parent.replaceChildren();
   parent.append(createPoster(selected, 'chosen-art'));
   const info = el('div');
@@ -338,22 +346,23 @@ function renderSelectedMovie() {
 function chooseRequest(movie) {
   selected = movie;
   requestIsDuplicate = isDuplicate(movie);
+  selectedRequestStatus = movie.requestStatus || null;
   requestResults = [];
   formStatus = null;
-  requestStatus = requestIsDuplicate ? 'requestDuplicate' : 'requestSelected';
+  requestStatus = requestIsDuplicate ? 'requestDuplicate' : selectedRequestStatus ? (selectedRequestStatus==='processing'?'requestAlreadyProcessing':'requestAlreadyPending') : 'requestSelected';
   renderRequestResults(); renderRequestStatus(); renderSelectedMovie(); renderFormStatus();
 }
 async function lookupMovies() {
   const q = $('requestSearch').value.trim();
   if (currentLookup) currentLookup.abort();
-  requestResults = []; selected = null; requestIsDuplicate = false; formStatus = null;
+  requestResults = []; selected = null; requestIsDuplicate = false; selectedRequestStatus = null; formStatus = null;
   renderRequestResults(); renderSelectedMovie(); renderFormStatus();
   if (q.length < 2) { requestStatus = 'requestSearchShort'; renderRequestStatus(); return; }
   if (!cfg.tmdbSearchEndpoint) { requestStatus = 'requestNeedsConfig'; renderRequestStatus(); return; }
   requestStatus = 'requestLoading'; renderRequestStatus();
   const abortController = new AbortController(); currentLookup = abortController;
   try {
-    const uri = cfg.tmdbSearchEndpoint + encodeURIComponent(q) + '&language=' + encodeURIComponent(localeFor(language));
+    const uri = cfg.tmdbSearchEndpoint + encodeURIComponent(q) + '&language=en-US';
     const response = await fetch(uri, { signal: abortController.signal });
     if (!response.ok) throw new Error('Movie search unavailable');
     const data = await response.json();
@@ -445,7 +454,7 @@ $('loadMore').addEventListener('click', () => { limit += 18; renderLibrary(); })
 $('requestSearch').addEventListener('input', () => { clearTimeout(requestTimer); requestTimer = setTimeout(lookupMovies, 380); });
 $('requestForm').addEventListener('submit', async (event) => {
   event.preventDefault();
-  if (!selected || requestIsDuplicate) return;
+  if (!selected || requestIsDuplicate || selectedRequestStatus) return;
   const requester = $('requester').value.trim();
   if (!requester) { formStatus = 'formInvalidName'; renderFormStatus(); return; }
   if (!cfg.requestEndpoint) { formStatus = 'formNeedsConfig'; renderFormStatus(); return; }
@@ -453,13 +462,22 @@ $('requestForm').addEventListener('submit', async (event) => {
   try {
     const response = await fetch(cfg.requestEndpoint, {
       method: 'POST', headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ movie: selected, requester, note: $('note').value.trim(), language })
+      body: JSON.stringify({ movie: selected, requester, note: $('note').value.trim(), language, website: $('website').value })
     });
+    if (response.status === 409) {
+      const data = await response.json().catch(()=>({}));
+      if (data.code === 'already_requested') selectedRequestStatus = data.status || 'pending';
+      else requestIsDuplicate = true;
+      requestStatus = requestIsDuplicate ? 'requestDuplicate' : selectedRequestStatus==='processing'?'requestAlreadyProcessing':'requestAlreadyPending';
+      renderRequestStatus(); renderSelectedMovie();
+      throw Object.assign(new Error('Already in Plex'), { duplicate: true });
+    }
     if (!response.ok) throw new Error('Request failed');
-    formStatus = 'formSent'; $('requester').value = ''; $('note').value = '';
-    showToast(t('formSent'));
+    const result=await response.json();
+    formStatus = result.emailWarning ? 'requestEmailWarning' : 'formSent'; $('requester').value = ''; $('note').value = '';
+    showToast(t(formStatus));
     selected = null; renderSelectedMovie();
-  } catch { formStatus = 'formError'; }
+  } catch (error) { formStatus = error.duplicate ? null : 'formError'; }
   finally { $('submitRequest').disabled = false; renderFormStatus(); }
 });
 $('closeDialog').addEventListener('click', closeDialog);
@@ -468,3 +486,62 @@ $('movieDialog').addEventListener('close', () => { activeDialogMovie = null; });
 
 renderLanguage();
 loadCatalog();
+
+
+// Private admin key is kept only in the input; never in localStorage, URL or public config.
+function renderAdminLabels() {
+  for (const n of document.querySelectorAll('[data-admin-i18n]')) n.textContent=t(n.dataset.adminI18n);
+  if ($('adminList').dataset.loaded==='true') renderAdminList();
+}
+let adminRequests=[];
+function renderAdminList() {
+  const area=$('adminList');area.replaceChildren();
+  if (!adminRequests.length) {area.append(el('p','admin-muted',t('adminEmpty')));return;}
+  for(const req of adminRequests) {
+    const row=el('div','admin-item');
+    row.append(createPoster(req,'admin-poster'));
+    const details=el('div','admin-details');
+    details.append(el('strong','',`${req.title} (${req.year||'—'})`),el('small','',`${req.requester} · ${req.createdAt||''}`));
+    if (req.note) details.append(el('small','',req.note));
+    const available=isDuplicate(req);
+    if(available) details.append(el('span','film-state in-plex',t('adminAvailable')));
+    row.append(details);
+    if(!available){
+      const select=el('select','admin-select');
+      for(const status of ['pending','processing','dismissed']){
+        const opt=el('option','',t(status==='pending'?'adminPending':status==='processing'?'adminProcessing':'adminDismissed'));
+        opt.value=status;opt.selected=req.status===status;select.append(opt);
+      }
+      select.addEventListener('change',async()=>{
+        select.disabled=true;
+        try{
+          const resp=await fetch(cfg.requestEndpoint.replace(/\/request\/?$/,'/admin/status'),{
+            method:'POST',headers:{'Content-Type':'application/json','X-Admin-Key':$('adminKey').value},
+            body:JSON.stringify({tmdbId:req.tmdbId,status:select.value})
+          });
+          if(!resp.ok)throw Error('Failed');
+          req.status=select.value;
+        }catch{$('adminMessage').textContent=t('adminError');select.value=req.status;}
+        finally{select.disabled=false;}
+      });
+      row.append(select);
+    }
+    area.append(row);
+  }
+}
+$('openAdmin').addEventListener('click',()=>{$('adminDialog').showModal();});
+$('closeAdmin').addEventListener('click',()=>{$('adminKey').value='';$('adminDialog').close();});
+$('adminDialog').addEventListener('close',()=>{$('adminKey').value='';});
+$('adminDialog').addEventListener('click',ev=>{if(ev.target===$('adminDialog'))$('adminDialog').close();});
+$('loadAdmin').addEventListener('click',async()=>{
+  const key=$('adminKey').value;
+  if(!key){$('adminMessage').textContent=t('adminNoKey');return;}
+  $('adminMessage').textContent='';$('loadAdmin').disabled=true;
+  try {
+    const r=await fetch(cfg.requestEndpoint.replace(/\/request\/?$/,'/admin/requests'),{headers:{'X-Admin-Key':key},cache:'no-store'});
+    if(!r.ok)throw Error('Unauthorized');
+    const data=await r.json();adminRequests=data.requests||[];
+    $('adminList').dataset.loaded='true';renderAdminList();
+  }catch{$('adminMessage').textContent=t('adminError');}
+  finally{$('loadAdmin').disabled=false;}
+});

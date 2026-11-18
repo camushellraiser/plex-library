@@ -9,7 +9,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=2">
+  <link rel="stylesheet" href="styles.css?v=3">
 </head>
 <body>
   <svg class="svg-sprites" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
@@ -111,6 +111,7 @@
             <p class="request-hint" id="requestHint" role="status"></p>
             <div class="request-results" id="results"></div>
             <form id="requestForm" hidden>
+              <label class="request-honeypot" aria-hidden="true">Website <input id="website" tabindex="-1" autocomplete="off"></label>
               <div class="form-divider"></div>
               <div class="field-label" data-i18n="chosenFilmLabel">Película seleccionada</div>
               <div class="chosen-movie" id="selectedMovie"></div>
@@ -136,10 +137,19 @@
     </section>
   </main>
 
-  <footer class="site-footer"><div class="footer-inner"><span class="footer-brand">PLEX <strong>LIBRARY</strong></span><span data-i18n="footerNote">Tu catálogo familiar · Solo consulta, sin reproducción</span><span id="updated" class="footer-sync"></span></div></footer>
+  <footer class="site-footer"><div class="footer-inner"><span class="footer-brand">PLEX <strong>LIBRARY</strong></span><span data-i18n="footerNote">Tu catálogo familiar · Solo consulta, sin reproducción</span><span id="updated" class="footer-sync"></span><button id="openAdmin" class="admin-link" type="button" data-admin-i18n="adminOpen">Administración</button></div></footer>
 
   <dialog id="movieDialog" class="movie-dialog" aria-labelledby="dialogTitle"><button type="button" class="dialog-close" id="closeDialog" data-i18n-aria="closeDetails" aria-label="Cerrar detalles"><svg class="icon"><use href="#icon-close"/></svg></button><div id="dialogContent"></div></dialog>
+  <dialog id="adminDialog" class="movie-dialog admin-dialog" aria-labelledby="adminTitle">
+    <button type="button" id="closeAdmin" class="dialog-close" aria-label="Close">×</button>
+    <h2 id="adminTitle" data-admin-i18n="adminTitle">Administrar solicitudes</h2>
+    <label class="field-label" for="adminKey" data-admin-i18n="adminPassword">Clave privada de administrador</label>
+    <input type="password" class="admin-key" id="adminKey" autocomplete="off">
+    <button type="button" class="button button-gold" id="loadAdmin" data-admin-i18n="adminLoad">Consultar solicitudes</button>
+    <p id="adminMessage" role="status"></p>
+    <div id="adminList" class="admin-list"></div>
+  </dialog>
   <div class="toast" id="toast" role="status" aria-live="polite"></div>
-  <script src="config.js"></script><script src="app.js?v=2"></script>
+  <script src="config.js"></script><script src="app.js?v=4"></script>
 </body>
 </html>
