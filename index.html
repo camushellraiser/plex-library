@@ -1,1 +1,145 @@
-<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#0b0e15"><title>Plex Library</title><link rel="stylesheet" href="styles.css"></head><body><header><div class="brand"><span class="logo">▶</span><span>Plex <b>Library</b></span></div><span class="status" id="syncStatus">Catálogo de Plex</span></header><main><section class="hero"><p class="eyebrow">TU CATÁLOGO FAMILIAR</p><h1>¿Qué película quieres ver?</h1><p>Busca en nuestra biblioteca o solicita una película que todavía no tengamos.</p><div class="searchbox"><span>⌕</span><input id="search" type="search" autocomplete="off" placeholder="Buscar película, por ejemplo: Jurassic Park" aria-label="Buscar película"></div><div class="tabs"><button class="active" data-tab="library">En la biblioteca</button><button data-tab="request">Solicitar película</button></div></section><section id="libraryView"><div class="section-head"><h2 id="listTitle">Películas disponibles</h2><small id="count"></small></div><div id="movies" class="grid"></div><div id="empty" class="empty" hidden><h3>No encontramos esa película</h3><p>¿Quieres que la agreguemos?</p><button id="goRequest" class="primary">Solicitar película</button></div></section><section id="requestView" hidden><div class="section-head"><h2>Solicitar película</h2></div><p class="muted">Escribe el título y selecciona la película correcta. Puedes buscar incluso si no recuerdas el nombre exacto.</p><div class="searchbox"><span>⌕</span><input id="requestSearch" type="search" placeholder="Ej. Ace Ventura" aria-label="Buscar película para solicitar"></div><p id="requestHint" class="hint">Los resultados se mostrarán aquí cuando conectemos TMDB.</p><div id="results" class="results"></div><form id="requestForm" hidden><div id="selectedMovie" class="selected"></div><label for="requester">Tu nombre</label><input id="requester" required maxlength="80" placeholder="¿Quién solicita la película?"><label for="note">Comentario (opcional)</label><textarea id="note" maxlength="300" placeholder="Alguna observación..."></textarea><button class="primary" type="submit">Enviar solicitud</button><p id="formMessage" role="status"></p></form></section></main><footer>Plex Library · Catálogo informativo, sin reproducción de video <span id="updated"></span></footer><script src="config.js"></script><script src="app.js"></script></body></html>
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0a0b11">
+  <meta name="description" content="Plex Library: consulta las películas de nuestra biblioteca familiar y solicita las que faltan.">
+  <title>Plex Library · Tu cine, a un clic</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css?v=2">
+</head>
+<body>
+  <svg class="svg-sprites" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+    <symbol id="icon-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></symbol>
+    <symbol id="icon-arrow" viewBox="0 0 24 24"><path d="M5 12h14m-6-6 6 6-6 6"/></symbol>
+    <symbol id="icon-plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></symbol>
+    <symbol id="icon-check" viewBox="0 0 24 24"><path d="m5 12 4.5 4.5L19 7"/></symbol>
+    <symbol id="icon-film" viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="3"/><path d="M7 3v18M17 3v18M3 8h4M3 16h4M17 8h4M17 16h4"/></symbol>
+    <symbol id="icon-clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></symbol>
+    <symbol id="icon-sparkle" viewBox="0 0 24 24"><path d="m12 2 2.3 7.7L22 12l-7.7 2.3L12 22l-2.3-7.7L2 12l7.7-2.3z"/></symbol>
+    <symbol id="icon-mail" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m4 7 8 6 8-6"/></symbol>
+    <symbol id="icon-close" viewBox="0 0 24 24"><path d="M5 5l14 14M19 5 5 19"/></symbol>
+    <symbol id="icon-globe" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3 4 6 4 9s-1 6-4 9c-3-3-4-6-4-9s1-6 4-9z"/></symbol>
+  </svg>
+
+  <div class="ambient ambient-one"></div><div class="ambient ambient-two"></div>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="#top" aria-label="Plex Library">
+        <span class="brand-symbol" aria-hidden="true"><span></span></span>
+        <span class="brand-text"><strong>PLEX</strong><span>LIBRARY</span></span>
+      </a>
+      <div class="header-actions">
+        <span class="connection" id="syncStatus"><span class="connection-dot" aria-hidden="true"></span><span id="syncLabel" data-i18n="syncPending">Esperando sincronización</span></span>
+        <div class="lang-switch" role="group" aria-label="Idioma / Language">
+          <button type="button" class="lang-button active" data-lang="es" aria-pressed="true">ES</button>
+          <span aria-hidden="true"></span>
+          <button type="button" class="lang-button" data-lang="en" aria-pressed="false">EN</button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main id="top">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <div class="overline"><span class="overline-line"></span><span data-i18n="eyebrow">TU CATÁLOGO FAMILIAR DE PELÍCULAS</span></div>
+        <h1 id="hero-title"><span data-i18n="heroLine1">Encuentra tu</span><br><em data-i18n="heroLine2">próxima película.</em></h1>
+        <p class="hero-description" data-i18n="heroDescription">Explora las películas disponibles en Plex o solicita esa que llevas tiempo queriendo ver. Fácil, rápido y desde cualquier lugar.</p>
+        <div class="main-search-wrap" id="mainSearchWrap">
+          <div class="main-search">
+            <svg class="icon"><use href="#icon-search"/></svg>
+            <input id="search" type="search" autocomplete="off" spellcheck="false" aria-autocomplete="list" aria-controls="suggestions" aria-expanded="false" data-i18n-placeholder="searchPlaceholder" data-i18n-aria="searchLabel" placeholder="Busca una película, actor o año...">
+            <kbd class="shortcut" aria-hidden="true">/</kbd>
+          </div>
+          <div class="suggestions" id="suggestions" role="listbox" hidden></div>
+        </div>
+        <div class="search-caption"><svg class="icon"><use href="#icon-sparkle"/></svg><span data-i18n="searchCaption">Comienza a escribir y te mostramos las coincidencias.</span></div>
+        <button type="button" class="hero-request" id="heroRequest"><span data-i18n="heroRequest">¿No encuentras lo que buscas? Pídela aquí</span><svg class="icon"><use href="#icon-arrow"/></svg></button>
+      </div>
+      <div class="hero-visual" aria-hidden="true">
+        <div class="visual-orbit orbit-one"></div><div class="visual-orbit orbit-two"></div>
+        <div class="visual-float float-left"></div>
+        <div class="visual-poster poster-left" id="heroPoster1"><span class="poster-glyph">✦</span></div>
+        <div class="visual-poster poster-right" id="heroPoster2"><span class="poster-glyph">◈</span></div>
+        <div class="visual-poster poster-center" id="heroPoster0"><span class="poster-monogram">P<span>▶</span></span><span class="poster-small">PLEX LIBRARY</span></div>
+        <div class="visual-stamp"><span class="visual-stamp-mark">✳</span><span data-i18n="visualStamp">Cine para todos</span></div>
+      </div>
+    </section>
+
+    <section class="metrics" aria-label="Información del catálogo">
+      <div class="metric"><span class="metric-icon"><svg class="icon"><use href="#icon-film"/></svg></span><span class="metric-info"><strong id="movieTotal">—</strong><span data-i18n="metricMovies">Películas en Plex</span></span></div>
+      <div class="metric"><span class="metric-icon"><svg class="icon"><use href="#icon-clock"/></svg></span><span class="metric-info"><strong data-i18n="metricHourlyValue">Cada hora</strong><span data-i18n="metricHourly">Actualización automática</span></span></div>
+      <div class="metric"><span class="metric-icon"><svg class="icon"><use href="#icon-mail"/></svg></span><span class="metric-info"><strong data-i18n="metricRequestValue">Solicitudes</strong><span data-i18n="metricRequest">Pide las que faltan</span></span></div>
+    </section>
+
+    <section class="workspace" id="workspace">
+      <div class="workspace-head">
+        <div class="view-tabs" role="tablist" aria-label="Secciones">
+          <button type="button" id="libraryTab" data-tab="library" class="view-tab active" role="tab" aria-controls="libraryView" aria-selected="true"><svg class="icon"><use href="#icon-film"/></svg><span data-i18n="tabLibrary">Explorar biblioteca</span></button>
+          <button type="button" id="requestTab" data-tab="request" class="view-tab" role="tab" aria-controls="requestView" aria-selected="false"><svg class="icon"><use href="#icon-plus"/></svg><span data-i18n="tabRequest">Solicitar película</span></button>
+        </div>
+        <span class="workspace-caption"><span class="tiny-dot"></span><span data-i18n="workspaceCaption">Solo películas, sin series</span></span>
+      </div>
+
+      <section id="libraryView" role="tabpanel" aria-labelledby="libraryTab">
+        <div class="section-head">
+          <div><div class="small-heading" data-i18n="libraryOverline">EXPLORA TU CINE</div><h2 id="listTitle" data-i18n="libraryTitle">Todas las películas</h2><p id="listDescription" data-i18n="libraryDescription">Todo lo que puedes encontrar hoy en nuestra biblioteca.</p></div>
+          <div class="list-controls"><span class="result-count" id="count"></span><label class="select-wrap"><span class="sr-only" data-i18n="sortLabel">Ordenar películas</span><select id="sort"><option value="recent" data-i18n="sortRecent">Más recientes</option><option value="title" data-i18n="sortTitle">Título A–Z</option><option value="year" data-i18n="sortYear">Año de estreno</option></select></label></div>
+        </div>
+        <div class="movie-grid" id="movies" aria-live="polite"></div>
+        <div class="empty-state" id="empty" hidden>
+          <div class="empty-icon"><svg class="icon"><use href="#icon-search"/></svg></div>
+          <h3 id="emptyTitle"></h3><p id="emptyDescription"></p>
+          <button type="button" class="button button-gold" id="goRequest"><span data-i18n="emptyCTA">Solicitar esta película</span><svg class="icon"><use href="#icon-arrow"/></svg></button>
+        </div>
+        <button type="button" class="button button-secondary load-more" id="loadMore" hidden><span data-i18n="loadMore">Ver más películas</span><svg class="icon"><use href="#icon-arrow"/></svg></button>
+      </section>
+
+      <section id="requestView" role="tabpanel" aria-labelledby="requestTab" hidden>
+        <div class="request-layout">
+          <div class="request-main">
+            <div class="small-heading" data-i18n="requestOverline">TU PRÓXIMA PELÍCULA</div>
+            <h2 data-i18n="requestTitle">¿Qué película te gustaría ver?</h2>
+            <p class="request-description" data-i18n="requestDescription">Encuentra el título correcto, confirma la portada y envíanos tu solicitud.</p>
+            <label class="field-label" for="requestSearch" data-i18n="requestSearchLabel">Nombre de la película</label>
+            <div class="request-search"><svg class="icon"><use href="#icon-search"/></svg><input id="requestSearch" type="search" autocomplete="off" spellcheck="false" data-i18n-placeholder="requestPlaceholder" placeholder="Ej. Ace Ventura, Titanic, Avatar..."></div>
+            <p class="request-hint" id="requestHint" role="status"></p>
+            <div class="request-results" id="results"></div>
+            <form id="requestForm" hidden>
+              <div class="form-divider"></div>
+              <div class="field-label" data-i18n="chosenFilmLabel">Película seleccionada</div>
+              <div class="chosen-movie" id="selectedMovie"></div>
+              <div class="form-grid">
+                <label class="form-field"><span data-i18n="nameLabel">Tu nombre</span><input id="requester" maxlength="80" required autocomplete="name" data-i18n-placeholder="namePlaceholder" placeholder="¿Quién solicita la película?"></label>
+                <label class="form-field"><span data-i18n="noteLabel">Comentario <small>(opcional)</small></span><textarea id="note" maxlength="300" rows="2" data-i18n-placeholder="notePlaceholder" placeholder="¿Algo que debamos saber?"></textarea></label>
+              </div>
+              <button type="submit" class="button button-gold submit-button" id="submitRequest"><span data-i18n="submitRequest">Enviar solicitud</span><svg class="icon"><use href="#icon-arrow"/></svg></button>
+              <p class="form-message" id="formMessage" role="status"></p>
+            </form>
+          </div>
+          <aside class="how-it-works">
+            <div class="aside-header"><span class="aside-icon"><svg class="icon"><use href="#icon-sparkle"/></svg></span><span data-i18n="asideTitle">Así de sencillo</span></div>
+            <ol>
+              <li><span class="step-number">01</span><div><strong data-i18n="step1Title">Busca tu película</strong><p data-i18n="step1Body">Te ayudamos a encontrar el título y la portada correctos.</p></div></li>
+              <li><span class="step-number">02</span><div><strong data-i18n="step2Title">Confirma cuál es</strong><p data-i18n="step2Body">Revisamos si ya está disponible en Plex.</p></div></li>
+              <li><span class="step-number">03</span><div><strong data-i18n="step3Title">Envía la solicitud</strong><p data-i18n="step3Body">Nos llega una notificación para agregarla después.</p></div></li>
+            </ol>
+            <div class="aside-foot"><svg class="icon"><use href="#icon-check"/></svg><span data-i18n="asideFoot">No necesitas crear una cuenta.</span></div>
+          </aside>
+        </div>
+      </section>
+    </section>
+  </main>
+
+  <footer class="site-footer"><div class="footer-inner"><span class="footer-brand">PLEX <strong>LIBRARY</strong></span><span data-i18n="footerNote">Tu catálogo familiar · Solo consulta, sin reproducción</span><span id="updated" class="footer-sync"></span></div></footer>
+
+  <dialog id="movieDialog" class="movie-dialog" aria-labelledby="dialogTitle"><button type="button" class="dialog-close" id="closeDialog" data-i18n-aria="closeDetails" aria-label="Cerrar detalles"><svg class="icon"><use href="#icon-close"/></svg></button><div id="dialogContent"></div></dialog>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="config.js"></script><script src="app.js?v=2"></script>
+</body>
+</html>
