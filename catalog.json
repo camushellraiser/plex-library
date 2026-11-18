@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T19:01:20+00:00",
+  "updatedAt": "2026-11-18T20:01:17+00:00",
   "movies": [
     {
       "title": "Heartland",
@@ -46,7 +46,8 @@
       "overview": "With his memories gone and his past a blur, ex-cop Steven Bay seeks treatment for his amnesia while working on an isolated farm. Instead, he's met with rising hostility, strange surveillance, and instincts he can’t fully control. When the pressure becomes unbearable, Bay begins a desperate hunt for the truth behind his fractured reality.",
       "addedAt": "2026-11-05T18:01:30+00:00",
       "tmdbId": 1792170,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
+      "overviewEn": "With his memories gone and his past a blur, ex-cop Steven Bay seeks treatment for his amnesia while working on an isolated farm. Instead, he's met with rising hostility, strange surveillance, and instincts he can’t fully control. When the pressure becomes unbearable, Bay begins a desperate hunt for the truth behind his fractured reality."
     },
     {
       "title": "Your Mother Your Mother Your Mother",
@@ -104,13 +105,14 @@
       "poster": ""
     },
     {
-      "title": "Nikola Tesla 19hz",
+      "title": "Nikola Tesla's 19hz",
       "originalTitle": "",
       "year": 2026,
       "overview": "Nikola Tesla-visionary, inventor, genius. The world remembers his groundbreaking discoveries, but few know the secret that consumed his final years: a relentless quest to reach the other side. Armed with his own invention-the crystal radio, now a staple of today's ghost hunters-Tesla pushed the boundaries between science and the supernatural. Did he succeed? Did he make contact? What if everything we thought we knew was just the beginning?",
       "addedAt": "2026-10-28T19:07:26+00:00",
       "tmdbId": 1612991,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/xSeVQyAzEUNd4LQgx2G7yUPrPS4.jpg",
+      "overviewEn": "Nikola Tesla-visionary, inventor, genius. The world remembers his groundbreaking discoveries, but few know the secret that consumed his final years: a relentless quest to reach the other side."
     },
     {
       "title": "Sense and Sensibility",
@@ -174,7 +176,8 @@
       "overview": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century.",
       "addedAt": "2026-10-17T03:17:20+00:00",
       "tmdbId": 1561726,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
+      "overviewEn": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century."
     },
     {
       "title": "Buddy",
@@ -187,13 +190,14 @@
       "overviewEn": "Inside the colorful world of \"It's Buddy!\", a group of children spend their days singing, dancing, and helping Buddy - bright orange unicorn - spread happiness. But when one child refuses to play along, Buddy is not pleased and cracks begin to appear in this seemingly perfect world."
     },
     {
-      "title": "Ninja Wars: Blackfox Vs Shogun's Ninja",
+      "title": "Ninja Wars: BlackFox vs Shogun's Ninja",
       "originalTitle": "Ninja Wars: BlackFox vs Shogun's Ninja",
       "year": 2026,
       "overview": "Set in feudal Japan, the story follows Rikka Isurugi, a highly skilled ninja warrior who becomes entangled in a dangerous power struggle involving rival ninja clans and the ruling shogunate.",
       "addedAt": "2026-10-13T02:25:22+00:00",
       "tmdbId": 1593380,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/1lkVoZZiZ6LIKCEeCojblCf8eYP.jpg",
+      "overviewEn": "Rikka Isurugi (Chihiro Yamamoto), head of the Fox Clan, is investigating the \"White Lotus,\" a mysterious cult suspected of plotting a rebellion against the Shogunate. During her mission, she encounters Okyo (Kanon Miyahara), a Fuma Ninja dispatched by the Shogun. Their paths converge as they face a formidable common enemy: the Iga Ninja clan, led by Hattori Hanzo (Kane Kosugi), who harbors a deep vengeance against the Tokugawa family. A three-way conflict between the Fox Clan, Fuma Ninja, and Iga Ninja is about to begin."
     },
     {
       "title": "Babel",
@@ -222,7 +226,7 @@
       "overview": "",
       "addedAt": "2026-10-13T01:40:50+00:00",
       "tmdbId": 1580960,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/mQtchl1YUiH3v3D5uxYIV4TzTqu.jpg"
     },
     {
       "title": "Practical Magic 2",
@@ -263,13 +267,14 @@
       "overviewEn": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score."
     },
     {
-      "title": "Matchbox: The Movie",
+      "title": "Matchbox the Movie",
       "originalTitle": "",
       "year": 2026,
       "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
       "addedAt": "2026-10-09T19:06:43+00:00",
       "tmdbId": 1148365,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg",
+      "overviewEn": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world."
     },
     {
       "title": "Onslaught",
@@ -419,7 +424,8 @@
       "overview": "Leaving her island for the first time, young Moana embarks on an epic seafaring adventure to restore prosperity to her people. She is chosen by the ocean to return a stolen mystical heart to the goddess Te Fiti and stop a dark blight in world",
       "addedAt": "2026-09-08T00:41:47+00:00",
       "tmdbId": 1108427,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+      "overviewEn": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people."
     },
     {
       "title": "The Runner",
@@ -446,7 +452,8 @@
       "overview": "Lieutenant Troy Kelly takes part in a top secret surveillance mission over Soviet airspace. Things take a sharp turn, however, when he is forced to eject from his plane over the Russian wilderness. He is rescued by a paradoxical Russian native and the two begin to appreciate both their differences and commonalities.",
       "addedAt": "2026-09-06T17:10:41+00:00",
       "tmdbId": 1137844,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/sKIO6oO1GRCVt9Ag2iIBAdCjUj.jpg",
+      "overviewEn": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent."
     },
     {
       "title": "Enemy Mine",
@@ -531,7 +538,8 @@
       "overview": "In 1970s Detroit, John Miller falls for a local gangster's girl. In retaliation, the gangster enacts a frame job to send the innocent man to prison. Life ruined, Miller plots a revenge campaign against the man who took his girl away.",
       "addedAt": "2026-09-02T02:59:15+00:00",
       "tmdbId": 87513,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/rKws4iqKhrzWHVLHnwtMnCpEHhF.jpg",
+      "overviewEn": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away."
     },
     {
       "title": "Symbol",
@@ -569,7 +577,8 @@
       "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
       "addedAt": "2026-08-22T02:20:51+00:00",
       "tmdbId": 1288445,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/iYhvs0hLGtZZt6qDrUnuM0E1zGM.jpg",
+      "overviewEn": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy."
     },
     {
       "title": "Backrooms",
@@ -655,7 +664,8 @@
       "overview": "A family of four is suddenly sealed inside their house with no way out and must work together to survive against both their dwindling resources and the mysterious, looming threat that is keeping them trapped.",
       "addedAt": "2026-08-09T15:49:39+00:00",
       "tmdbId": 1284041,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/wVvLthGKtnBVq1Cov86h8iB1SeQ.jpg",
+      "overviewEn": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped."
     },
     {
       "title": "Soulm8te",
@@ -673,7 +683,8 @@
       "overview": "Two teenage boys must escape a violent entity that takes the form of the person they desire most - each other.",
       "addedAt": "2026-08-05T19:46:22+00:00",
       "tmdbId": 1564614,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg",
+      "overviewEn": "Two teenage boys must escape a violent entity that takes the form of the person they desire most:  each other."
     },
     {
       "title": "Lucky Strike",
@@ -682,7 +693,8 @@
       "overview": "A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit.",
       "addedAt": "2026-08-05T19:46:02+00:00",
       "tmdbId": 1594914,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/kzRAd7mj39ZY3FGNrDdZjqx56tn.jpg",
+      "overviewEn": "A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit."
     },
     {
       "title": "Evil Dead Burn",
@@ -776,7 +788,8 @@
       "overview": "Prince Adam discovers that the strange memories shaping his life are real when the lost Sword of Power resurfaces, forcing him to return to Eternia and challenge the tyrant who shattered his family and kingdom.",
       "addedAt": "2026-06-27T17:01:10+00:00",
       "tmdbId": 454639,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
+      "overviewEn": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe."
     },
     {
       "title": "The Sheep Detectives",
@@ -813,7 +826,8 @@
       "overview": "Anthology movie by, and starring, Michael Jackson in his prime, combining a number of music videos from his bestselling \"Bad\" album with a fantasy tale of Michael's confrontation with a ruthless drug dealer known as Mr. Big.",
       "addedAt": "2026-06-13T17:57:03+00:00",
       "tmdbId": 13192,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/3GwTPQkAcgDeAirRpEuJG8HDdRz.jpg",
+      "overviewEn": "This fantastical movie inspired by the music of Michael Jackson features imaginative interpretations of hit tracks from the iconic 1987 album “Bad”."
     },
     {
       "title": "Night Crossing",
@@ -822,7 +836,8 @@
       "overview": "True tale about two men planning to escape from communist East Germany in a hot air balloon, but only if they can take their families with them.",
       "addedAt": "2026-06-10T00:08:07+00:00",
       "tmdbId": 58995,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/t0m54hI5yUK5lFJENP4yMoyrFfi.jpg",
+      "overviewEn": "Two men want to escape from East Germany (under Communist rule) but they will only go if they can take their families with them. Based on a true story."
     },
     {
       "title": "Harriet",
@@ -850,7 +865,8 @@
       "overview": "The early life of musician Michael Jackson, from the discovery of his talent as the lead of the Jackson Five to the artist whose creative ambition fueled a pursuit to become the biggest entertainer in the world.",
       "addedAt": "2026-06-09T18:16:43+00:00",
       "tmdbId": 936075,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
+      "overviewEn": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career."
     },
     {
       "title": "In the Grey",
@@ -918,7 +934,8 @@
       "overview": "Preparing a comeback, the reunion of pop icon (Anne Hathaway) and legendary stylist she betrayed (Michaela Coel) spirals into supernatural reckoning, in this psychosexual pop thriller with music from Charli xcx, Jack Antonoff, and FKA Twigs.",
       "addedAt": "2026-05-24T04:23:16+00:00",
       "tmdbId": 1102883,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/uVcsN3yoHh7ZcJ6ecj1FJfv7dLa.jpg",
+      "overviewEn": "Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites with her estranged best friend and former costume designer Sam Anselm on the eve of her comeback performance."
     },
     {
       "title": "Thick as Thieves",
@@ -965,7 +982,8 @@
       "overview": "The fan favorite champions -- now joined by Johnny Cage himself -- are pitted against one another in the ultimate battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
       "addedAt": "2026-05-21T16:27:10+00:00",
       "tmdbId": 931285,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
+      "overviewEn": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders."
     },
     {
       "title": "Lee Cronin's The Mummy",
@@ -974,7 +992,8 @@
       "overview": "Eight years after her sudden disappearance in Egypt, a severely traumatized teenager is returned to her shattered family in New Mexico, triggering a visceral nightmare as they realize she is hosting an ancient, demonic parasite.",
       "addedAt": "2026-05-18T23:17:45+00:00",
       "tmdbId": 1304313,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/1q308iixueCU4pFtSYugNOevtNx.jpg",
+      "overviewEn": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare."
     },
     {
       "title": "The Punisher: One Last Kill",
@@ -992,7 +1011,8 @@
       "overview": "A modern family relocates to the countryside where the children discover a magical tree with eccentric residents. They're transported to fantastical lands, rekindling their family bond through adventures.",
       "addedAt": "2026-05-16T16:00:54+00:00",
       "tmdbId": 1140521,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/udXvLxC5gAqN8SinemyFBEcHpTf.jpg",
+      "overviewEn": "A modern family relocates to the countryside where the children discover a magical tree with eccentric residents. They're transported to fantastical lands, rekindling their family bond through adventures."
     },
     {
       "title": "Faces of Death",
@@ -1160,7 +1180,8 @@
       "overview": "The Yamadas are a typical middle class Japanese family in urban Tokyo and this film shows us a variety of episodes of their lives. With tales that range from the humourous to the heartbreaking, we see this family cope with life's little conflicts, problems and joys in their own way.",
       "addedAt": "2026-05-07T00:49:55+00:00",
       "tmdbId": 16198,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/nj0ijnOozQtu52r0ncut769G1FX.jpg",
+      "overviewEn": "The Yamadas are a typical middle class Japanese family in urban Tokyo and this film shows us a variety of episodes of their lives. With tales that range from the humorous to the heartbreaking, we see this family cope with life's little conflicts, problems, and joys in their own way."
     },
     {
       "title": "Pom Poko",
@@ -1236,7 +1257,8 @@
       "overview": "Along with her black cat Jiji, Kiki settles in a seaside town and starts a high-flying delivery service. Here begins her magical encounter with independence and responsibility, making lifelong friends and finding her place in the world.",
       "addedAt": "2026-05-07T00:09:13+00:00",
       "tmdbId": 16859,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/pN4iKcvpyxkhtyOKUKe2tTqEDYm.jpg",
+      "overviewEn": "A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service."
     },
     {
       "title": "My Neighbor Totoro",
@@ -1245,7 +1267,8 @@
       "overview": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her.",
       "addedAt": "2026-05-07T00:07:47+00:00",
       "tmdbId": 8392,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/eUMPY651rEudX6bIUOeQ1jqoe1R.jpg",
+      "overviewEn": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her."
     },
     {
       "title": "Grave of the Fireflies",
@@ -1274,7 +1297,8 @@
       "overview": "Chris Tucker is a small time con man who instantly becomes famous after a murder, wanted dead or alive, his only hope is a journalist named James Russell (Sheen).",
       "addedAt": "2026-05-06T23:43:41+00:00",
       "tmdbId": 9416,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/bN57Rl003E9pYred5kw9Rp8h9Np.jpg",
+      "overviewEn": "Sought by police and criminals, a small-time huckster makes a deal with a TV newsman for protection."
     },
     {
       "title": "The Drama",
@@ -1377,7 +1401,8 @@
       "overview": "On the same day, two men die hanging from a log a few steps away: Jesus on the cross, Judas on a tree. They are mirror images: one needs the other for destiny to be fulfilled. The facts narrated by the evangelists are told by Judas.",
       "addedAt": "2026-04-03T16:52:30+00:00",
       "tmdbId": 1354933,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/gTJkabR5hOSxiTyTXdskHHFauhr.jpg",
+      "overviewEn": "An innovative approach in retelling the tale of Judas Iscariot, known for his biblical betrayal of Jesus when he disclosed his whereabouts for 30 pieces of silver. About to die, Judas reflects on his life and his relationship with Jesus and the disciples."
     },
     {
       "title": "Crime 101",
@@ -1482,7 +1507,8 @@
       "overview": "Picking up after the events of Never Back Down 2, former MMA champion Case Walker is on the comeback trail to become champion once again.",
       "addedAt": "2026-03-06T23:02:19+00:00",
       "tmdbId": 391757,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/pHVswTDHAvq9Npi0XCZ0qVMSiM2.jpg",
+      "overviewEn": "Picking up after the events of Never Back Down 2, former MMA champion Case Walker is on the comeback trail to become champion once again."
     },
     {
       "title": "Hereditary",
@@ -1603,7 +1629,8 @@
       "overview": "Marty Mauser (Timothée Chalamet), a wily hustler with a dream no one respects, goes to hell and back in pursuit of greatness in this globe-spanning, full-throttle thrill ride from Josh Safdie (Uncut Gems).",
       "addedAt": "2026-02-21T02:38:49+00:00",
       "tmdbId": 1317288,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/b6ae1sqOtuRC7An1nmBJc2sECPK.jpg",
+      "overviewEn": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness."
     },
     {
       "title": "28 Years Later: The Bone Temple",
@@ -1699,7 +1726,8 @@
       "overview": "Growing up poor in Madras, India, Srinivasa Ramanujan Iyengar earns admittance to Cambridge University during WWI, where he becomes a pioneer in mathematical theories with the guidance of his professor, G.H. Hardy.",
       "addedAt": "2026-01-24T10:10:51+00:00",
       "tmdbId": 353326,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/v2X1BtkxaV8pzLbmM8a5gTdpg7B.jpg",
+      "overviewEn": "Growing up poor in Madras, India, Srinivasa Ramanujan Iyengar earns admittance to Cambridge University during WWI, where he becomes a pioneer in mathematical theories with the guidance of his professor, G.H. Hardy."
     },
     {
       "title": "Left Behind",
@@ -1708,7 +1736,8 @@
       "overview": "\"Left Behind\" finds commercial airline pilot Ray Steele (Nicholas Cage) struggling to keep his passengers calm and his plane afloat after the Biblical Rapture strikes mid-flight. Meanwhile, GWN reporter Cameron \"Buck\" Williams (Chad Michael Murray) becomes Ray's reluctant co-pilot, and Ray's terrified daughter Chloe (Cassi Thomson) braves the chaos of the city streets in search of her brother and mother.",
       "addedAt": "2026-01-11T23:29:47+00:00",
       "tmdbId": 218043,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/b9Q2WR62yB5Aq0hd6kyRFS9cc3Y.jpg",
+      "overviewEn": "A small group of survivors are left behind after millions of people suddenly vanish during the rapture and the world is plunged into chaos and destruction."
     },
     {
       "title": "Predator: Badlands",
@@ -1879,7 +1908,8 @@
       "overview": "Set in the high-stakes world of the financial industry, involving the key players at an investment firm during one perilous 24-hour period in the early stages of the 2008 financial crisis. An entry-level analyst unlocks information that could prove to be the downfall of the firm.",
       "addedAt": "2025-11-25T02:13:12+00:00",
       "tmdbId": 50839,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/xNXYXJ3XNC9o5wxDF2ImZ9b2es.jpg",
+      "overviewEn": "Set in the high-stakes world of the financial industry, involving the key players at an investment firm during one perilous 24-hour period in the early stages of the 2008 financial crisis. An entry-level analyst unlocks information that could prove to be the downfall of the firm."
     },
     {
       "title": "Altered",
@@ -2015,7 +2045,8 @@
       "overview": "Valentín, a political prisoner, shares a cell with Molina, a window dresser convicted of public indecency. The two form an unlikely bond as Molina recounts the plot of a Hollywood musical starring his favorite silver screen diva, Ingrid Luna.",
       "addedAt": "2025-11-13T00:10:54+00:00",
       "tmdbId": 1214684,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/c8zDeDq0Uatjly6Fh4ycmWuoLYy.jpg",
+      "overviewEn": "Valentín, a political prisoner, shares a cell with Molina, a window dresser convicted of public indecency. The two form an unlikely bond as Molina recounts the plot of a Hollywood musical starring his favorite silver screen diva, Ingrid Luna."
     },
     {
       "title": "Little Fockers",
@@ -2024,7 +2055,8 @@
       "overview": "It has taken 10 years, two little Fockers with wife Pam and countless hurdles for Greg to finally get in with his tightly wound father-in-law, Jack. After the cash-strapped dad takes a job moonlighting for a drug company, Jack's suspicions about his favorite male nurse come roaring back. When Greg and Pam's entire clan descends for the twins' birthday party, Greg must prove to the skeptical Jack that he's fully capable as the man of the house.",
       "addedAt": "2025-11-10T16:49:47+00:00",
       "tmdbId": 39451,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/90mwPRNMmX9RUGVgKMJMJNQnYX8.jpg",
+      "overviewEn": "It has taken 10 years, two little Fockers with wife Pam and countless hurdles for Greg to finally get in with his tightly wound father-in-law, Jack. After the cash-strapped dad takes a job moonlighting for a drug company, Jack's suspicions about his favorite male nurse come roaring back. When Greg and Pam's entire clan descends for the twins' birthday party, Greg must prove to the skeptical Jack that he's fully capable as the man of the house."
     },
     {
       "title": "The Ballad of Buster Scruggs",
@@ -2063,7 +2095,8 @@
       "overview": "Hard-to-crack ex-CIA man Jack Byrnes and his wife Dina head for the warmer climes of Florida to meet the parents of their son-in-law-to-be, Greg Focker. Unlike their happily matched offspring, the future in-laws find themselves in a situation of opposites that definitely do not attract.",
       "addedAt": "2025-11-09T18:09:23+00:00",
       "tmdbId": 693,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/59fXm6N2x7QSbvt6BaBxTNBXGL8.jpg",
+      "overviewEn": "Hard-to-crack ex-CIA man Jack Byrnes and his wife Dina head for the warmer climes of Florida to meet the parents of their son-in-law-to-be, Greg Focker. Unlike their happily matched offspring, the future in-laws find themselves in a situation of opposites that definitely do not attract."
     },
     {
       "title": "Meet the Parents",
@@ -2072,7 +2105,8 @@
       "overview": "Greg Focker is ready to marry his girlfriend, Pam, but before he pops the question, he must win over her formidable father, humorless former CIA agent Jack Byrnes, at the wedding of Pam's sister. As Greg bends over backward to make a good impression, his visit to the Byrnes home turns into a hilarious series of disasters, and everything that can go wrong does, all under Jack's critical, hawklike gaze.",
       "addedAt": "2025-11-09T18:07:59+00:00",
       "tmdbId": 1597,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/gTDNSpzSuZuwoXiEGpCigzKyO5I.jpg",
+      "overviewEn": "Greg Focker is ready to marry his girlfriend, Pam, but before he pops the question, he must win over her formidable father, humorless former CIA agent Jack Byrnes, at the wedding of Pam's sister. As Greg bends over backward to make a good impression, his visit to the Byrnes home turns into a hilarious series of disasters, and everything that can go wrong does, all under Jack's critical, hawklike gaze."
     },
     {
       "title": "Frankenstein",
@@ -2130,7 +2164,8 @@
       "overview": "The lives of two lovelorn spouses from separate marriages, a registered sex offender, and a disgraced ex-police officer intersect as they struggle to resist their vulnerabilities and temptations in suburban Massachusetts.",
       "addedAt": "2025-10-25T04:17:21+00:00",
       "tmdbId": 1440,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/so9xla7b7WfFiarDwOukhQpRuyd.jpg",
+      "overviewEn": "The lives of two lovelorn spouses from separate marriages, a registered sex offender, and a disgraced ex-police officer intersect as they struggle to resist their vulnerabilities and temptations."
     },
     {
       "title": "The Long Walk",
@@ -2139,7 +2174,8 @@
       "overview": "From the highly anticipated adaptation of master storyteller Stephen King's first-written novel, and Francis Lawrence, the visionary director of The Hunger Games franchise films, comes THE LONG WALK, an intense, chilling, and emotional thriller that challenges audiences to confront a haunting question: how far could you go?",
       "addedAt": "2025-10-25T01:57:09+00:00",
       "tmdbId": 604079,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/wobVTa99eW0ht6c1rNNzLkazPtR.jpg",
+      "overviewEn": "In a dystopian America, fifty teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains."
     },
     {
       "title": "Good Boy",
@@ -2158,7 +2194,8 @@
       "overview": "Sophia and Luke make an unexpected and fateful connection with Ira, a 90-year-old man, when they save him from a car crash. Ira's memories of his own decades-long romance with his beloved wife deeply inspire the young couple.",
       "addedAt": "2025-10-18T02:45:34+00:00",
       "tmdbId": 228205,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/qdUVfvPBvT6cetDDM7rn8y2CNZE.jpg",
+      "overviewEn": "The lives of a young couple intertwine with a much older man as he reflects back on a lost love while he's trapped in an automobile crash."
     },
     {
       "title": "The Crush",
@@ -2214,7 +2251,8 @@
       "overview": "It has been twenty years since Don Diego de la Vega fought Spanish oppression in Alta California as the legendary romantic hero, Zorro. Having escaped from prison he transforms troubled bandit Alejandro into his successor, in order to foil the plans of the tyrannical Don Rafael Montero who robbed him of his freedom, his wife and his precious daughter.",
       "addedAt": "2025-10-13T17:23:21+00:00",
       "tmdbId": 9342,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/8ZpFaSjAEfr6ArJUS7jOVvg6eZa.jpg",
+      "overviewEn": "It has been twenty years since Don Diego de la Vega fought Spanish oppression in Alta California as the legendary romantic hero, Zorro. Having escaped from prison he transforms troubled bandit Alejandro into his successor, in order to foil the plans of the tyrannical Don Rafael Montero who robbed him of his freedom, his wife and his precious daughter."
     },
     {
       "title": "Zorro",
@@ -2232,7 +2270,8 @@
       "overview": "Despite trying to keep his swashbuckling to a minimum, a threat to California's pending statehood causes the adventure-loving Don Alejandro de la Vega and his wife, Elena, to take action.",
       "addedAt": "2025-10-13T17:21:07+00:00",
       "tmdbId": 1656,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/93iEBX1QbsxAv8eSybe8lhLXY1A.jpg",
+      "overviewEn": "Despite trying to keep his swashbuckling to a minimum, a threat to California's pending statehood causes the adventure-loving Don Alejandro de la Vega and his wife, Elena, to take action."
     },
     {
       "title": "Coming Soon",
@@ -2299,7 +2338,8 @@
       "overview": "An American veteran and a Serbian veteran of the Bosnian War find their friendship fractured when one of them reveals his true intentions inciting a personal war between the two in a remote wilderness.",
       "addedAt": "2025-10-06T19:10:13+00:00",
       "tmdbId": 77663,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/o55HXx21PqRcOgAaOWFz4tGMrZh.jpg",
+      "overviewEn": "Two veterans of the Bosnian War, one American, one Serbian, clash in the remote Smoky Mountain wilderness."
     },
     {
       "title": "The Conjuring: Last Rites",
@@ -2356,7 +2396,8 @@
       "overview": "During the 2018 Camp Fire in Paradise California, the deadliest wildfire in the state's history, 22 elementary school kids are stranded at their school as their families are unable to get them before the fires spread. Now one school bus driver must attempt to drive the kids and a teacher to safety as the wildfire rages around them. Loosely based on a true story.",
       "addedAt": "2025-10-04T19:40:19+00:00",
       "tmdbId": 1236470,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/4IPxzGlE17fJAwUTMul4opMeutA.jpg",
+      "overviewEn": "A determined father risks everything to rescue a dedicated teacher and her students from a raging wildfire."
     },
     {
       "title": "McFarland, USA",
@@ -2365,7 +2406,8 @@
       "overview": "A struggling coach and teacher who has had to move around for different incidents in his career finally comes to one of the poorest cities in America: McFarland, California. There he discovers buried potential in several high school boys and slowly turns them into championship runners and brings them closer than even he could ever imagine.",
       "addedAt": "2025-10-01T21:39:34+00:00",
       "tmdbId": 228203,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/yyhniD8A7Mv6SOn8oo1Ba2K0mKc.jpg",
+      "overviewEn": "A track coach in a small California town transforms a team of athletes into championship contenders."
     },
     {
       "title": "Primitive War",
@@ -2412,7 +2454,8 @@
       "overview": "When a hitman is diagnosed with a terminal illness, he decides to take a hit out on himself. But when the very hitmen he hired also target his ex-girlfriend, he must fend off an army of assassin colleagues.",
       "addedAt": "2025-09-28T16:27:50+00:00",
       "tmdbId": 507241,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/4bKlTeOUr5AKrLky8mwWvlQqyVd.jpg",
+      "overviewEn": "When top hitman Joe Flood is diagnosed with a terminal illness, he decides to take matters into his own hands – by taking a hit out on himself. But when the very hitmen he hired also target his ex-girlfriend, he must fend off an army of assassin colleagues and win back the love of his life before it's too late."
     },
     {
       "title": "Green Book",
@@ -2460,7 +2503,8 @@
       "overview": "Nick Bianco sets out to reunite with the love of his life after serving a year in jail for assault, only to discover that she has a new admirer named Chester who also happens to be his parole officer.",
       "addedAt": "2025-09-17T23:33:42+00:00",
       "tmdbId": 1257778,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/vXtJKt9vJTyMclwCsNKPMD8JC63.jpg",
+      "overviewEn": "Nick Bianco sets out to reunite with the love of his life after serving a year in jail for assault, only to discover that she has a new admirer named Chester... who also happens to be his parole officer."
     },
     {
       "title": "The Silence",
@@ -2573,7 +2617,8 @@
       "overview": "Follows Ana and Tono, two Spanish siblings who receive the surprising news that their father is marrying a woman he met online, so they travel to Mexico to attend the wedding, but what they find is not what they expected.",
       "addedAt": "2025-09-08T03:01:01+00:00",
       "tmdbId": 809363,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/6yrgAKpM4IdYpBMJxdnIcUVm0Cp.jpg",
+      "overviewEn": "Ana, a young Spanish woman who has just been dumped by her boyfriend, and her brother Tono, receive a call from their father to tell him that he is getting married in Mexico to a woman he met on the Internet. When they get there, they discover that the girl is 30 years younger than her father and they begin to live with her new in-laws, with the inevitable cultural clashes that this will entail."
     },
     {
       "title": "Highest 2 Lowest",
@@ -2622,7 +2667,8 @@
       "overview": "Only one man has the particular set of skills... to lead Police Squad and save the world: Lt. Frank Drebin Jr. Following in his father's footsteps, he must solve a murder case to prevent Police Squad from closure.",
       "addedAt": "2025-09-02T15:20:04+00:00",
       "tmdbId": 1035259,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/rmwQ8GsdQ1M3LtemNWLErle2nBU.jpg",
+      "overviewEn": "Only one man has the particular set of skills... to lead Police Squad and save the world: Lt. Frank Drebin Jr. Following in his father's footsteps, he must solve a murder case to prevent Police Squad from closure."
     },
     {
       "title": "Nobody 2",
@@ -2669,7 +2715,8 @@
       "overview": "A widow investigates an insurance fraud, chasing leads to a pair of Panama City law partners exploiting the world's financial system.",
       "addedAt": "2025-08-31T01:46:42+00:00",
       "tmdbId": 517909,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/hwNMJgbiUUvPCxsnADjbV9ysM5j.jpg",
+      "overviewEn": "When a widow gets swindled out of insurance money, her search for answers leads to two cunning lawyers in Panama who hide cash for the superrich."
     },
     {
       "title": "U.S. Marshals",
@@ -2715,7 +2762,8 @@
       "overview": "Twenty-two years after the original Jurassic Park failed, the new park, also known as Jurassic World, is open for business. After years of studying genetics, the scientists on the park genetically engineer a new breed of dinosaur, the Indominus rex. When everything goes horribly wrong, will our heroes make it off the island?",
       "addedAt": "2025-08-24T23:39:05+00:00",
       "tmdbId": 135397,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
+      "overviewEn": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond."
     },
     {
       "title": "Something the Lord Made",
@@ -2763,7 +2811,8 @@
       "overview": "Hunt and the IMF pursue a dangerous AI called the Entity that's infiltrated global intelligence. With governments and a figure from his past in pursuit, Hunt races to stop it from forever changing the world.",
       "addedAt": "2025-08-18T02:11:08+00:00",
       "tmdbId": 575265,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/iKPsC9EFUafRP9SrUznI61getVP.jpg",
+      "overviewEn": "Ethan Hunt and team continue their search for the terrifying AI known as the Entity — which has infiltrated intelligence networks all over the globe — with the world's governments and a mysterious ghost from Hunt's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever."
     },
     {
       "title": "The Fourth Kind",
@@ -2822,13 +2871,14 @@
       "poster": ""
     },
     {
-      "title": "Jurassic World: Rebirth",
+      "title": "Jurassic World Rebirth",
       "originalTitle": "",
       "year": 2025,
       "overview": "Five years post-Jurassic World: Dominion (2022), an expedition braves isolated equatorial regions to extract DNA from three massive prehistoric creatures for a groundbreaking medical breakthrough.",
       "addedAt": "2025-08-05T06:13:49+00:00",
       "tmdbId": 1234821,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
+      "overviewEn": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades."
     },
     {
       "title": "War of the Worlds",
@@ -2875,7 +2925,8 @@
       "overview": "A lonely Hawaiian girl befriends a runaway alien, helping to mend her fragmented family.",
       "addedAt": "2025-07-21T21:07:44+00:00",
       "tmdbId": 552524,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/c32TsWLES7kL1uy6fF03V67AIYX.jpg",
+      "overviewEn": "The wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family."
     },
     {
       "title": "At Eternity's Gate",
@@ -2904,7 +2955,8 @@
       "overview": "Two years after M3GAN's rampage, her creator, Gemma, resorts to resurrecting her infamous creation in order to take down Amelia, the military-grade weapon who was built by a defense contractor who stole M3GAN's underlying tech.",
       "addedAt": "2025-07-15T19:04:06+00:00",
       "tmdbId": 1071585,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/oekamLQrwlJjRNmfaBE4llIvkir.jpg",
+      "overviewEn": "After the underlying tech for M3GAN is stolen and misused by a powerful defense contractor to create a military-grade weapon known as Amelia, M3GAN's creator Gemma realizes that the only option is to resurrect M3GAN and give her a few upgrades, making her faster, stronger, and more lethal."
     },
     {
       "title": "Karate Kid: Legends",
@@ -2913,7 +2965,8 @@
       "overview": "After kung fu prodigy Li Fong relocates to New York City, he attracts unwanted attention from a local karate champion and embarks on a journey to enter the ultimate karate competition with the help of Mr. Han and Daniel LaRusso.",
       "addedAt": "2025-07-08T23:53:04+00:00",
       "tmdbId": 1011477,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/c90Lt7OQGsOmhv6x4JoFdoHzw5l.jpg",
+      "overviewEn": "After a family tragedy, kung fu prodigy Li Fong is uprooted from his home in Beijing and forced to move to New York City with his mother. When a new friend needs his help, Li enters a karate competition – but his skills alone aren't enough. Li's kung fu teacher Mr. Han enlists original Karate Kid Daniel LaRusso for help, and Li learns a new way to fight, merging their two styles into one for the ultimate martial arts showdown."
     },
     {
       "title": "Self/less",
@@ -2960,7 +3013,8 @@
       "overview": "A bittersweet memoir of a melancholic woman called Grace Pudel - a hoarder of snails, romance novels, and guinea pigs.",
       "addedAt": "2025-07-05T03:37:24+00:00",
       "tmdbId": 1064486,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/57AgZv1ITeBLShiNdchZ5153evs.jpg",
+      "overviewEn": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life."
     },
     {
       "title": "A Working Man",
@@ -3188,7 +3242,8 @@
       "overview": "Four misfits are suddenly pulled through a mysterious portal into a bizarre cubic wonderland that thrives on imagination. To get back home they'll have to master this world while embarking on a quest with an unexpected expert crafter.",
       "addedAt": "2025-05-14T16:20:39+00:00",
       "tmdbId": 950387,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+      "overviewEn": "Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve."
     },
     {
       "title": "Warfare",
@@ -3200,13 +3255,14 @@
       "poster": ""
     },
     {
-      "title": "The McPherson Tape",
+      "title": "UFO Abduction",
       "originalTitle": "U.F.O. Abduction",
       "year": 1989,
       "overview": "On a typical fall evening in 1983, a young man was videotaping his niece's 5th birthday party. As the night's strange occurrences took place, he kept his video camera running, recording the entire event.",
       "addedAt": "2025-05-05T02:46:00+00:00",
       "tmdbId": 204611,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/7HT0pnqdIejrjciSnYDvVGL4rXB.jpg",
+      "overviewEn": "On October 8th, 1983, the Van Heese family gathered together to celebrate the 5th birthday of Michelle, the littlest member of their household. Everything was captured on VHS by Michael McPherson and his new camcorder — including the alien invasion."
     },
     {
       "title": "Hangar 10",
@@ -3225,7 +3281,8 @@
       "overview": "A rookie police officer willingly takes the last shift at a newly decommissioned police station in an attempt to uncover the mysterious connection between her father's death and a vicious cult.",
       "addedAt": "2025-05-05T01:10:45+00:00",
       "tmdbId": 1094403,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/m1rcLLs0KmS8Cg60sLoMZC2OyDR.jpg",
+      "overviewEn": "A rookie police officer willingly takes the last shift at a newly decommissioned police station in an attempt to uncover the mysterious connection between her father's death and a vicious cult."
     },
     {
       "title": "Last Shift",
@@ -3234,7 +3291,8 @@
       "overview": "Rookie police officer Jessica Loren has been assigned the last shift at a closing police station and must wait for a hazmat crew to collect biomedical evidence. Ordered not to leave the station under any circumstances, Jessica comes to learn that it's more than just an outdated station, it's home to the ultimate embodiment of evil and his devoted bloodthirsty followers. Jessica is left to fend for herself in the Devil's playground.",
       "addedAt": "2025-05-05T01:00:46+00:00",
       "tmdbId": 296065,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/oSTFMqFpVB4yq9SOIxBp8xZ9jh5.jpg",
+      "overviewEn": "Rookie police officer Jessica Loren has been assigned the last shift at a closing police station and must wait for a hazmat crew to collect biomedical evidence. Ordered not to leave the station under any circumstances, Jessica comes to learn that it's more than just an outdated station, it's home to the ultimate embodiment of evil and his devoted bloodthirsty followers. Jessica is left to fend for herself in the Devil's playground."
     },
     {
       "title": "Red Rooms",
@@ -3362,7 +3420,8 @@
       "overview": "During a human expedition to colonize space, Mickey 17, a so-called \"expendable\" employee, is sent to explore an ice planet.",
       "addedAt": "2025-04-09T01:47:21+00:00",
       "tmdbId": 696506,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/lrCcovGRcuv8Z1v3ae1ZH5Ird05.jpg",
+      "overviewEn": "Unlikely hero Mickey Barnes finds himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job… to die, for a living."
     },
     {
       "title": "Novocaine",
@@ -3390,7 +3449,8 @@
       "overview": "When twin brothers Bill and Hal find their father's old monkey toy in the attic, a series of gruesome deaths start. The siblings decide to throw the toy away and move on with their lives, growing apart over the years.",
       "addedAt": "2025-04-02T06:08:48+00:00",
       "tmdbId": 1124620,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/aGDekyIb0yfmnuLZciCozRPk2TE.jpg",
+      "overviewEn": "When twin brothers find a mysterious wind-up monkey, a series of outrageous deaths tear their family apart. Twenty-five years later, the monkey begins a new killing spree forcing the estranged brothers to confront the cursed toy."
     },
     {
       "title": "Constantine",
@@ -3409,7 +3469,8 @@
       "overview": "In the days leading up to his death, Jesus gathers his disciples for the Last Supper. Amidst words of love and farewell, while faith is strengthened, the shadow of betrayal hangs over, but not even pain can erase the promise of redemption.",
       "addedAt": "2025-04-02T06:05:11+00:00",
       "tmdbId": 1380415,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/fulEdvN5u6mIpwig7HcBnYpkJEQ.jpg",
+      "overviewEn": "In the days leading to betrayal, a gathering of disciples unravels into a web of secrets and hidden motives. As tensions simmer beneath the surface, trust is tested, and loyalty is questioned. The Last Supper becomes a night where nothing is as it seems, and every glance hides a deeper truth."
     },
     {
       "title": "Better Man",
@@ -3496,7 +3557,8 @@
       "overview": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
       "addedAt": "2025-02-19T02:51:11+00:00",
       "tmdbId": 762509,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg",
+      "overviewEn": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny."
     },
     {
       "title": "Final Girl",
@@ -3552,7 +3614,8 @@
       "overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
       "addedAt": "2025-01-28T17:28:10+00:00",
       "tmdbId": 1241982,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+      "overviewEn": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced."
     },
     {
       "title": "Crimson Peak",
@@ -3621,7 +3684,8 @@
       "overview": "Two lighthouse keepers (Robert Pattinson and Willem Dafoe) fight each other for survival and sanity on a remote and mysterious New England island in the 1890s. From Robert Eggers, the visionary filmmaker behind horror masterpiece The Witch.",
       "addedAt": "2025-01-22T20:09:35+00:00",
       "tmdbId": 503919,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/yAKNmpcUweGH6WMCEWenwU9PsbE.jpg",
+      "overviewEn": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s."
     },
     {
       "title": "Nosferatu",
@@ -3639,7 +3703,8 @@
       "overview": "Kraven's complex relationship with his ruthless father, Nikolai Kravinoff, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared.",
       "addedAt": "2025-01-14T18:50:45+00:00",
       "tmdbId": 539972,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/1GvBhRxY6MELDfxFrete6BNhBB5.jpg",
+      "overviewEn": "Kraven Kravinoff's complex relationship with his ruthless gangster father, Nikolai, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared."
     },
     {
       "title": "Flow",
@@ -3658,7 +3723,8 @@
       "overview": "After crash-landing on an alien planet, an asteroid miner must contend with the challenges of his new surroundings, while making his way across the harsh terrain to the only other survivor – a woman who is trapped in her escape pod.",
       "addedAt": "2025-01-14T18:49:02+00:00",
       "tmdbId": 605722,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/m5NKltgQqqyoWJNuK18IqEGRG7J.jpg",
+      "overviewEn": "After crash-landing on an alien planet, an asteroid miner must contend with the challenges of his new surroundings, while making his way across the harsh terrain to the only other survivor – a woman who is trapped in her escape pod."
     },
     {
       "title": "Get Away",
@@ -3734,7 +3800,8 @@
       "overview": "A sudden attack by Wulf, a clever and traitorous lord of Rohan seeking vengeance for the death of his father, forces Helm Hammerhand, the King of Rohan, and his people to make a daring last stand in the ancient stronghold of the Hornburg.",
       "addedAt": "2024-12-27T20:57:03+00:00",
       "tmdbId": 839033,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/23WCoDo6wzBfzbX7BGTNwVUqZfi.jpg",
+      "overviewEn": "A sudden attack by Wulf, a clever and traitorous lord of Rohan seeking vengeance for the death of his father, forces Helm Hammerhand, the King of Rohan, and his people to make a daring last stand in the ancient stronghold of the Hornburg."
     },
     {
       "title": "Heretic",
@@ -3772,7 +3839,8 @@
       "overview": "In coming-of-age story Mary, the title character is shunned following the otherworldly conception of her child and forced into hiding. King Herod's relentless drive to maintain power at any cost ignites the murderous pursuit of the newborn child that he believes is a threat to his reign on the throne. The film sees the young Mary and Joseph on the run and having to hide their baby, Jesus.",
       "addedAt": "2024-12-14T21:09:22+00:00",
       "tmdbId": 1243381,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/wpApuf1xky92ug8n5mP5aP7DiDy.jpg",
+      "overviewEn": "A miraculous conception. A merciless king. A murderous pursuit. Mary's journey to give birth to Jesus unfolds in this biblical coming-of-age epic."
     },
     {
       "title": "Venom: The Last Dance",
@@ -3839,7 +3907,8 @@
       "overview": "Two childhood friends — a New York hairstylist and a wanna-be musician — get mixed-up with the mob and are forced to deliver $50,000 to Australia, but things go all wrong when the money is lost to a wild kangaroo.",
       "addedAt": "2024-12-03T00:39:46+00:00",
       "tmdbId": 10628,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/3sphb3Bm8PZ5nqLaQ4u4yv2sSyx.jpg",
+      "overviewEn": "Two childhood friends — a New York hairstylist and a wanna-be musician — get mixed-up with the mob and are forced to deliver $50,000 to Australia, but things go all wrong when the money is lost to a wild kangaroo."
     },
     {
       "title": "Legally Blonde 2: Red, White & Blonde",
@@ -3848,7 +3917,8 @@
       "overview": "Sassy postgrad Elle Woods (Reese Witherspoon) is all about animal rights. In fact, she puts her nuptial plans on hold to head to Washington, D.C. to get an anti-animal testing bill passed. Her building's doorman quickly shows her the ways and workings of our nation's capital.",
       "addedAt": "2024-12-01T05:49:20+00:00",
       "tmdbId": 10327,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/4kC0UGTuJgFnlZq2ZM6OiY7nuY8.jpg",
+      "overviewEn": "Now a rising young lawyer, Elle Woods is about to make partner at her firm, but when she finds out her dog's relatives are being used as cosmetic test subjects, she heads to Washington D.C. to fight for animal rights."
     },
     {
       "title": "Legally Blonde",
@@ -3857,7 +3927,8 @@
       "overview": "Fashionable sorority queen Elle Woods has it all, but, she wants nothing more than to be Mrs. Warner Huntington III. But he dumps her before heading to Harvard Law School. Elle rallies all of her resources and gets into Harvard, determined to win him back. While there, she figures out that there is more to herself than just good looks.",
       "addedAt": "2024-12-01T05:48:21+00:00",
       "tmdbId": 8835,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/9ohlMrJHQqKhfUKh7Zr3JQqHNLZ.jpg",
+      "overviewEn": "Fashionable sorority queen Elle Woods has it all, but, she wants nothing more than to be Mrs. Warner Huntington III. But he dumps her before heading to Harvard Law School. Elle rallies all of her resources and gets into Harvard, determined to win him back. While there, she figures out that there is more to herself than just good looks."
     },
     {
       "title": "El Mariachi",
@@ -3866,7 +3937,8 @@
       "overview": "El Mariachi just wants to play his guitar and carry on the family tradition. Unfortunately, the town he tries to find work in has another visitor...a killer who carries his guns in a guitar case. The drug lord and his henchmen mistake El Mariachi for the killer, Azul, and chase him around town trying to kill him and get his guitar case.",
       "addedAt": "2024-11-30T01:07:38+00:00",
       "tmdbId": 9367,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/zRh7K4SV1xQ419m8gzGITak51vc.jpg",
+      "overviewEn": "El Mariachi just wants to play his guitar and carry on the family tradition. Unfortunately, the town he tries to find work in has another visitor, a killer who carries his guns in a guitar case. The drug lord and his henchmen mistake el Mariachi for the killer, Azul, and chase him around town trying to kill him and get his guitar case."
     },
     {
       "title": "Desperado",
@@ -3950,7 +4022,8 @@
       "overview": "The city of New Rome faces the duel between Cesar Catilina, a brilliant artist in favor of a Utopian future, and the greedy mayor Franklyn Cicero. Between them is Julia Cicero, with her loyalty divided between her father and her beloved.",
       "addedAt": "2024-11-15T02:26:58+00:00",
       "tmdbId": 592831,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/doVWgLdNyK36nEyyZgVsEWFCO1e.jpg",
+      "overviewEn": "In a futuristic New York known as New Rome, visionary architect Cesar Catilina dreams of building \"Megalopolis,\" a utopian city that redefines society’s limits. Opposing him is the corrupt Mayor Franklyn Cicero, who clings to power and profit. Between them stands Julia, the mayor’s daughter, whose love for Cesar forces her to choose between loyalty, ambition, and the fate of humanity."
     },
     {
       "title": "Texas Chainsaw",
@@ -3987,7 +4060,8 @@
       "overview": "Arthur Fleck, now incarcerated at Arkham State Hospital, who encounters Harleen Quinzel, a fellow patient who becomes dangerously obsessed with his Joker persona. Their shared psychosis fuels a destructive and increasingly chaotic relationship, blurring the lines between reality and fantasy. The film delves deeper into Arthur's mental state, exploring the complexities of his condition and the enduring power of his iconic villainous persona.",
       "addedAt": "2024-10-30T19:49:10+00:00",
       "tmdbId": 889737,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/if8QiqCI7WAGImKcJCfzp6VTyKA.jpg",
+      "overviewEn": "While struggling with his dual identity, Arthur Fleck not only stumbles upon true love, but also finds the music that's always been inside him."
     },
     {
       "title": "Don't Move",
@@ -4232,13 +4306,14 @@
       "overviewEn": "After their late former Captain is framed, Lowrey and Burnett try to clear his name, only to end up on the run themselves."
     },
     {
-      "title": "Kill",
+      "title": "KILL",
       "originalTitle": "KILL",
       "year": 2024,
       "overview": "When an army commando finds out his true love is engaged against her will, he boards a New Dehli-bound train in a daring quest to derail the arranged marriage. But when a gang of knife-wielding thieves begin to terrorize innocent passengers on his train, the commando takes them on, one by one.",
       "addedAt": "2024-07-29T01:39:25+00:00",
       "tmdbId": 1160018,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/m2zXTuNPkywdYLyWlVyJZW2QOJH.jpg",
+      "overviewEn": "When an army commando finds out his true love is engaged against her will, he boards a New Dehli-bound train in a daring quest to derail the arranged marriage. But when a gang of knife-wielding thieves begin to terrorize innocent passengers on his train, the commando takes them on, one by one."
     },
     {
       "title": "A Quiet Place: Day One",
@@ -4265,7 +4340,8 @@
       "overview": "Set in Canton, China in the 1940s, the story revolves in a town ruled by the Axe Gang, Sing who desperately wants to become a member. He stumbles into a slum ruled by eccentric landlords who turns out to be the greatest kung-fu masters in disguise. Sing's actions eventually cause the Axe Gang and the slumlords to engage in an explosive kung-fu battle. Only one side will win and only one hero will emerge as the greatest kung-fu master of all.",
       "addedAt": "2024-07-28T04:01:19+00:00",
       "tmdbId": 9470,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg",
+      "overviewEn": "It's the 1940s, and the notorious Axe Gang terrorizes Shanghai. Small-time criminals Sing and Bone hope to join, but they only manage to make lots of very dangerous enemies. Fortunately for them, kung fu masters and hidden strength can be found in unlikely places. Now they just have to take on the entire Axe Gang."
     },
     {
       "title": "Kingdom of the Planet of the Apes",
@@ -4274,7 +4350,8 @@
       "overview": "Many years after the reign of Caesar, a young ape goes on a journey that will lead him to question everything he's been taught about the past and make choices that will define a future for apes and humans alike.",
       "addedAt": "2024-07-10T00:45:29+00:00",
       "tmdbId": 653346,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/pCJQjQlU4W0OtbLemyRoDF9SeSy.jpg",
+      "overviewEn": "Several generations following Caesar's reign, apes – now the dominant species – live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all he's known about the past and to make choices that will define a future for apes and humans alike."
     },
     {
       "title": "Risen",
@@ -4409,7 +4486,8 @@
       "overview": "Billed as a true story about a secret British World War II organization; the Special Operations Executive. Founded by Winston Churchill, their irregular warfare against the Germans helped to change the course of the war, and gave birth to modern black operations.",
       "addedAt": "2024-05-15T21:14:44+00:00",
       "tmdbId": 799583,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/avbU7Msx1O7387Lnh4N81Bq4gfC.jpg",
+      "overviewEn": "During World War II, the British Army assigns a group of competent soldiers to carry out a mission against the Nazi forces behind enemy lines... A true story about a secret British WWII organization — the Special Operations Executive. Founded by Winston Churchill, their irregular warfare against the Germans helped to change the course of the war, and gave birth to modern black operations."
     },
     {
       "title": "Godzilla x Kong: The New Empire",
@@ -4428,7 +4506,8 @@
       "overview": "After Po is tapped to become the Spiritual Leader of the Valley of Peace, he needs to find and train a new Dragon Warrior, while a wicked sorceress plans to re-summon all the master villains whom Po has vanquished to the spirit realm.",
       "addedAt": "2024-04-22T02:11:10+00:00",
       "tmdbId": 1011985,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/nqXsAaQsKw2gKpkfhIgjXNDRqg7.jpg",
+      "overviewEn": "Po is gearing up to become the spiritual leader of his Valley of Peace, but also needs someone to take his place as Dragon Warrior. As such, he will train a new kung fu practitioner for the spot and will encounter a villain called the Chameleon who conjures villains from the past."
     },
     {
       "title": "Rebel Moon - Part Two: The Scargiver",
@@ -4474,7 +4553,8 @@
       "overview": "October 31, 1977. Johnny Carson rival Jack Delroy hosts a syndicated talk show 'Night Owls' that has long been a trusted companion to insomniacs around the country. A year after the tragic death of Jack's wife, ratings have plummeted. Desperate to turn his fortunes around, Jack plans a Halloween special like no other, unaware he is about to unleash evil into the living rooms of America.",
       "addedAt": "2024-04-19T05:27:28+00:00",
       "tmdbId": 938614,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/mu8LRWT9GHkfiyHm7kgxT6YNvMW.jpg",
+      "overviewEn": "A live broadcast of a late-night talk show in 1977 goes horribly wrong, unleashing evil into the nation's living rooms."
     },
     {
       "title": "Dark Encounter",
@@ -4522,7 +4602,8 @@
       "overview": "Cassandra Webb gains the ability to glimpse into what lies ahead. Confronted with shocking truths from her own history, she forms connections with three individual women, each on the brink of realizing their own potent fates, provided they can navigate through the perilous times they currently face.",
       "addedAt": "2024-03-19T23:43:28+00:00",
       "tmdbId": 634492,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/iwZVbgw7p6YMIUsKum3uXGbqOmr.jpg",
+      "overviewEn": "Forced to confront revelations about her past, paramedic Cassandra Webb forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present."
     },
     {
       "title": "Bob Marley: One Love",
@@ -4541,7 +4622,8 @@
       "overview": "On the day of his scheduled execution, a convicted serial killer gets a psychiatric evaluation during which he claims he is a demon, and further claims that before their time is over, the psychiatrist will commit three murders of his own.",
       "addedAt": "2024-03-13T03:31:44+00:00",
       "tmdbId": 913673,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/xwjWUAajQJPj5aik1tounPguZbz.jpg",
+      "overviewEn": "On the day of his scheduled execution, a convicted serial killer gets a psychiatric evaluation during which he claims he is a demon, and further claims that before their time is over, the psychiatrist will commit three murders of his own."
     },
     {
       "title": "Knowing",
@@ -4550,7 +4632,8 @@
       "overview": "A teacher opens a time capsule that has been dug up at his son's elementary school; in it are some chilling predictions -- some that have already occurred and others that are about to -- that lead him to believe his family plays a role in the events that are about to unfold.",
       "addedAt": "2024-03-11T04:25:15+00:00",
       "tmdbId": 13811,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/OG0mxQt4YaNIWiz8EKJSHe9lPh.jpg",
+      "overviewEn": "A teacher opens a time capsule that has been dug up at his son's elementary school; in it are some chilling predictions -- some that have already occurred and others that are about to -- that lead him to believe his family plays a role in the events that are about to unfold."
     },
     {
       "title": "Logan Lucky",
@@ -4559,7 +4642,8 @@
       "overview": "Two brothers attempt to pull off a heist during a NASCAR race in North Carolina.",
       "addedAt": "2024-03-11T04:11:10+00:00",
       "tmdbId": 399170,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg",
+      "overviewEn": "Trying to reverse a family curse, brothers Jimmy and Clyde Logan set out to execute an elaborate robbery during the legendary Coca-Cola 600 race at the Charlotte Motor Speedway."
     },
     {
       "title": "Arrival",
@@ -4816,7 +4900,8 @@
       "overview": "Mack is an adventure-loathing duck who does not intend to leave his New England pond anytime soon. However, he is convinced by his more adventurous wife, Pam, to head south for the winter. The two ducks, along with their two kids Dax and Gwen and Mack's Uncle Dan, do just that. However, things do not go as planned, but that doesn't stop them from having the time of their lives.",
       "addedAt": "2024-01-23T12:37:33+00:00",
       "tmdbId": 940551,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/ldfCF9RhR40mppkzmftxapaHeTo.jpg",
+      "overviewEn": "After a migrating duck family alights on their pond with thrilling tales of far-flung places, the Mallard family embarks on a family road trip, from New England, to New York City, to tropical Jamaica."
     },
     {
       "title": "Aquaman and the Lost Kingdom",
@@ -4854,7 +4939,8 @@
       "overview": "John Anderton is a top 'Precrime' cop in the late-21st century, when technology can predict crimes before they're committed. But Anderton becomes the quarry when another investigator targets him for a murder charge.",
       "addedAt": "2024-01-20T00:38:23+00:00",
       "tmdbId": 180,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/ccqpHq5tk5W4ymbSbuoy4uYOxFI.jpg",
+      "overviewEn": "John Anderton is a top 'Precrime' cop in the late-21st century, when technology can predict crimes before they're committed. But Anderton becomes the quarry when another investigator targets him for a murder charge."
     },
     {
       "title": "Lift",
@@ -4863,7 +4949,8 @@
       "overview": "A female master thief and her ex-boyfriend who works for the FBI team up to steal $100M worth of gold bullion being transported on a 777 passenger flight from London to Zurich.",
       "addedAt": "2024-01-18T18:58:42+00:00",
       "tmdbId": 955916,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/h7wJI6mctrDJ9wMbFfgrBUTn1LT.jpg",
+      "overviewEn": "An international heist crew, led by Cyrus Whitaker, race to lift $500 million in gold from a passenger plane at 40,000 feet."
     },
     {
       "title": "Shooter",
@@ -4910,7 +4997,8 @@
       "overview": "An epic that details the chequered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine.",
       "addedAt": "2024-01-08T18:15:20+00:00",
       "tmdbId": 753342,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/s46YI7diwlqDVLe55uOaO1VzTId.jpg",
+      "overviewEn": "An epic that details the checkered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine."
     },
     {
       "title": "Priscilla",
@@ -4948,7 +5036,8 @@
       "overview": "A family's getaway to a luxurious rental home takes an ominous turn when a cyberattack knocks out their devices, and two strangers appear at their door.",
       "addedAt": "2023-12-10T11:37:51+00:00",
       "tmdbId": 726209,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/29rhl1xopxA7JlGVVsf1UHfYPvN.jpg",
+      "overviewEn": "A family's getaway to a luxurious rental home takes an ominous turn when a cyberattack knocks out their devices—and two strangers appear at their door."
     },
     {
       "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
@@ -4967,7 +5056,8 @@
       "overview": "When her duties send her to an anomalous wormhole linked to a Kree revolutionary, Carol's powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol's estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
       "addedAt": "2023-12-10T03:33:25+00:00",
       "tmdbId": 609681,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/xxh6CFgwzYW29dSOsRjRBTpfqWT.jpg",
+      "overviewEn": "When her duties send her to an anomalous wormhole linked to a Kree revolutionary, Carol's powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol's estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe."
     },
     {
       "title": "Thriller 40",
@@ -4985,7 +5075,8 @@
       "overview": "1919, Osage County, Oklahoma. Due to the discovery of oil on their land the Osage people are per capita the wealthiest people in the United States. Having just been discharged from the US Army, Ernest Burkhart returns to the area to work for his wealthy uncle, William Hale. Lately many Osage people have died in suspicious circumstances but nothing is being done about it.",
       "addedAt": "2023-12-05T14:01:29+00:00",
       "tmdbId": 466420,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/pi0kmFJAEcHpTjqITHPFUic9omf.jpg",
+      "overviewEn": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one—until the FBI steps in to unravel the mystery."
     },
     {
       "title": "The Marsh King's Daughter",
@@ -4994,7 +5085,8 @@
       "overview": "Helena, a woman living a seemingly ordinary life, hides a dark secret—her father is the infamous 'Marsh King', the man who kept her and her mother captive in the wilderness for years. After a lifetime of trying to escape her past, Helena is forced to face her demons when her father unexpectedly escapes from prison.",
       "addedAt": "2023-11-29T07:00:23+00:00",
       "tmdbId": 798362,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/bcuEjrwhp5HgEUnFe5lc4xpEqzt.jpg",
+      "overviewEn": "Helena, a woman living a seemingly ordinary life, hides a dark secret—her father is the infamous 'Marsh King', the man who kept her and her mother captive in the wilderness for years. After a lifetime of trying to escape her past, Helena is forced to face her demons when her father unexpectedly escapes from prison."
     },
     {
       "title": "Freelance",
@@ -5081,7 +5173,8 @@
       "overview": "Solitary, cold, methodical and unencumbered by scruples or regrets, a killer waits in the shadows, watching for his next target. Yet, the longer he waits, the more he thinks he's losing his mind, if not his cool.",
       "addedAt": "2023-11-14T23:05:43+00:00",
       "tmdbId": 800158,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/e7Jvsry47JJQruuezjU2X1Z6J77.jpg",
+      "overviewEn": "After a fateful miss, an assassin battles his employers, and himself, on an international manhunt he insists isn't personal."
     },
     {
       "title": "Rumble Through the Dark",
@@ -5131,13 +5224,14 @@
       "poster": ""
     },
     {
-      "title": "Mission: Impossible - Dead Reckoning",
+      "title": "Mission: Impossible - Dead Reckoning Part One",
       "originalTitle": "",
       "year": 2023,
       "overview": "Ethan Hunt and the IMF team must track down a terrifying new weapon that threatens all of humanity if it falls into the wrong hands. With control of the future and the fate of the world at stake, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan is forced to consider that nothing can matter more than the mission -- not even the lives of those he cares about most.",
       "addedAt": "2023-10-29T02:37:53+00:00",
       "tmdbId": 575264,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+      "overviewEn": "Ethan Hunt and his IMF team embark on their most dangerous mission yet: To track down a terrifying new weapon that threatens all of humanity before it falls into the wrong hands. With control of the future and the world's fate at stake and dark forces from Ethan's past closing in, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan must consider that nothing can matter more than his mission—not even the lives of those he cares about most."
     },
     {
       "title": "Five Nights at Freddy's",
@@ -5243,7 +5337,8 @@
       "overview": "A crew sailing from Varna (Bulgaria) by the Black Sea to England find that they are carrying very dangerous cargo.",
       "addedAt": "2023-09-27T15:52:15+00:00",
       "tmdbId": 635910,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/nrtbv6Cew7qC7k9GsYSf5uSmuKh.jpg",
+      "overviewEn": "The crew of the merchant ship Demeter attempts to survive the ocean voyage from Carpathia to London as they are stalked each night by a merciless presence onboard the ship."
     },
     {
       "title": "Gran Turismo",
@@ -5280,7 +5375,8 @@
       "overview": "Bert Kreischer faces a familial crisis and the arrival of his estranged father when the ghost of his booze-soaked past arrives: a murderous mobster hellbent on kidnapping Bert back to the motherland to atone for his crimes. Together, he and his father must retrace the steps of his younger self in the midst of a war between a sociopathic crime family while they attempt to find common ground.",
       "addedAt": "2023-09-14T23:05:34+00:00",
       "tmdbId": 647250,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/x9dGI7LIOMMlFzyIBUta1svft2Y.jpg",
+      "overviewEn": "Bert Kreischer faces a familial crisis and the arrival of his estranged father when the ghost of his booze-soaked past arrives: a murderous mobster hellbent on kidnapping Bert back to the motherland to atone for his crimes. Together, he and his father must retrace the steps of his younger self in the midst of a war between a sociopathic crime family while they attempt to find common ground."
     },
     {
       "title": "Kandahar",
@@ -5289,7 +5385,8 @@
       "overview": "CIA operative Tom Harris succeeded in his Iran mission but later on got his identity exposed. Now the agent has to escape from Afghanistan. He is pursued by mercenaries, war lords and elite special forces of the enemy. Getting to Kandahar is the only chance for salvation. Here, either allied helicopters or a bullet with his name will be waiting for the hero.",
       "addedAt": "2023-09-14T23:01:31+00:00",
       "tmdbId": 717930,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/lCanGgsqF4xD2WA5NF8PWeT3IXd.jpg",
+      "overviewEn": "After his mission is exposed, an undercover CIA operative stuck deep in hostile territory in Afghanistan must fight his way out, alongside his Afghan translator, to an extraction point in Kandahar, all whilst avoiding elite enemy forces and foreign spies tasked with hunting them down."
     },
     {
       "title": "Asteroid City",
@@ -5318,7 +5415,8 @@
       "overview": "A father working on a space station has to save his 15-year-old daughter after a meteorite shower hits Earth, using only satellite phones and cameras.",
       "addedAt": "2023-09-10T13:58:00+00:00",
       "tmdbId": 864101,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/mv2DFhsaLeNgFzNe2G5CJhzbrkt.jpg",
+      "overviewEn": "Near future. Lera Arabova is a 15-year-old girl who lives with her family in Vladivostok. Lera's father has been working at the orbiting space station \"Mira\" for many years and has long lost contact with his daughter, turning only into a voice on the phone. After a meteor shower hits the city, Lera has only one chance to save her loved ones and the city from a new disaster. Her father helps her in this - through satellite surveillance systems and the telephone, he uses every opportunity to send a message to his daughter, watching from above from the station her every step."
     },
     {
       "title": "Spider-Man: Across the Spider-Verse",
@@ -5355,7 +5453,8 @@
       "overview": "A research team's journey into the depths of the ocean turns into chaos when a mining operation forces them into a battle for survival, facing off against Megalodons and relentless environmental marauders.",
       "addedAt": "2023-08-26T15:42:54+00:00",
       "tmdbId": 615656,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg",
+      "overviewEn": "An exploratory dive into the deepest depths of the ocean of a daring research team spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival."
     },
     {
       "title": "Insidious: The Red Door",
@@ -5374,7 +5473,8 @@
       "overview": "The youngest of King Triton's daughters, Ariel is a beautiful and spirited young mermaid with a thirst for adventure. Longing to find out more about the world beyond the sea, Ariel visits the surface and falls for the dashing Prince Eric. Following her heart, she makes a deal with the evil sea witch, Ursula, to experience life on land.",
       "addedAt": "2023-07-25T20:51:22+00:00",
       "tmdbId": 447277,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",
+      "overviewEn": "The youngest of King Triton’s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. With mermaids forbidden to interact with humans, Ariel makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life – and her father’s crown – in jeopardy."
     },
     {
       "title": "Resident Evil: Death Island",
@@ -5489,7 +5589,8 @@
       "overview": "Prison inmates form a football team to challenge the prison guards.",
       "addedAt": "2023-05-06T05:42:41+00:00",
       "tmdbId": 9291,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/nbKcVBcxF96ARW2oKHqDYAcLdu.jpg",
+      "overviewEn": "Disgraced pro football quarterback Paul Crewe lands in a Texas federal penitentiary, where manipulative Warden Hazen recruits him to advise the institution's football team of prison guards. Crewe suggests a tune-up game which lands him quarterbacking a crew of inmates in a game against the guards. Aided by incarcerated ex-NFL coach and player Nate Scarborough, Crewe and his team must overcome not only the bloodthirstiness of the opposition, but also the corrupt warden trying to fix the game against them."
     },
     {
       "title": "Dungeons & Dragons: Honor Among Thieves",
@@ -5544,7 +5645,8 @@
       "overview": "In the wake of King Edward's death, Uhtred of Bebbanburg and his comrades adventure across a fractured kingdom in the hopes of uniting England at last.",
       "addedAt": "2023-04-24T20:06:39+00:00",
       "tmdbId": 948713,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/qcNDxDzd5OW9wE3c8nWxCBQoBrM.jpg",
+      "overviewEn": "In the wake of King Edward's death, Uhtred of Bebbanburg and his comrades adventure across a fractured kingdom in the hopes of uniting England at last."
     },
     {
       "title": "Ant-Man and the Wasp: Quantumania",
@@ -5593,7 +5695,8 @@
       "overview": "Major Benson Winifred Payne is being discharged from the Marines. Payne is a killin' machine, but the wars of the world are no longer fought on the battlefield. A career Marine, he has no idea what to do as a civilian, so his commander finds him a job - commanding officer of a local school's JROTC program, a bunch of ragtag losers with no hope.",
       "addedAt": "2023-04-12T08:37:41+00:00",
       "tmdbId": 11008,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/kWHx5eq7PELkF3If7LrrhuBskRG.jpg",
+      "overviewEn": "Major Benson Winifred Payne is being discharged from the Marines. Payne is a killin' machine, but the wars of the world are no longer fought on the battlefield. A career Marine, he has no idea what to do as a civilian, so his commander finds him a job - commanding officer of a local school's JROTC program, a bunch of ragtag losers with no hope."
     },
     {
       "title": "Happy Death Day 2U",
@@ -5744,7 +5847,8 @@
       "overview": "Based on the 16th-century Chinese novel Feng Shen Yan Yi (The Investiture of the Gods), the story tells of how King Zhou of Shang becomes a tyrant due to the wiles of Daji, a vixen spirit who is disguised as one of his concubines.",
       "addedAt": "2023-04-12T08:37:29+00:00",
       "tmdbId": 406429,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/nMiTkBfAmXtCW2tbWHRiGb09Bjv.jpg",
+      "overviewEn": "During the reign of King Zhou, an official enters his bedchamber, and is devoured by the monstrous tails of Daji, his concubine. Outside their city, several warriors within a metal wagon discuss their strategies to free the Invisible People and their Chief, when Jiang Ziya appears to them. He tells them that when King Zhou was younger, he let himself become possessed by the Black Dragon for his quest for power."
     },
     {
       "title": "Hotel Transylvania 3: Summer Vacation",
@@ -5995,7 +6099,8 @@
       "overview": "The MIB tackle a mole in their organization.",
       "addedAt": "2023-04-12T08:36:56+00:00",
       "tmdbId": 479455,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/4FhQQfQsTVPLPvBrvIYIm4Qt1M9.jpg",
+      "overviewEn": "The Men in Black have always protected the Earth from the scum of the universe. In this new adventure, they tackle their biggest, most global threat to date: a mole in the Men in Black organization."
     },
     {
       "title": "Spectre",
@@ -6061,7 +6166,8 @@
       "overview": "Journalist, Fred Flarsky, reunites with his childhood crush, Charlotte Field; now one of the most influential women in the world. As she prepares to run for president, Charlotte hires Fred as her speechwriter, and sparks fly.",
       "addedAt": "2023-04-12T08:36:50+00:00",
       "tmdbId": 459992,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/1F9AItQ6fhrfhBVQlmC8ReOQAFG.jpg",
+      "overviewEn": "Journalist Fred Flarsky reunites with his childhood crush, Charlotte Field, now one of the most influential women in the world. As she prepares to make a run for the Presidency, Charlotte hires Fred as her speechwriter — much to the dismay of her trusted advisers."
     },
     {
       "title": "Child's Play",
@@ -6099,7 +6205,8 @@
       "overview": "A couple travels to Northern Europe to visit a rural hometown's fabled Swedish mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult.",
       "addedAt": "2023-04-12T08:36:45+00:00",
       "tmdbId": 530385,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+      "overviewEn": "Several friends travel to Sweden to study as anthropologists a summer festival that is held every ninety years in the remote hometown of one of them. What begins as a dream vacation in a place where the sun never sets, gradually turns into a dark nightmare as the mysterious inhabitants invite them to participate in their disturbing festive activities."
     },
     {
       "title": "Fast & Furious Presents: Hobbs & Shaw",
@@ -6137,7 +6244,8 @@
       "overview": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.",
       "addedAt": "2023-04-12T08:36:42+00:00",
       "tmdbId": 420818,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/pSfwXxP94xktZKn3UaeVe6VdFZl.jpg",
+      "overviewEn": "Simba idolizes his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub's arrival. Scar, Mufasa's brother—and former heir to the throne—has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba's exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his."
     },
     {
       "title": "Rat Race",
@@ -6221,7 +6329,8 @@
       "overview": "Four teenagers in detention discover an old video game console with a game they’ve never heard of. When they decide to play, they are immediately sucked into the jungle world of Jumanji in the bodies of their avatars. They’ll have to complete the adventure of their lives filled with fun, thrills and danger or be stuck in the game forever!",
       "addedAt": "2023-04-12T08:36:34+00:00",
       "tmdbId": 353486,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/pSgXKPU5h6U89ipF7HBYajvYt7j.jpg",
+      "overviewEn": "Four teenagers in detention discover an old video game console with a game they’ve never heard of. When they decide to play, they are immediately sucked into the jungle world of Jumanji in the bodies of their avatars. They’ll have to complete the adventure of their lives filled with fun, thrills and danger or be stuck in the game forever!"
     },
     {
       "title": "Edward Scissorhands",
@@ -6339,7 +6448,8 @@
       "overview": "While her owners are out of town, a female dog decides to travel around the town with a male street dog. Along the way, they share multiple adventures and deeply get to know each other. She needs to make a decision that could change her life forever.",
       "addedAt": "2023-04-12T08:36:24+00:00",
       "tmdbId": 512895,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/8wBEye516IKul9sW7JKGcFXVGfV.jpg",
+      "overviewEn": "The love story between a pampered Cocker Spaniel named Lady and a streetwise mongrel named Tramp. Lady finds herself out on the street after her owners have a baby and is saved from a pack by Tramp, who tries to show her to live her life footloose and collar-free."
     },
     {
       "title": "Hustlers",
@@ -6433,7 +6543,8 @@
       "overview": "Arthur Fleck, a party clown and a failed stand-up comedian, leads an impoverished life with his ailing mother. However, when society shuns him and brands him as a freak, he decides to embrace the life of chaos in Gotham City.",
       "addedAt": "2023-04-12T08:36:16+00:00",
       "tmdbId": 475557,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/g9l7iLYusH82bbEbwGCJzhVkOe2.jpg",
+      "overviewEn": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure."
     },
     {
       "title": "Star Wars: Episode VIII - The Last Jedi",
@@ -6507,7 +6618,8 @@
       "overview": "While on a trip to Paris with his fiancée's family, a nostalgic screenwriter finds himself mysteriously going back to the 1920s every day at midnight.",
       "addedAt": "2023-04-12T08:36:10+00:00",
       "tmdbId": 59436,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/4wBG5kbfagTQclETblPRRGihk0I.jpg",
+      "overviewEn": "While on a trip to Paris with his fiancée's family, a nostalgic screenwriter finds himself mysteriously going back to the 1920s every day at midnight."
     },
     {
       "title": "Crazy, Stupid, Love.",
@@ -6545,7 +6657,8 @@
       "overview": "Thirty years after starring in The Wizard of Oz (1939), beloved actress and singer Judy Garland (Renée Zellweger) arrives in London, England to perform sold-out shows at the Talk of the Town nightclub. While there, she reminisces with friends and fans and begins a whirlwind romance with musician Mickey Deans (Finn Wittrock), her soon-to-be fifth husband.",
       "addedAt": "2023-04-12T08:36:07+00:00",
       "tmdbId": 491283,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/iqJhHjD6k6T07waELjMKDpQJUP.jpg",
+      "overviewEn": "Thirty years after starring in 'The Wizard of Oz', beloved actress and singer Judy Garland arrives in London to perform sold-out shows at the Talk of the Town nightclub. While there, she reminisces with friends and fans and begins a whirlwind romance with musician Mickey Deans, her soon-to-be fifth husband."
     },
     {
       "title": "MpbrANG1 18pl4T",
@@ -6563,7 +6676,8 @@
       "overview": "Mick Haller is a defense lawyer who works out of his Lincoln. When a wealthy Realtor's son is accused of assaulting a prostitute, Haller is asked to defend him. The man claims that the woman is trying to get some money out of him. But when Haller looks at the evidence against him, he learns that this case might be linked to an old case of his.",
       "addedAt": "2023-04-12T08:36:04+00:00",
       "tmdbId": 50348,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/mJsXLE40Is5edHq0nKIgIfm0PZv.jpg",
+      "overviewEn": "Mick Haller is a charismatic defense attorney who does business out of his Lincoln Continental sedan. Mick spends most of his time defending petty crooks and other bottom-feeders, so it comes as quite a surprise when he lands the case of a lifetime: defending a Beverly Hills playboy who is accused of attempted murder. However, what Mick initially thinks is an open-and-shut case with a big monetary reward develops into something more sinister."
     },
     {
       "title": "Princess Mononoke",
@@ -6679,7 +6793,8 @@
       "overview": "Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play.",
       "addedAt": "2023-04-12T08:35:51+00:00",
       "tmdbId": 420809,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg",
+      "overviewEn": "Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play."
     },
     {
       "title": "Black and Blue",
@@ -6717,7 +6832,8 @@
       "overview": "A super-secret organization recruits an unrefined but promising street kid into the agency's ultra-competitive training program just as a dire global threat emerges from a twisted tech genius. A phenomenal cast, including ACADEMY AWARD® Winners Colin Firth and Michael Caine and OSCAR® Nominee Samuel L. Jackson, leads this action-packed spy-thriller directed by Matthew Vaughn (X-Men: First Class).",
       "addedAt": "2023-04-12T08:35:46+00:00",
       "tmdbId": 207703,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/r6q9wZK5a2K51KFj4LWVID6Ja1r.jpg",
+      "overviewEn": "The story of a super-secret spy organization that recruits an unrefined but promising street kid into the agency's ultra-competitive training program just as a global threat emerges from a twisted tech genius."
     },
     {
       "title": "Kingsman: The Golden Circle",
@@ -6726,7 +6842,8 @@
       "overview": "After the Kingsman's headquarters is destroyed and the world is held hostage, an allied spy organization in the United States is discovered. These two elite secret agencies must band together to defeat a common enemy.",
       "addedAt": "2023-04-12T08:35:46+00:00",
       "tmdbId": 343668,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/gzs4GYzgiPuPj2AgXJkp08LxPXZ.jpg",
+      "overviewEn": "When an attack on the Kingsman headquarters takes place and a new villain rises, Eggsy and Merlin are forced to work together with the American agency known as the Statesman to save the world."
     },
     {
       "title": "Gravity",
@@ -6899,7 +7016,8 @@
       "overview": "Kate is a young woman subscribed to bad decisions. Working as an elf in a year-round Christmas store is not good for the wannabe singer. However, she meets Tom there. Her life takes a new turn--that seems too good to be true.",
       "addedAt": "2023-04-12T08:35:31+00:00",
       "tmdbId": 549053,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/kDEjffiKgjuGo2DRzsqfjvW0CQh.jpg",
+      "overviewEn": "Kate is a young woman who has a habit of making bad decisions, and her last date with disaster occurs after she accepts work as Santa's elf for a department store. However, after she meets Tom there, her life takes a new turn."
     },
     {
       "title": "Ford v Ferrari",
@@ -6947,7 +7065,8 @@
       "overview": "Carl Brashear is an ambitious sharecropper who joins the U.S. Navy to become the world's first black master diver. But as he works through diving training, the racist Master Chief sets out to make Carl's journey as difficult as possible.",
       "addedAt": "2023-04-12T08:35:24+00:00",
       "tmdbId": 11978,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/wNUAnXV1mzOOfvnVBIYsalkk078.jpg",
+      "overviewEn": "Against formidable odds -- and an old-school diving instructor embittered by the U.S. Navy's new, less prejudicial policies -- Carl Brashear sets his sights on becoming the Navy's first African-American master diver in this uplifting true story. Their relationship starts out on the rocks, but fate ultimately conspires to bring the men together into a setting of mutual respect, triumph and honor."
     },
     {
       "title": "Midway",
@@ -6956,7 +7075,8 @@
       "overview": "MIDWAY centers on the Battle of Midway, a clash between the American fleet and the Imperial Japanese Navy which marked a pivotal turning point in the Pacific Theater during WWII. The film, based on the real-life events of this heroic feat, tells the story of the leaders and soldiers who used their instincts, fortitude and bravery to overcome the odds.",
       "addedAt": "2023-04-12T08:35:23+00:00",
       "tmdbId": 522162,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/3Ipjy1UtaTnY2SO6T8TVlQWeD0a.jpg",
+      "overviewEn": "The story of the Battle of Midway, and the leaders and soldiers who used their instincts, fortitude and bravery to overcome massive odds."
     },
     {
       "title": "A Few Good Men",
@@ -7061,7 +7181,8 @@
       "overview": "In Jumanji: The Next Level, the gang is back but the game has changed. As they return to rescue one of their own, the players will have to brave parts unknown from arid deserts to snowy mountains, to escape the world's most dangerous game.",
       "addedAt": "2023-04-12T08:35:15+00:00",
       "tmdbId": 512200,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/2RyMYPKmlUcT4BkVmPIOUV4X2iC.jpg",
+      "overviewEn": "As the gang return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored in order to escape the world’s most dangerous game."
     },
     {
       "title": "28 Weeks Later",
@@ -7197,7 +7318,8 @@
       "overview": "The Roxbury Guys, Steve and Doug Butabi, want to get into the best club in town, and also hope to open their own club. Vivica, a gold-digging supermodel, and her friend Cambi try to work the Roxbury Guys for their money, only to find out the pair is broke.",
       "addedAt": "2023-04-12T08:35:02+00:00",
       "tmdbId": 9429,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/7oZ5xE4AL4D5EbeQUaoRxahgzJX.jpg",
+      "overviewEn": "Despite being well into adulthood, brothers Doug and Steve Butabi still live at home and work in the flower shop owned by their dad. They exist only to hit on women at discos, though they're routinely unsuccessful until a chance run-in with Richard Grieco gets them inside the swank Roxbury club. Mistaken for high rollers, they meet their dream women, Vivica and Cambi, and resolve to open a club of their own."
     },
     {
       "title": "Just Mercy",
@@ -7206,7 +7328,8 @@
       "overview": "The powerful true story of Harvard-educated lawyer Bryan Stevenson, who goes to Alabama to defend the disenfranchised and wrongly condemned — including Walter McMillian, a man sentenced to death despite evidence proving his innocence. Bryan fights tirelessly for Walter with the system stacked against them.",
       "addedAt": "2023-04-12T08:35:01+00:00",
       "tmdbId": 522212,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/2bDZl3PzFLFWe4gaFUQnnaslqT3.jpg",
+      "overviewEn": "The powerful true story of Harvard-educated lawyer Bryan Stevenson, who goes to Alabama to defend the disenfranchised and wrongly condemned — including Walter McMillian, a man sentenced to death despite evidence proving his innocence. Bryan fights tirelessly for Walter with the system stacked against them."
     },
     {
       "title": "Bloodshot",
@@ -7264,7 +7387,8 @@
       "overview": "Frank Leone is nearing the end of his prison term for a relatively minor crime. Just before he is paroled, however, Warden Drumgoole takes charge. Drumgoole was assigned to a hell-hole prison after his administration was publicly humiliated by Leone, and has now arrived on the scene to ensure that Leone never sees the light of day.",
       "addedAt": "2023-04-12T08:34:53+00:00",
       "tmdbId": 9972,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/WihoHaU9yvhhdoSqDAhiIlNN8g.jpg",
+      "overviewEn": "Frank Leone is nearing the end of his prison term for a relatively minor crime. Just before he is paroled, however, Warden Drumgoole takes charge. Drumgoole was assigned to a hell-hole prison after his administration was publicly humiliated by Leone, and has now arrived on the scene to ensure that Leone never sees the light of day."
     },
     {
       "title": "Trolls World Tour",
@@ -7367,7 +7491,8 @@
       "overview": "Lyon Gaultier is a deserter in the Foreign Legion arriving in the USA entirely hard up. He finds his brother between life and death and his sister-in-law without the money needed to heal her husband and to maintain her child. To earn the money needed, Gaultier decides to take part in some very dangerous clandestine fights.",
       "addedAt": "2023-04-12T08:34:29+00:00",
       "tmdbId": 9399,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/51NskrlR0aqpSpJ29GXZdlCRiEZ.jpg",
+      "overviewEn": "Lyon Gaultier is a deserter in the Foreign Legion arriving in the USA entirely hard up. He finds his brother between life and death and his sister-in-law without the money needed to heal her husband and to maintain her child. To earn the money needed, Gaultier decides to take part in some very dangerous clandestine fights."
     },
     {
       "title": "Van Helsing",
@@ -7454,7 +7579,8 @@
       "overview": "When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential.",
       "addedAt": "2023-04-12T08:34:15+00:00",
       "tmdbId": 337401,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/jG209nGkkhs1XPB9qyKH0aTU1m8.jpg",
+      "overviewEn": "When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential."
     },
     {
       "title": "Fatima",
@@ -7578,7 +7704,8 @@
       "overview": "A washed up monster chaser convinces the U.S. Government to fund a trip to an unexplored island in the South Pacific. Under the guise of geological research, the team travels to \"Skull Island\". Upon arrival, the group discover that their mission may be complicated by the wildlife which inhabits the island. The beautiful vistas and deadly creatures create a visually stunning experience that is sure to keep your attention.",
       "addedAt": "2023-04-12T08:33:52+00:00",
       "tmdbId": 293167,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/r2517Vz9EhDhj88qwbDVj8DCRZN.jpg",
+      "overviewEn": "Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island."
     },
     {
       "title": "Bohemian Rhapsody",
@@ -7653,7 +7780,8 @@
       "overview": "A woman falls to her death and the police determine that it was murder. Put on the case is Sergeant Roger Murtaugh,. He is paired with a new partner, Martin Riggs. The two are polar opposites: Murtaugh an aging by-the-book family man and Riggs, unconventional devil-may-care and suicidal after the death of his wife. They're just going to have to get along.",
       "addedAt": "2023-04-12T08:33:37+00:00",
       "tmdbId": 941,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/6gt44oqb4nE8vflPElffeGwsHVl.jpg",
+      "overviewEn": "A veteran cop and an unstable detective become partners who must put their differences aside in order to bring down a heroin-smuggling ring run by ex-Special Forces."
     },
     {
       "title": "Lethal Weapon 2",
@@ -7662,7 +7790,8 @@
       "overview": "In pursuing some drug dealers detectives Riggs and Murtaugh of the LAPD stumble across a large haul of gold Krugerrands. As a result, they are threatened - the mastermind behind the operation doesn't like them undermining his business. Their enemy is powerful and hard to get at, being a diplomat of a foreign power.",
       "addedAt": "2023-04-12T08:33:36+00:00",
       "tmdbId": 942,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/1EEIUw0tkX7AJZ1ikZrtKZZKlC6.jpg",
+      "overviewEn": "Riggs and Murtaugh are on the trail of South African diplomats using their immunity to engage in criminal activities."
     },
     {
       "title": "Lethal Weapon 3",
@@ -7671,7 +7800,8 @@
       "overview": "Martin Riggs and Roger Murtaugh pursue a former LAPD officer who uses his knowledge of police procedure and policies to steal and sell confiscated guns and ammunition to local street gangs.",
       "addedAt": "2023-04-12T08:33:35+00:00",
       "tmdbId": 943,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/8FnOudDHPOY7MFJnvQMR1qpuyek.jpg",
+      "overviewEn": "Riggs and Murtaugh pursue a former officer who uses his knowledge of police procedure and policies to steal and sell confiscated guns and ammunition to local street gangs."
     },
     {
       "title": "Class Act",
@@ -7690,7 +7820,8 @@
       "overview": "With personal crises and age weighing in on them, LAPD officers Riggs and Murtaugh must contend with deadly Chinese triads that are trying to free their former leaders out of prison and onto American soil.",
       "addedAt": "2023-04-12T08:33:33+00:00",
       "tmdbId": 944,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/pTLliHRoG0Qwp6qycmrMB4bD3mr.jpg",
+      "overviewEn": "With personal crises and age weighing in on them, LAPD officers Riggs and Murtaugh must contend with a deadly Chinese crime lord trying to get his brother out of prison."
     },
     {
       "title": "Zack Snyder's Justice League",
@@ -7756,7 +7887,8 @@
       "overview": "Cole Young, a mixed martial arts fighter marked by a mysterious symbol, is pulled into a hidden war between Earthrealm and Outworld, where ancient warriors must unite before a devastating invasion begins.",
       "addedAt": "2023-04-12T08:33:18+00:00",
       "tmdbId": 460465,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/nkayOAUBUu4mMvyNf9iHSUiPjF1.jpg",
+      "overviewEn": "Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung's best warrior, Sub-Zero, seeks out and trains with Earth's greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe."
     },
     {
       "title": "John Wick: Chapter 2",
@@ -7939,7 +8071,8 @@
       "overview": "Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take her down the Amazon in his dilapidated boat. Together, they search for an ancient tree that holds the power to heal – a discovery that will change the future of medicine.",
       "addedAt": "2023-04-12T08:32:49+00:00",
       "tmdbId": 451048,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/yKy9ELL8CON5sqDg4yIvBb5LTZL.jpg",
+      "overviewEn": "Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take her down the Amazon in his dilapidated boat. Together, they search for an ancient tree that holds the power to heal – a discovery that will change the future of medicine."
     },
     {
       "title": "F9",
@@ -8169,7 +8302,8 @@
       "overview": "The central character of the film 'The King's Man' is a young guy named Conrad, who has a wonderful and rich life. Being the son of the Duke of Oxford, he does not deny himself anything and lives in grand style. Conrad enjoys his position and all the benefits of high society. But everything changes after the First World War begins.",
       "addedAt": "2023-04-12T08:32:15+00:00",
       "tmdbId": 476669,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/iMjSfMUuCkCE7z5fzGtjeDusPD3.jpg",
+      "overviewEn": "As a collection of history's worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them."
     },
     {
       "title": "Spider-Man: No Way Home",
@@ -8215,7 +8349,8 @@
       "overview": "After being evicted from their Manhattan apartment, a couple buy what looks like the home of their dreams—only to find themselves saddled with a bank-account-draining nightmare. Struggling to keep their relationship together as their rambling mansion falls to pieces around them, the two watch in hilarious horror as everything—including the kitchen sink—disappears into the Money Pit.",
       "addedAt": "2023-04-12T08:32:07+00:00",
       "tmdbId": 10466,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/bohhidIi1WWU5NNYF9l5wLQu3Ii.jpg",
+      "overviewEn": "After being evicted from their Manhattan apartment, a couple buy what looks like the home of their dreams—only to find themselves saddled with a bank-account-draining nightmare. Struggling to keep their relationship together as their rambling mansion falls to pieces around them, the two watch in hilarious horror as everything—including the kitchen sink—disappears into the Money Pit."
     },
     {
       "title": "The Batman",
@@ -8271,7 +8406,8 @@
       "overview": "Dangerously ill with a rare blood disorder, and determined to save others suffering his same fate, Dr. Morbius attempts a desperate gamble. What at first appears to be a radical success soon reveals itself to be a remedy potentially worse than the disease.",
       "addedAt": "2023-04-12T08:31:54+00:00",
       "tmdbId": 526896,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/Av8Z2jZhEm1FLkFzMThzz9hndJF.jpg",
+      "overviewEn": "Dangerously ill with a rare blood disorder, and determined to save others suffering his same fate, Dr. Michael Morbius attempts a desperate gamble. What at first appears to be a radical success soon reveals itself to be a remedy potentially worse than the disease."
     },
     {
       "title": "Fantastic Beasts: The Secrets of Dumbledore",
@@ -8313,13 +8449,14 @@
       "overviewEn": "Finney Blake, a shy but clever 13-year-old boy, is abducted by a sadistic killer and trapped in a soundproof basement where screaming is of little use. When a disconnected phone on the wall begins to ring, Finney discovers that he can hear the voices of the killer’s previous victims. And they are dead set on making sure that what happened to them doesn’t happen to Finney."
     },
     {
-      "title": "Jurassic World: Dominion",
+      "title": "Jurassic World Dominion",
       "originalTitle": "",
       "year": 2022,
       "overview": "After surviving the destruction of Isla Nubla, Owen Grady and Claire Dearing took in young Maisie Lockwood. They've been living under the radar to protect Maisie, but she feels like a prisoner. When Maisie goes missing, Owen and Claire set out to find her, and eventually confront Lewis Dodgson, owner of Biosyn. Paleobotanist Ellie Sattler, Paleontologist Alan Grant, and Chaotician Ian Malcolm set out to expose Dodgson's schemes.",
       "addedAt": "2023-04-12T08:31:40+00:00",
       "tmdbId": 507086,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg",
+      "overviewEn": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures."
     },
     {
       "title": "Skull",
@@ -8347,7 +8484,8 @@
       "overview": "The untold story of one twelve-year-old's dream to become the world's greatest supervillain.",
       "addedAt": "2023-04-12T08:31:31+00:00",
       "tmdbId": 438148,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/4dBDk1LPdvdhcZdjQBmdXwiVKUA.jpg",
+      "overviewEn": "A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions."
     },
     {
       "title": "Thirteen Lives",
@@ -8365,7 +8503,8 @@
       "overview": "Legendary space ranger Buzz Lightyear embarks on an intergalactic adventure alongside ambitious recruits Izzy, Mo, Darby, and his robot companion, Sox. As this motley crew tackles their toughest mission yet, they must learn to work together as a team to escape the evil Zurg and his dutiful robot army that are never far behind.",
       "addedAt": "2023-04-12T08:31:30+00:00",
       "tmdbId": 718789,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/ox4goZd956BxqJH6iLwhWPL9ct4.jpg",
+      "overviewEn": "Legendary Space Ranger Buzz Lightyear embarks on an intergalactic adventure alongside a group of ambitious recruits and his robot companion Sox."
     },
     {
       "title": "DC League of Super-Pets",
@@ -8476,7 +8615,8 @@
       "overview": "The true story of London's most notorious gangsters, twins Reggie and Ronnie Kray. As the brothers rise through the criminal underworld, Ronnie advances the family business with violence and intimidation while Reggie struggles to go legitimate for local girl Frances Shea. In and out of prison, Ronnie's unpredictable tendencies and the slow disintegration of Reggie's marriage threaten to bring the brothers' empire tumbling to the ground.",
       "addedAt": "2023-04-12T08:31:06+00:00",
       "tmdbId": 276907,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/4shf5Alq4KWCKqrAAQe0JGJHYp5.jpg",
+      "overviewEn": "Suave, charming and volatile, Reggie Kray and his unstable twin brother Ronnie start to leave their mark on the London underworld in the 1960s. Using violence to get what they want, the siblings orchestrate robberies and murders while running nightclubs and protection rackets. With police Detective Leonard \"Nipper\" Read hot on their heels, the brothers continue their rapid rise to power and achieve tabloid notoriety."
     },
     {
       "title": "Spider-Man 3",
@@ -8531,7 +8671,8 @@
       "overview": "Charlie (Jim Carrey) is a Rhode Island state trooper with multiple profiles. He is otherwise mild-mannered and non-confrontational until somebody or something pushes him a little too far. That's when his maniacal alter-ego Hank takes over. Charlie is assigned to a routine mission to return alleged fugitive Irene (Renée Zellweger) to upstate New York, but they wind up on the run from corrupt policemen.",
       "addedAt": "2023-04-12T08:30:58+00:00",
       "tmdbId": 2123,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/rvRrcbLbpn7UJGRH1JupgHOeJFq.jpg",
+      "overviewEn": "Rhode Island State Trooper Charlie Baileygates has a multiple personality disorder. One personality is crazy and aggressive, while the other is more friendly and laid back. Both of these personalities fall in love with the same woman named Irene after Charlie loses his medication."
     },
     {
       "title": "The Twilight Saga: Breaking Dawn - Part 2",
@@ -8623,7 +8764,8 @@
       "overview": "After his father's death, a young boy finds solace in action movies featuring an indestructible cop. Given a magic ticket by a theater manager, he is transported into the film and teams up with the cop to stop a villain who escapes into the real world.",
       "addedAt": "2023-04-12T08:30:36+00:00",
       "tmdbId": 9593,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/vkhEaWAv5j3qgrOGp3BgMeiYPKj.jpg",
+      "overviewEn": "After his father's death, a young boy finds solace in action movies featuring an indestructible cop. Given a magic ticket by a theater manager, he is transported into the film and teams up with the cop to stop a villain who escapes into the real world."
     },
     {
       "title": "Don't Worry Darling",
@@ -8707,7 +8849,8 @@
       "overview": "The story of fifteenth century Czech icon and warlord, Jan Zizka, who defeated armies of the Teutonic Order and the Holy Roman Empire.",
       "addedAt": "2023-04-12T08:30:25+00:00",
       "tmdbId": 551271,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/eeUNWsdoiOijOZAMaWFDA5Pb1n8.jpg",
+      "overviewEn": "The story of fifteenth century Czech icon and warlord, Jan Zizka, who defeated armies of the Teutonic Order and the Holy Roman Empire."
     },
     {
       "title": "Basic Instinct",
@@ -8726,7 +8869,8 @@
       "overview": "A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises.",
       "addedAt": "2023-04-12T08:30:18+00:00",
       "tmdbId": 593643,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg",
+      "overviewEn": "A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises."
     },
     {
       "title": "M3GAN",
@@ -8735,7 +8879,8 @@
       "overview": "When robotics engineer Gemma becomes the guardian of her orphaned niece, Cady, she thinks her new invention, a robotic AI, will be a good companion. However, M3GAN begins to behave in unexpected and shocking ways.",
       "addedAt": "2023-04-12T08:30:17+00:00",
       "tmdbId": 536554,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
+      "overviewEn": "A brilliant toy company roboticist uses artificial intelligence to develop M3GAN, a life-like doll programmed to emotionally bond with her newly orphaned niece. But when the doll's programming works too well, she becomes overprotective of her new friend with terrifying results."
     },
     {
       "title": "Babylon",
@@ -8915,7 +9060,8 @@
       "overview": "When a lively young family moves in next door, grumpy widower Otto Anderson meets his match in a quick-witted, pregnant woman named Marisol, leading to an unlikely friendship that turns his world upside down.",
       "addedAt": "2023-04-12T08:29:46+00:00",
       "tmdbId": 937278,
-      "poster": ""
+      "poster": "https://image.tmdb.org/t/p/w500/130H1gap9lFfiTF9iDrqNIkFvC9.jpg",
+      "overviewEn": "When a lively young family moves in next door, grumpy widower Otto Anderson meets his match in a quick-witted, pregnant woman named Marisol, leading to an unlikely friendship that turns his world upside down."
     },
     {
       "title": "Plane",
