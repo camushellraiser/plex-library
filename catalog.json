@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-19T11:00:05+00:00",
+  "updatedAt": "2026-11-19T16:00:06+00:00",
   "movies": [
+    {
+      "title": "Madden",
+      "originalTitle": "",
+      "year": 2026,
+      "overview": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis—from a Super Bowl-winning partnership with the Raiders, to becoming football’s most recognizable voice, to building the worldwide Madden NFL video game.",
+      "addedAt": "2026-11-19T15:26:47+00:00",
+      "tmdbId": 1131943,
+      "poster": "https://image.tmdb.org/t/p/w500/bsx02blf7gynqCEKvcBt1WlDAWD.jpg",
+      "overviewEn": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis—from a Super Bowl-winning partnership with the Raiders, to becoming football's most recognizable voice, to building the worldwide Madden NFL video game."
+    },
+    {
+      "title": "A Talent for Murder",
+      "originalTitle": "",
+      "year": 2026,
+      "overview": "A young man travels from New York to Switzerland to try to persuade acclaimed thriller writer Patricia Highsmith to write one final installment of her Tom Ripley series, with his efforts gradually turning more sinister.",
+      "addedAt": "2026-11-19T15:25:41+00:00",
+      "tmdbId": 1084409,
+      "poster": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
+      "overviewEn": "A young man travels from New York to Switzerland to try to persuade acclaimed thriller writer Patricia Highsmith to write one final installment of her Tom Ripley series, with his efforts gradually turning more sinister."
+    },
     {
       "title": "Heartland",
       "originalTitle": "",
