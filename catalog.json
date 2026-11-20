@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-20T09:00:04+00:00",
+  "updatedAt": "2026-11-20T23:00:05+00:00",
   "movies": [
+    {
+      "title": "Guarding Stars",
+      "originalTitle": "",
+      "year": 2026,
+      "overview": "A skilled bodyguard is assigned to protect a reclusive movie star from a stalker and must pose as his girlfriend to keep the threat hidden. On his family ranch, the assignment blurs lines as proximity complicates the job.",
+      "addedAt": "2026-11-20T22:45:26+00:00",
+      "tmdbId": 1551025,
+      "poster": "https://image.tmdb.org/t/p/w500/wWNizZ4IcSld3xXH1WEXziJiNJN.jpg",
+      "overviewEn": "When a no-nonsense bodyguard is assigned to protect a charming action star over the holidays, sparks fly, secrets unravel, and Christmas gets a whole lot more complicated."
+    },
     {
       "title": "Madden",
       "originalTitle": "",
