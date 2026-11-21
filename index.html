@@ -8,8 +8,8 @@
   <title>Plex Library · Tu cine, a un clic</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Manrope:wght@400;500;600;700;800&family=Allura&family=Cormorant+Garamond:ital,wght@0,600;1,400&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=5">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css?v=6">
 </head>
 <body>
   <svg class="svg-sprites" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
@@ -138,17 +138,13 @@
   </main>
 
   <footer class="site-footer"><div class="footer-inner"><span class="footer-brand">PLEX <strong>LIBRARY</strong></span><span data-i18n="footerNote">Tu catálogo familiar · Solo consulta, sin reproducción</span><span id="updated" class="footer-sync"></span><button id="openAdmin" class="admin-link" type="button" data-admin-i18n="adminOpen">Administración</button></div>
-    <div class="creator-signature" aria-label="By Aldo Lizares">
-      <div class="creator-signature__divider" aria-hidden="true"><span></span><i>✦</i><span></span></div>
-      <div class="creator-signature__stage">
-        <span class="creator-signature__seal" aria-hidden="true"><span>AL</span></span>
-        <div class="creator-signature__credit">
-          <span class="creator-signature__prelude" data-i18n="signaturePrelude">CRÉDITOS FINALES</span>
-          <span class="creator-signature__name"><span class="creator-signature__by">By</span><span class="creator-signature__script">Aldo Lizares</span></span>
-          <span class="creator-signature__tagline" data-i18n="signatureTagline">HECHO POR AMOR AL CINE</span>
-        </div>
-        <span class="creator-signature__spark" aria-hidden="true">✧</span>
-      </div>
+    <div class="creator-signature">
+      <svg class="creator-signature__monogram" viewBox="0 0 40 40" width="34" height="34" aria-hidden="true" focusable="false">
+        <circle class="creator-signature__ring" cx="20" cy="20" r="18"></circle>
+        <path class="creator-signature__letter" d="M8.9 26.6 15.8 12.8l6.7 13.8M11.6 21.4H20"></path>
+        <path class="creator-signature__letter" d="M24 13v13.6h7.5"></path>
+      </svg>
+      <span class="creator-signature__copy"><span class="creator-signature__prefix">Developed by</span><strong class="creator-signature__author">Aldo Lizares</strong></span>
     </div>
   </footer>
 
@@ -163,6 +159,6 @@
     <div id="adminList" class="admin-list"></div>
   </dialog>
   <div class="toast" id="toast" role="status" aria-live="polite"></div>
-  <script src="config.js"></script><script src="app.js?v=5"></script>
+  <script src="config.js"></script><script src="app.js?v=6"></script>
 </body>
 </html>
