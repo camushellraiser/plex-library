@@ -8,8 +8,8 @@
   <title>Plex Library · Tu cine, a un clic</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=3">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Manrope:wght@400;500;600;700;800&family=Allura&family=Cormorant+Garamond:ital,wght@0,600;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css?v=5">
 </head>
 <body>
   <svg class="svg-sprites" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
@@ -137,7 +137,20 @@
     </section>
   </main>
 
-  <footer class="site-footer"><div class="footer-inner"><span class="footer-brand">PLEX <strong>LIBRARY</strong></span><span data-i18n="footerNote">Tu catálogo familiar · Solo consulta, sin reproducción</span><span id="updated" class="footer-sync"></span><button id="openAdmin" class="admin-link" type="button" data-admin-i18n="adminOpen">Administración</button></div></footer>
+  <footer class="site-footer"><div class="footer-inner"><span class="footer-brand">PLEX <strong>LIBRARY</strong></span><span data-i18n="footerNote">Tu catálogo familiar · Solo consulta, sin reproducción</span><span id="updated" class="footer-sync"></span><button id="openAdmin" class="admin-link" type="button" data-admin-i18n="adminOpen">Administración</button></div>
+    <div class="creator-signature" aria-label="By Aldo Lizares">
+      <div class="creator-signature__divider" aria-hidden="true"><span></span><i>✦</i><span></span></div>
+      <div class="creator-signature__stage">
+        <span class="creator-signature__seal" aria-hidden="true"><span>AL</span></span>
+        <div class="creator-signature__credit">
+          <span class="creator-signature__prelude" data-i18n="signaturePrelude">CRÉDITOS FINALES</span>
+          <span class="creator-signature__name"><span class="creator-signature__by">By</span><span class="creator-signature__script">Aldo Lizares</span></span>
+          <span class="creator-signature__tagline" data-i18n="signatureTagline">HECHO POR AMOR AL CINE</span>
+        </div>
+        <span class="creator-signature__spark" aria-hidden="true">✧</span>
+      </div>
+    </div>
+  </footer>
 
   <dialog id="movieDialog" class="movie-dialog" aria-labelledby="dialogTitle"><button type="button" class="dialog-close" id="closeDialog" data-i18n-aria="closeDetails" aria-label="Cerrar detalles"><svg class="icon"><use href="#icon-close"/></svg></button><div id="dialogContent"></div></dialog>
   <dialog id="adminDialog" class="movie-dialog admin-dialog" aria-labelledby="adminTitle">
@@ -150,6 +163,6 @@
     <div id="adminList" class="admin-list"></div>
   </dialog>
   <div class="toast" id="toast" role="status" aria-live="polite"></div>
-  <script src="config.js"></script><script src="app.js?v=4"></script>
+  <script src="config.js"></script><script src="app.js?v=5"></script>
 </body>
 </html>
