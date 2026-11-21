@@ -47,7 +47,7 @@ const messages = {
     asideTitle: 'Así de sencillo', step1Title: 'Busca tu película', step1Body: 'Te ayudamos a encontrar el título y la portada correctos.',
     step2Title: 'Confirma cuál es', step2Body: 'Revisamos si ya está disponible en Plex.',
     step3Title: 'Envía la solicitud', step3Body: 'Nos llega una notificación para agregarla después.',
-    asideFoot: 'No necesitas crear una cuenta.', footerNote: 'Tu catálogo familiar · Solo consulta, sin reproducción', signaturePrelude: 'CRÉDITOS FINALES', signatureTagline: 'HECHO POR AMOR AL CINE',
+    asideFoot: 'No necesitas crear una cuenta.', footerNote: 'Tu catálogo familiar · Solo consulta, sin reproducción',
     lastSync: 'Última actualización: {date}', dialogOverline: 'DETALLES DE LA PELÍCULA', dialogAvailable: 'Disponible en Plex',
     noSummary: 'No hay una sinopsis disponible para esta película.', unknownYear: 'Año no disponible',
     closeDetails: 'Cerrar detalles', posterAlt: 'Póster de {title}'
@@ -92,7 +92,7 @@ const messages = {
     asideTitle: 'How it works', step1Title: 'Find your movie', step1Body: 'We help you match the correct title and movie poster.',
     step2Title: 'Confirm the movie', step2Body: 'We check whether it is already available in Plex.',
     step3Title: 'Send your request', step3Body: 'We get a notification so it can be added later.',
-    asideFoot: 'No account needed.', footerNote: 'Your family movie catalog · Browse only, no streaming', signaturePrelude: 'FINAL CREDITS', signatureTagline: 'MADE FOR THE LOVE OF CINEMA',
+    asideFoot: 'No account needed.', footerNote: 'Your family movie catalog · Browse only, no streaming',
     lastSync: 'Last updated: {date}', dialogOverline: 'MOVIE DETAILS', dialogAvailable: 'Available in Plex',
     noSummary: 'No synopsis available for this movie.', unknownYear: 'Year unavailable',
     closeDetails: 'Close movie details', posterAlt: 'Poster for {title}'
