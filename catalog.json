@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T21:01:02+00:00",
+  "updatedAt": "2026-11-23T22:01:01+00:00",
   "movies": [
     {
       "title": "The Pact",
@@ -61,8 +61,37 @@
       "addedAt": "2026-11-19T15:26:47+00:00",
       "tmdbId": 1131943,
       "poster": "https://image.tmdb.org/t/p/w500/bsx02blf7gynqCEKvcBt1WlDAWD.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        18,
+        36,
+        35
+      ],
+      "cast": [
+        {
+          "id": 2963,
+          "name": "Nicolas Cage"
+        },
+        {
+          "id": 3894,
+          "name": "Christian Bale"
+        },
+        {
+          "id": 17696,
+          "name": "Kathryn Hahn"
+        },
+        {
+          "id": 23459,
+          "name": "Sienna Miller"
+        },
+        {
+          "id": 933558,
+          "name": "John Mulaney"
+        },
+        {
+          "id": 19767,
+          "name": "Snoop Dogg"
+        }
+      ],
       "overviewEn": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis—from a Super Bowl-winning partnership with the Raiders, to becoming football's most recognizable voice, to building the worldwide Madden NFL video game."
     },
     {
@@ -185,8 +214,37 @@
       "addedAt": "2026-11-05T18:01:30+00:00",
       "tmdbId": 1792170,
       "poster": "https://image.tmdb.org/t/p/w500/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        80,
+        878,
+        53
+      ],
+      "cast": [
+        {
+          "id": 6383,
+          "name": "Aaron Eckhart"
+        },
+        {
+          "id": 59192,
+          "name": "Emmanuelle Chriqui"
+        },
+        {
+          "id": 948533,
+          "name": "Paul Braunstein"
+        },
+        {
+          "id": 5892,
+          "name": "David Hewlett"
+        },
+        {
+          "id": 224144,
+          "name": "Sebastian Pigott"
+        },
+        {
+          "id": 1316786,
+          "name": "Zion Forrest Lee"
+        }
+      ],
       "overviewEn": "With his memories gone and his past a blur, ex-cop Steven Bay seeks treatment for his amnesia while working on an isolated farm. Instead, he's met with rising hostility, strange surveillance, and instincts he can’t fully control. When the pressure becomes unbearable, Bay begins a desperate hunt for the truth behind his fractured reality."
     },
     {
@@ -409,8 +467,36 @@
       "addedAt": "2026-10-17T03:17:20+00:00",
       "tmdbId": 1561726,
       "poster": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        53
+      ],
+      "cast": [
+        {
+          "id": 2283,
+          "name": "Stanley Tucci"
+        },
+        {
+          "id": 1355967,
+          "name": "Simona Tabasco"
+        },
+        {
+          "id": 1894422,
+          "name": "Victor Belmondo"
+        },
+        {
+          "id": 6696,
+          "name": "Mark Ivanir"
+        },
+        {
+          "id": 113603,
+          "name": "Philippe Uchan"
+        },
+        {
+          "id": 1558158,
+          "name": "Foëd Amara"
+        }
+      ],
       "overviewEn": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century."
     },
     {
@@ -553,8 +639,27 @@
       "addedAt": "2026-10-13T01:40:50+00:00",
       "tmdbId": 1580960,
       "poster": "https://image.tmdb.org/t/p/w500/mQtchl1YUiH3v3D5uxYIV4TzTqu.jpg",
-      "genres": [],
-      "cast": []
+      "genres": [
+        35
+      ],
+      "cast": [
+        {
+          "id": 5817872,
+          "name": "Mohd"
+        },
+        {
+          "id": 5817872,
+          "name": "Mohd"
+        },
+        {
+          "id": 5817901,
+          "name": "Mohd"
+        },
+        {
+          "id": 5817903,
+          "name": "Mohd"
+        }
+      ]
     },
     {
       "title": "Practical Magic 2",
@@ -670,8 +775,37 @@
       "addedAt": "2026-10-09T19:06:43+00:00",
       "tmdbId": 1148365,
       "poster": "https://image.tmdb.org/t/p/w500/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        35,
+        12
+      ],
+      "cast": [
+        {
+          "id": 56446,
+          "name": "John Cena"
+        },
+        {
+          "id": 10860,
+          "name": "Jessica Biel"
+        },
+        {
+          "id": 1457999,
+          "name": "Arturo Castro"
+        },
+        {
+          "id": 1429453,
+          "name": "Sam Richardson"
+        },
+        {
+          "id": 970219,
+          "name": "Teyonah Parris"
+        },
+        {
+          "id": 82104,
+          "name": "Danai Gurira"
+        }
+      ],
       "overviewEn": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world."
     },
     {
@@ -1035,8 +1169,38 @@
       "addedAt": "2026-09-08T00:41:47+00:00",
       "tmdbId": 1108427,
       "poster": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        10751,
+        14,
+        35,
+        12
+      ],
+      "cast": [
+        {
+          "id": 4247263,
+          "name": "Catherine Lagaʻaia"
+        },
+        {
+          "id": 18918,
+          "name": "Dwayne Johnson"
+        },
+        {
+          "id": 7241,
+          "name": "Rena Owen"
+        },
+        {
+          "id": 205406,
+          "name": "John Tui"
+        },
+        {
+          "id": 1753341,
+          "name": "Frankie Adams"
+        },
+        {
+          "id": 55936,
+          "name": "Jemaine Clement"
+        }
+      ],
       "overviewEn": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people."
     },
     {
@@ -1071,8 +1235,36 @@
       "addedAt": "2026-09-06T17:10:41+00:00",
       "tmdbId": 1137844,
       "poster": "https://image.tmdb.org/t/p/w500/sKIO6oO1GRCVt9Ag2iIBAdCjUj.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        35
+      ],
+      "cast": [
+        {
+          "id": 10859,
+          "name": "Ryan Reynolds"
+        },
+        {
+          "id": 11181,
+          "name": "Kenneth Branagh"
+        },
+        {
+          "id": 591295,
+          "name": "Marcin Dorociński"
+        },
+        {
+          "id": 2408703,
+          "name": "Maria Bakalova"
+        },
+        {
+          "id": 52,
+          "name": "David Morse"
+        },
+        {
+          "id": 47640,
+          "name": "Clark Johnson"
+        }
+      ],
       "overviewEn": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent."
     },
     {
@@ -1293,8 +1485,38 @@
       "addedAt": "2026-09-02T02:59:15+00:00",
       "tmdbId": 87513,
       "poster": "https://image.tmdb.org/t/p/w500/rKws4iqKhrzWHVLHnwtMnCpEHhF.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        53,
+        80,
+        18
+      ],
+      "cast": [
+        {
+          "id": 64295,
+          "name": "Alan Ritchson"
+        },
+        {
+          "id": 11107,
+          "name": "Ben Foster"
+        },
+        {
+          "id": 59254,
+          "name": "Pablo Schreiber"
+        },
+        {
+          "id": 2320708,
+          "name": "Lionel Boyce"
+        },
+        {
+          "id": 1616920,
+          "name": "Amar Chadha-Patel"
+        },
+        {
+          "id": 17245,
+          "name": "Ben McKenzie"
+        }
+      ],
       "overviewEn": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away."
     },
     {
@@ -1399,8 +1621,36 @@
       "addedAt": "2026-08-22T02:20:51+00:00",
       "tmdbId": 1288445,
       "poster": "https://image.tmdb.org/t/p/w500/iYhvs0hLGtZZt6qDrUnuM0E1zGM.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        53
+      ],
+      "cast": [
+        {
+          "id": 976,
+          "name": "Jason Statham"
+        },
+        {
+          "id": 82809,
+          "name": "Annabelle Wallis"
+        },
+        {
+          "id": 141876,
+          "name": "Roland Møller"
+        },
+        {
+          "id": 178622,
+          "name": "Ramon Tikaram"
+        },
+        {
+          "id": 1156305,
+          "name": "Arnas Fedaravičius"
+        },
+        {
+          "id": 1033691,
+          "name": "Jason Wong"
+        }
+      ],
       "overviewEn": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy."
     },
     {
@@ -1651,8 +1901,36 @@
       "addedAt": "2026-08-09T15:49:39+00:00",
       "tmdbId": 1284041,
       "poster": "https://image.tmdb.org/t/p/w500/wVvLthGKtnBVq1Cov86h8iB1SeQ.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        27,
+        878
+      ],
+      "cast": [
+        {
+          "id": 1260481,
+          "name": "Greta Lee"
+        },
+        {
+          "id": 52583,
+          "name": "Wagner Moura"
+        },
+        {
+          "id": 4434705,
+          "name": "Riley Chung"
+        },
+        {
+          "id": 3294227,
+          "name": "Noah Alexander Sosnowski"
+        },
+        {
+          "id": 2482368,
+          "name": "Emma Ho"
+        },
+        {
+          "id": 3878582,
+          "name": "Gabriel Barbosa"
+        }
+      ],
       "overviewEn": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped."
     },
     {
@@ -1675,8 +1953,36 @@
       "addedAt": "2026-08-05T19:46:22+00:00",
       "tmdbId": 1564614,
       "poster": "https://image.tmdb.org/t/p/w500/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        27,
+        10749
+      ],
+      "cast": [
+        {
+          "id": 3047804,
+          "name": "Joe Bird"
+        },
+        {
+          "id": 3291945,
+          "name": "Stacy Clausen"
+        },
+        {
+          "id": 76070,
+          "name": "Mia Wasikowska"
+        },
+        {
+          "id": 81172,
+          "name": "Nicholas Hope"
+        },
+        {
+          "id": 3908892,
+          "name": "Tyallah Bullock"
+        },
+        {
+          "id": 59119,
+          "name": "Ewen Leslie"
+        }
+      ],
       "overviewEn": "Two teenage boys must escape a violent entity that takes the form of the person they desire most:  each other."
     },
     {
@@ -1687,8 +1993,36 @@
       "addedAt": "2026-08-05T19:46:02+00:00",
       "tmdbId": 1594914,
       "poster": "https://image.tmdb.org/t/p/w500/kzRAd7mj39ZY3FGNrDdZjqx56tn.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        10752,
+        28
+      ],
+      "cast": [
+        {
+          "id": 928572,
+          "name": "Scott Eastwood"
+        },
+        {
+          "id": 3492,
+          "name": "Colin Hanks"
+        },
+        {
+          "id": 53923,
+          "name": "Aunjanue Ellis-Taylor"
+        },
+        {
+          "id": 1369329,
+          "name": "Taylor John Smith"
+        },
+        {
+          "id": 1034703,
+          "name": "Lorne MacFadyen"
+        },
+        {
+          "id": 67247,
+          "name": "Atanas Srebrev"
+        }
+      ],
       "overviewEn": "A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit."
     },
     {
@@ -1917,8 +2251,37 @@
       "addedAt": "2026-06-27T17:01:10+00:00",
       "tmdbId": 454639,
       "poster": "https://image.tmdb.org/t/p/w500/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        14,
+        878
+      ],
+      "cast": [
+        {
+          "id": 1425934,
+          "name": "Nicholas Galitzine"
+        },
+        {
+          "id": 1721740,
+          "name": "Camila Mendes"
+        },
+        {
+          "id": 88029,
+          "name": "Alison Brie"
+        },
+        {
+          "id": 17648,
+          "name": "James Purefoy"
+        },
+        {
+          "id": 54882,
+          "name": "Morena Baccarin"
+        },
+        {
+          "id": 238164,
+          "name": "Jóhannes Haukur Jóhannesson"
+        }
+      ],
       "overviewEn": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe."
     },
     {
@@ -1994,9 +2357,37 @@
       "addedAt": "2026-06-13T17:57:03+00:00",
       "tmdbId": 13192,
       "poster": "https://image.tmdb.org/t/p/w500/3GwTPQkAcgDeAirRpEuJG8HDdRz.jpg",
-      "genres": [],
-      "cast": [],
-      "overviewEn": "This fantastical movie inspired by the music of Michael Jackson features imaginative interpretations of hit tracks from the iconic 1987 album “Bad”."
+      "genres": [
+        14,
+        10402
+      ],
+      "cast": [
+        {
+          "id": 82702,
+          "name": "Michael Jackson"
+        },
+        {
+          "id": 4517,
+          "name": "Joe Pesci"
+        },
+        {
+          "id": 96085,
+          "name": "Sean Ono Lennon"
+        },
+        {
+          "id": 1403020,
+          "name": "Kelley Parker"
+        },
+        {
+          "id": 148638,
+          "name": "Brandon Quintin Adams"
+        },
+        {
+          "id": 1403021,
+          "name": "Ben Aaron"
+        }
+      ],
+      "overviewEn": "This music anthology film features imaginative visual interpretations of five tracks from Michael Jackson's 1987 album Bad, as well as his cover of the Beatles' Come Together. The film also includes a short retrospective montage of Jackson's career and concludes with a performance by vocal group Ladysmith Black Mambazo."
     },
     {
       "title": "Night Crossing",
@@ -2006,8 +2397,37 @@
       "addedAt": "2026-06-10T00:08:07+00:00",
       "tmdbId": 58995,
       "poster": "https://image.tmdb.org/t/p/w500/t0m54hI5yUK5lFJENP4yMoyrFfi.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        12,
+        18,
+        28
+      ],
+      "cast": [
+        {
+          "id": 5049,
+          "name": "John Hurt"
+        },
+        {
+          "id": 13724,
+          "name": "Jane Alexander"
+        },
+        {
+          "id": 2222,
+          "name": "Beau Bridges"
+        },
+        {
+          "id": 59962,
+          "name": "Glynnis O'Connor"
+        },
+        {
+          "id": 9927,
+          "name": "Klaus Löwitsch"
+        },
+        {
+          "id": 5012,
+          "name": "Sky du Mont"
+        }
+      ],
       "overviewEn": "Two men want to escape from East Germany (under Communist rule) but they will only go if they can take their families with them. Based on a true story."
     },
     {
@@ -2070,8 +2490,36 @@
       "addedAt": "2026-06-09T18:16:43+00:00",
       "tmdbId": 936075,
       "poster": "https://image.tmdb.org/t/p/w500/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        10402,
+        18
+      ],
+      "cast": [
+        {
+          "id": 3898497,
+          "name": "Jaafar Jackson"
+        },
+        {
+          "id": 91671,
+          "name": "Colman Domingo"
+        },
+        {
+          "id": 9781,
+          "name": "Nia Long"
+        },
+        {
+          "id": 4487890,
+          "name": "Juliano Krue Valdi"
+        },
+        {
+          "id": 1990676,
+          "name": "KeiLyn Durrel Jones"
+        },
+        {
+          "id": 996701,
+          "name": "Miles Teller"
+        }
+      ],
       "overviewEn": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career."
     },
     {
@@ -2294,8 +2742,37 @@
       "addedAt": "2026-05-24T04:23:16+00:00",
       "tmdbId": 1102883,
       "poster": "https://image.tmdb.org/t/p/w500/uVcsN3yoHh7ZcJ6ecj1FJfv7dLa.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        10402,
+        53,
+        18
+      ],
+      "cast": [
+        {
+          "id": 1813,
+          "name": "Anne Hathaway"
+        },
+        {
+          "id": 1368012,
+          "name": "Michaela Coel"
+        },
+        {
+          "id": 2340180,
+          "name": "Hunter Schafer"
+        },
+        {
+          "id": 1503200,
+          "name": "FKA twigs"
+        },
+        {
+          "id": 1648728,
+          "name": "Sian Clifford"
+        },
+        {
+          "id": 1957145,
+          "name": "Kaia Gerber"
+        }
+      ],
       "overviewEn": "Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites with her estranged best friend and former costume designer Sam Anselm on the eve of her comeback performance."
     },
     {
@@ -2410,8 +2887,37 @@
       "addedAt": "2026-05-21T16:27:10+00:00",
       "tmdbId": 931285,
       "poster": "https://image.tmdb.org/t/p/w500/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        14,
+        12
+      ],
+      "cast": [
+        {
+          "id": 1372,
+          "name": "Karl Urban"
+        },
+        {
+          "id": 2168270,
+          "name": "Adeline Rudolph"
+        },
+        {
+          "id": 1525689,
+          "name": "Ludi Lin"
+        },
+        {
+          "id": 136347,
+          "name": "Jessica McNamee"
+        },
+        {
+          "id": 1510237,
+          "name": "Martyn Ford"
+        },
+        {
+          "id": 189230,
+          "name": "Josh Lawson"
+        }
+      ],
       "overviewEn": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders."
     },
     {
@@ -2422,8 +2928,36 @@
       "addedAt": "2026-05-18T23:17:45+00:00",
       "tmdbId": 1304313,
       "poster": "https://image.tmdb.org/t/p/w500/1q308iixueCU4pFtSYugNOevtNx.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        27,
+        9648
+      ],
+      "cast": [
+        {
+          "id": 1007683,
+          "name": "Jack Reynor"
+        },
+        {
+          "id": 1425019,
+          "name": "Laia Costa"
+        },
+        {
+          "id": 1952051,
+          "name": "May Calamawy"
+        },
+        {
+          "id": 3524429,
+          "name": "Natalie Grace"
+        },
+        {
+          "id": 2886183,
+          "name": "Shylo Molina"
+        },
+        {
+          "id": 3768556,
+          "name": "Billie Roy"
+        }
+      ],
       "overviewEn": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare."
     },
     {
@@ -2446,8 +2980,37 @@
       "addedAt": "2026-05-16T16:00:54+00:00",
       "tmdbId": 1140521,
       "poster": "https://image.tmdb.org/t/p/w500/udXvLxC5gAqN8SinemyFBEcHpTf.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        12,
+        10751,
+        14
+      ],
+      "cast": [
+        {
+          "id": 2607591,
+          "name": "Billie Gadsdon"
+        },
+        {
+          "id": 1267240,
+          "name": "Nicola Coughlan"
+        },
+        {
+          "id": 5858357,
+          "name": "Delilah Bennett-Cardy"
+        },
+        {
+          "id": 3717950,
+          "name": "Phoenix Laroche"
+        },
+        {
+          "id": 43547,
+          "name": "Nonso Anozie"
+        },
+        {
+          "id": 37625,
+          "name": "Andrew Garfield"
+        }
+      ],
       "overviewEn": "A modern family relocates to the countryside where the children discover a magical tree with eccentric residents. They're transported to fantastical lands, rekindling their family bond through adventures."
     },
     {
@@ -2831,8 +3394,38 @@
       "addedAt": "2026-05-07T00:49:55+00:00",
       "tmdbId": 16198,
       "poster": "https://image.tmdb.org/t/p/w500/nj0ijnOozQtu52r0ncut769G1FX.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        16,
+        35,
+        10751,
+        18
+      ],
+      "cast": [
+        {
+          "id": 120801,
+          "name": "Hayato Isohata"
+        },
+        {
+          "id": 120802,
+          "name": "Masako Araki"
+        },
+        {
+          "id": 120803,
+          "name": "Naomi Uno"
+        },
+        {
+          "id": 120804,
+          "name": "Toru Masuoka"
+        },
+        {
+          "id": 81242,
+          "name": "Yukiji Asaoka"
+        },
+        {
+          "id": 78352,
+          "name": "Akiko Yano"
+        }
+      ],
       "overviewEn": "The Yamadas are a typical middle class Japanese family in urban Tokyo and this film shows us a variety of episodes of their lives. With tales that range from the humorous to the heartbreaking, we see this family cope with life's little conflicts, problems, and joys in their own way."
     },
     {
@@ -3046,8 +3639,37 @@
       "addedAt": "2026-05-07T00:09:13+00:00",
       "tmdbId": 16859,
       "poster": "https://image.tmdb.org/t/p/w500/pN4iKcvpyxkhtyOKUKe2tTqEDYm.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        16,
+        10751,
+        14
+      ],
+      "cast": [
+        {
+          "id": 68470,
+          "name": "Minami Takayama"
+        },
+        {
+          "id": 218144,
+          "name": "Rei Sakuma"
+        },
+        {
+          "id": 68472,
+          "name": "Kappei Yamaguchi"
+        },
+        {
+          "id": 57736,
+          "name": "Keiko Toda"
+        },
+        {
+          "id": 552598,
+          "name": "Mieko Nobusawa"
+        },
+        {
+          "id": 552599,
+          "name": "Koichi Miura"
+        }
+      ],
       "overviewEn": "A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service."
     },
     {
@@ -3058,8 +3680,37 @@
       "addedAt": "2026-05-07T00:07:47+00:00",
       "tmdbId": 8392,
       "poster": "https://image.tmdb.org/t/p/w500/eUMPY651rEudX6bIUOeQ1jqoe1R.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        14,
+        16,
+        10751
+      ],
+      "cast": [
+        {
+          "id": 55662,
+          "name": "Noriko Hidaka"
+        },
+        {
+          "id": 55664,
+          "name": "Chika Sakamoto"
+        },
+        {
+          "id": 55663,
+          "name": "Hitoshi Takagi"
+        },
+        {
+          "id": 55665,
+          "name": "Shigesato Itoi"
+        },
+        {
+          "id": 613,
+          "name": "Sumi Shimamoto"
+        },
+        {
+          "id": 55666,
+          "name": "Tanie Kitabayashi"
+        }
+      ],
       "overviewEn": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her."
     },
     {
@@ -3151,8 +3802,38 @@
       "addedAt": "2026-05-06T23:43:41+00:00",
       "tmdbId": 9416,
       "poster": "https://image.tmdb.org/t/p/w500/bN57Rl003E9pYred5kw9Rp8h9Np.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        35,
+        80,
+        53
+      ],
+      "cast": [
+        {
+          "id": 66,
+          "name": "Chris Tucker"
+        },
+        {
+          "id": 6952,
+          "name": "Charlie Sheen"
+        },
+        {
+          "id": 58691,
+          "name": "Heather Locklear"
+        },
+        {
+          "id": 21215,
+          "name": "Elise Neal"
+        },
+        {
+          "id": 7675,
+          "name": "Paul Gleason"
+        },
+        {
+          "id": 2076,
+          "name": "David Warner"
+        }
+      ],
       "overviewEn": "Sought by police and criminals, a small-time huckster makes a deal with a TV newsman for protection."
     },
     {
@@ -3397,8 +4078,35 @@
       "addedAt": "2026-04-03T16:52:30+00:00",
       "tmdbId": 1354933,
       "poster": "https://image.tmdb.org/t/p/w500/gTJkabR5hOSxiTyTXdskHHFauhr.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        18
+      ],
+      "cast": [
+        {
+          "id": 1125147,
+          "name": "Vincenzo Galluzzo"
+        },
+        {
+          "id": 4757,
+          "name": "Rupert Everett"
+        },
+        {
+          "id": 3627,
+          "name": "Paz Vega"
+        },
+        {
+          "id": 47879,
+          "name": "John Savage"
+        },
+        {
+          "id": 39104,
+          "name": "Abel Ferrara"
+        },
+        {
+          "id": 140652,
+          "name": "Tomasz Kot"
+        }
+      ],
       "overviewEn": "An innovative approach in retelling the tale of Judas Iscariot, known for his biblical betrayal of Jesus when he disclosed his whereabouts for 30 pieces of silver. About to die, Judas reflects on his life and his relationship with Jesus and the disciples."
     },
     {
@@ -3702,8 +4410,36 @@
       "addedAt": "2026-03-06T23:02:19+00:00",
       "tmdbId": 391757,
       "poster": "https://image.tmdb.org/t/p/w500/pHVswTDHAvq9Npi0XCZ0qVMSiM2.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        18,
+        28
+      ],
+      "cast": [
+        {
+          "id": 64856,
+          "name": "Michael Jai White"
+        },
+        {
+          "id": 78553,
+          "name": "Josh Barnett"
+        },
+        {
+          "id": 1602205,
+          "name": "Gillian White"
+        },
+        {
+          "id": 24898,
+          "name": "Nathan Jones"
+        },
+        {
+          "id": 1290458,
+          "name": "Damian Mavis"
+        },
+        {
+          "id": 92285,
+          "name": "Aaron Brumfield"
+        }
+      ],
       "overviewEn": "Picking up after the events of Never Back Down 2, former MMA champion Case Walker is on the comeback trail to become champion once again."
     },
     {
@@ -3973,8 +4709,36 @@
       "addedAt": "2026-02-21T02:38:49+00:00",
       "tmdbId": 1317288,
       "poster": "https://image.tmdb.org/t/p/w500/b6ae1sqOtuRC7An1nmBJc2sECPK.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        18,
+        53
+      ],
+      "cast": [
+        {
+          "id": 1190668,
+          "name": "Timothée Chalamet"
+        },
+        {
+          "id": 12052,
+          "name": "Gwyneth Paltrow"
+        },
+        {
+          "id": 1972166,
+          "name": "Odessa A'zion"
+        },
+        {
+          "id": 1240877,
+          "name": "Kevin O'Leary"
+        },
+        {
+          "id": 1133834,
+          "name": "Tyler, The Creator"
+        },
+        {
+          "id": 53122,
+          "name": "Fran Drescher"
+        }
+      ],
       "overviewEn": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness."
     },
     {
@@ -4266,8 +5030,36 @@
       "addedAt": "2026-01-24T10:10:51+00:00",
       "tmdbId": 353326,
       "poster": "https://image.tmdb.org/t/p/w500/v2X1BtkxaV8pzLbmM8a5gTdpg7B.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        18,
+        36
+      ],
+      "cast": [
+        {
+          "id": 76788,
+          "name": "Dev Patel"
+        },
+        {
+          "id": 16940,
+          "name": "Jeremy Irons"
+        },
+        {
+          "id": 13014,
+          "name": "Toby Jones"
+        },
+        {
+          "id": 1528718,
+          "name": "Devika Bhise"
+        },
+        {
+          "id": 11275,
+          "name": "Stephen Fry"
+        },
+        {
+          "id": 2449,
+          "name": "Kevin McNally"
+        }
+      ],
       "overviewEn": "Growing up poor in Madras, India, Srinivasa Ramanujan Iyengar earns admittance to Cambridge University during WWI, where he becomes a pioneer in mathematical theories with the guidance of his professor, G.H. Hardy."
     },
     {
@@ -4278,8 +5070,37 @@
       "addedAt": "2026-01-11T23:29:47+00:00",
       "tmdbId": 218043,
       "poster": "https://image.tmdb.org/t/p/w500/b9Q2WR62yB5Aq0hd6kyRFS9cc3Y.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        53,
+        28,
+        878
+      ],
+      "cast": [
+        {
+          "id": 2963,
+          "name": "Nicolas Cage"
+        },
+        {
+          "id": 62747,
+          "name": "Chad Michael Murray"
+        },
+        {
+          "id": 1063,
+          "name": "Lea Thompson"
+        },
+        {
+          "id": 212833,
+          "name": "Nicky Whelan"
+        },
+        {
+          "id": 4030,
+          "name": "Martin Klebba"
+        },
+        {
+          "id": 112560,
+          "name": "Quinton Aaron"
+        }
+      ],
       "overviewEn": "A small group of survivors are left behind after millions of people suddenly vanish during the rapture and the world is plunged into chaos and destruction."
     },
     {
@@ -4752,8 +5573,36 @@
       "addedAt": "2025-11-25T02:13:12+00:00",
       "tmdbId": 50839,
       "poster": "https://image.tmdb.org/t/p/w500/xNXYXJ3XNC9o5wxDF2ImZ9b2es.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        53,
+        18
+      ],
+      "cast": [
+        {
+          "id": 1979,
+          "name": "Kevin Spacey"
+        },
+        {
+          "id": 17306,
+          "name": "Zachary Quinto"
+        },
+        {
+          "id": 6162,
+          "name": "Paul Bettany"
+        },
+        {
+          "id": 16940,
+          "name": "Jeremy Irons"
+        },
+        {
+          "id": 1284159,
+          "name": "Simon Baker"
+        },
+        {
+          "id": 110927,
+          "name": "Penn Badgley"
+        }
+      ],
       "overviewEn": "Set in the high-stakes world of the financial industry, involving the key players at an investment firm during one perilous 24-hour period in the early stages of the 2008 financial crisis. An entry-level analyst unlocks information that could prove to be the downfall of the firm."
     },
     {
@@ -5207,8 +6056,37 @@
       "addedAt": "2025-11-13T00:10:54+00:00",
       "tmdbId": 1214684,
       "poster": "https://image.tmdb.org/t/p/w500/c8zDeDq0Uatjly6Fh4ycmWuoLYy.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        10749,
+        18,
+        10402
+      ],
+      "cast": [
+        {
+          "id": 8688,
+          "name": "Diego Luna"
+        },
+        {
+          "id": 1594098,
+          "name": "Tonatiuh"
+        },
+        {
+          "id": 16866,
+          "name": "Jennifer Lopez"
+        },
+        {
+          "id": 52745,
+          "name": "Bruno Bichir"
+        },
+        {
+          "id": 1291703,
+          "name": "Josefina Scaglione"
+        },
+        {
+          "id": 3293850,
+          "name": "Aline Mayagoitia"
+        }
+      ],
       "overviewEn": "Valentín, a political prisoner, shares a cell with Molina, a window dresser convicted of public indecency. The two form an unlikely bond as Molina recounts the plot of a Hollywood musical starring his favorite silver screen diva, Ingrid Luna."
     },
     {
@@ -5219,8 +6097,36 @@
       "addedAt": "2025-11-10T16:49:47+00:00",
       "tmdbId": 39451,
       "poster": "https://image.tmdb.org/t/p/w500/90mwPRNMmX9RUGVgKMJMJNQnYX8.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        35,
+        10749
+      ],
+      "cast": [
+        {
+          "id": 7399,
+          "name": "Ben Stiller"
+        },
+        {
+          "id": 380,
+          "name": "Robert De Niro"
+        },
+        {
+          "id": 887,
+          "name": "Owen Wilson"
+        },
+        {
+          "id": 4483,
+          "name": "Dustin Hoffman"
+        },
+        {
+          "id": 10400,
+          "name": "Barbra Streisand"
+        },
+        {
+          "id": 10401,
+          "name": "Blythe Danner"
+        }
+      ],
       "overviewEn": "It has taken 10 years, two little Fockers with wife Pam and countless hurdles for Greg to finally get in with his tightly wound father-in-law, Jack. After the cash-strapped dad takes a job moonlighting for a drug company, Jack's suspicions about his favorite male nurse come roaring back. When Greg and Pam's entire clan descends for the twins' birthday party, Greg must prove to the skeptical Jack that he's fully capable as the man of the house."
     },
     {
@@ -5352,8 +6258,36 @@
       "addedAt": "2025-11-09T18:09:23+00:00",
       "tmdbId": 693,
       "poster": "https://image.tmdb.org/t/p/w500/59fXm6N2x7QSbvt6BaBxTNBXGL8.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        35,
+        10749
+      ],
+      "cast": [
+        {
+          "id": 7399,
+          "name": "Ben Stiller"
+        },
+        {
+          "id": 380,
+          "name": "Robert De Niro"
+        },
+        {
+          "id": 4483,
+          "name": "Dustin Hoffman"
+        },
+        {
+          "id": 10400,
+          "name": "Barbra Streisand"
+        },
+        {
+          "id": 10401,
+          "name": "Blythe Danner"
+        },
+        {
+          "id": 10399,
+          "name": "Teri Polo"
+        }
+      ],
       "overviewEn": "Hard-to-crack ex-CIA man Jack Byrnes and his wife Dina head for the warmer climes of Florida to meet the parents of their son-in-law-to-be, Greg Focker. Unlike their happily matched offspring, the future in-laws find themselves in a situation of opposites that definitely do not attract."
     },
     {
@@ -5364,8 +6298,36 @@
       "addedAt": "2025-11-09T18:07:59+00:00",
       "tmdbId": 1597,
       "poster": "https://image.tmdb.org/t/p/w500/gTDNSpzSuZuwoXiEGpCigzKyO5I.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        35,
+        10749
+      ],
+      "cast": [
+        {
+          "id": 7399,
+          "name": "Ben Stiller"
+        },
+        {
+          "id": 380,
+          "name": "Robert De Niro"
+        },
+        {
+          "id": 10399,
+          "name": "Teri Polo"
+        },
+        {
+          "id": 10401,
+          "name": "Blythe Danner"
+        },
+        {
+          "id": 17866,
+          "name": "Jon Abrahams"
+        },
+        {
+          "id": 17865,
+          "name": "Nicole DeHuff"
+        }
+      ],
       "overviewEn": "Greg Focker is ready to marry his girlfriend, Pam, but before he pops the question, he must win over her formidable father, humorless former CIA agent Jack Byrnes, at the wedding of Pam's sister. As Greg bends over backward to make a good impression, his visit to the Byrnes home turns into a hilarious series of disasters, and everything that can go wrong does, all under Jack's critical, hawklike gaze."
     },
     {
@@ -5549,8 +6511,36 @@
       "addedAt": "2025-10-25T04:17:21+00:00",
       "tmdbId": 1440,
       "poster": "https://image.tmdb.org/t/p/w500/so9xla7b7WfFiarDwOukhQpRuyd.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        18,
+        10749
+      ],
+      "cast": [
+        {
+          "id": 204,
+          "name": "Kate Winslet"
+        },
+        {
+          "id": 17178,
+          "name": "Patrick Wilson"
+        },
+        {
+          "id": 6161,
+          "name": "Jennifer Connelly"
+        },
+        {
+          "id": 17179,
+          "name": "Gregg Edelman"
+        },
+        {
+          "id": 17180,
+          "name": "Sadie Goldstein"
+        },
+        {
+          "id": 17181,
+          "name": "Ty Simpkins"
+        }
+      ],
       "overviewEn": "The lives of two lovelorn spouses from separate marriages, a registered sex offender, and a disgraced ex-police officer intersect as they struggle to resist their vulnerabilities and temptations."
     },
     {
@@ -5561,8 +6551,37 @@
       "addedAt": "2025-10-25T01:57:09+00:00",
       "tmdbId": 604079,
       "poster": "https://image.tmdb.org/t/p/w500/wobVTa99eW0ht6c1rNNzLkazPtR.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        878,
+        53,
+        27
+      ],
+      "cast": [
+        {
+          "id": 2764542,
+          "name": "Cooper Hoffman"
+        },
+        {
+          "id": 2761308,
+          "name": "David Jonsson"
+        },
+        {
+          "id": 1446466,
+          "name": "Garrett Wareing"
+        },
+        {
+          "id": 3033265,
+          "name": "Ben Wang"
+        },
+        {
+          "id": 2362672,
+          "name": "Tut Nyuot"
+        },
+        {
+          "id": 1440574,
+          "name": "Charlie Plummer"
+        }
+      ],
       "overviewEn": "In a dystopian America, fifty teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains."
     },
     {
@@ -5612,8 +6631,36 @@
       "addedAt": "2025-10-18T02:45:34+00:00",
       "tmdbId": 228205,
       "poster": "https://image.tmdb.org/t/p/w500/qdUVfvPBvT6cetDDM7rn8y2CNZE.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        18,
+        10749
+      ],
+      "cast": [
+        {
+          "id": 52018,
+          "name": "Britt Robertson"
+        },
+        {
+          "id": 928572,
+          "name": "Scott Eastwood"
+        },
+        {
+          "id": 21278,
+          "name": "Alan Alda"
+        },
+        {
+          "id": 54738,
+          "name": "Jack Huston"
+        },
+        {
+          "id": 566331,
+          "name": "Oona Chaplin"
+        },
+        {
+          "id": 129104,
+          "name": "Melissa Benoist"
+        }
+      ],
       "overviewEn": "The lives of a young couple intertwine with a much older man as he reflects back on a lost love while he's trapped in an automobile crash."
     },
     {
@@ -5741,8 +6788,36 @@
       "addedAt": "2025-10-13T17:23:21+00:00",
       "tmdbId": 9342,
       "poster": "https://image.tmdb.org/t/p/w500/8ZpFaSjAEfr6ArJUS7jOVvg6eZa.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        12
+      ],
+      "cast": [
+        {
+          "id": 3131,
+          "name": "Antonio Banderas"
+        },
+        {
+          "id": 4173,
+          "name": "Anthony Hopkins"
+        },
+        {
+          "id": 1922,
+          "name": "Catherine Zeta-Jones"
+        },
+        {
+          "id": 14344,
+          "name": "Stuart Wilson"
+        },
+        {
+          "id": 28414,
+          "name": "Matt Letscher"
+        },
+        {
+          "id": 8262,
+          "name": "L.Q. Jones"
+        }
+      ],
       "overviewEn": "It has been twenty years since Don Diego de la Vega fought Spanish oppression in Alta California as the legendary romantic hero, Zorro. Having escaped from prison he transforms troubled bandit Alejandro into his successor, in order to foil the plans of the tyrannical Don Rafael Montero who robbed him of his freedom, his wife and his precious daughter."
     },
     {
@@ -5765,8 +6840,37 @@
       "addedAt": "2025-10-13T17:21:07+00:00",
       "tmdbId": 1656,
       "poster": "https://image.tmdb.org/t/p/w500/93iEBX1QbsxAv8eSybe8lhLXY1A.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        12,
+        37
+      ],
+      "cast": [
+        {
+          "id": 3131,
+          "name": "Antonio Banderas"
+        },
+        {
+          "id": 1922,
+          "name": "Catherine Zeta-Jones"
+        },
+        {
+          "id": 18460,
+          "name": "Adrian Alonso"
+        },
+        {
+          "id": 17413,
+          "name": "Julio Oscar Mechoso"
+        },
+        {
+          "id": 18461,
+          "name": "Nick Chinlund"
+        },
+        {
+          "id": 18462,
+          "name": "Alexa Benedetti"
+        }
+      ],
       "overviewEn": "Despite trying to keep his swashbuckling to a minimum, a threat to California's pending statehood causes the adventure-loving Don Alejandro de la Vega and his wife, Elena, to take action."
     },
     {
@@ -5966,8 +7070,36 @@
       "addedAt": "2025-10-06T19:10:13+00:00",
       "tmdbId": 77663,
       "poster": "https://image.tmdb.org/t/p/w500/o55HXx21PqRcOgAaOWFz4tGMrZh.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        53
+      ],
+      "cast": [
+        {
+          "id": 380,
+          "name": "Robert De Niro"
+        },
+        {
+          "id": 8891,
+          "name": "John Travolta"
+        },
+        {
+          "id": 16501,
+          "name": "Milo Ventimiglia"
+        },
+        {
+          "id": 1189507,
+          "name": "Liz Olin"
+        },
+        {
+          "id": 1189508,
+          "name": "Diana Lyubenova"
+        },
+        {
+          "id": 1189510,
+          "name": "Kalin Sarmenov"
+        }
+      ],
       "overviewEn": "Two veterans of the Bosnian War, one American, one Serbian, clash in the remote Smoky Mountain wilderness."
     },
     {
@@ -6121,8 +7253,36 @@
       "addedAt": "2025-10-04T19:40:19+00:00",
       "tmdbId": 1236470,
       "poster": "https://image.tmdb.org/t/p/w500/4IPxzGlE17fJAwUTMul4opMeutA.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        18,
+        53
+      ],
+      "cast": [
+        {
+          "id": 10297,
+          "name": "Matthew McConaughey"
+        },
+        {
+          "id": 59174,
+          "name": "America Ferrera"
+        },
+        {
+          "id": 75604,
+          "name": "Yul Vazquez"
+        },
+        {
+          "id": 77264,
+          "name": "Ashlie Atkinson"
+        },
+        {
+          "id": 2126994,
+          "name": "Kimberli Flores"
+        },
+        {
+          "id": 4923539,
+          "name": "Levi McConaughey"
+        }
+      ],
       "overviewEn": "A determined father risks everything to rescue a dedicated teacher and her students from a raging wildfire."
     },
     {
@@ -6133,8 +7293,36 @@
       "addedAt": "2025-10-01T21:39:34+00:00",
       "tmdbId": 228203,
       "poster": "https://image.tmdb.org/t/p/w500/yyhniD8A7Mv6SOn8oo1Ba2K0mKc.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        18,
+        10751
+      ],
+      "cast": [
+        {
+          "id": 1269,
+          "name": "Kevin Costner"
+        },
+        {
+          "id": 49,
+          "name": "Maria Bello"
+        },
+        {
+          "id": 122851,
+          "name": "Elsie Fisher"
+        },
+        {
+          "id": 109868,
+          "name": "Morgan Saylor"
+        },
+        {
+          "id": 55392,
+          "name": "Martha Higareda"
+        },
+        {
+          "id": 188024,
+          "name": "Vincent Martella"
+        }
+      ],
       "overviewEn": "A track coach in a small California town transforms a team of athletes into championship contenders."
     },
     {
@@ -6251,8 +7439,37 @@
       "addedAt": "2025-09-28T16:27:50+00:00",
       "tmdbId": 507241,
       "poster": "https://image.tmdb.org/t/p/w500/4bKlTeOUr5AKrLky8mwWvlQqyVd.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        35,
+        53
+      ],
+      "cast": [
+        {
+          "id": 543530,
+          "name": "Dave Bautista"
+        },
+        {
+          "id": 568657,
+          "name": "Sofia Boutella"
+        },
+        {
+          "id": 53256,
+          "name": "Terry Crews"
+        },
+        {
+          "id": 139820,
+          "name": "Pom Klementieff"
+        },
+        {
+          "id": 9452,
+          "name": "Daniel Bernhardt"
+        },
+        {
+          "id": 78110,
+          "name": "Scott Adkins"
+        }
+      ],
       "overviewEn": "When top hitman Joe Flood is diagnosed with a terminal illness, he decides to take matters into his own hands – by taking a hit out on himself. But when the very hitmen he hired also target his ex-girlfriend, he must fend off an army of assassin colleagues and win back the love of his life before it's too late."
     },
     {
@@ -6398,8 +7615,35 @@
       "addedAt": "2025-09-17T23:33:42+00:00",
       "tmdbId": 1257778,
       "poster": "https://image.tmdb.org/t/p/w500/vXtJKt9vJTyMclwCsNKPMD8JC63.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        53
+      ],
+      "cast": [
+        {
+          "id": 59219,
+          "name": "Kyle Gallner"
+        },
+        {
+          "id": 11023,
+          "name": "Shawn Ashmore"
+        },
+        {
+          "id": 4520,
+          "name": "William Forsythe"
+        },
+        {
+          "id": 1503922,
+          "name": "Emyri Crutchfield"
+        },
+        {
+          "id": 2025638,
+          "name": "Phuong Kubacki"
+        },
+        {
+          "id": 2495136,
+          "name": "Sarah Pribis"
+        }
+      ],
       "overviewEn": "Nick Bianco sets out to reunite with the love of his life after serving a year in jail for assault, only to discover that she has a new admirer named Chester... who also happens to be his parole officer."
     },
     {
@@ -6690,8 +7934,36 @@
       "addedAt": "2025-09-08T03:01:01+00:00",
       "tmdbId": 809363,
       "poster": "https://image.tmdb.org/t/p/w500/6yrgAKpM4IdYpBMJxdnIcUVm0Cp.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        35,
+        10749
+      ],
+      "cast": [
+        {
+          "id": 560247,
+          "name": "Miren Ibarguren"
+        },
+        {
+          "id": 24923,
+          "name": "Ginés García Millán"
+        },
+        {
+          "id": 1647098,
+          "name": "Pol Monen"
+        },
+        {
+          "id": 931271,
+          "name": "Eduardo Casanova"
+        },
+        {
+          "id": 1080350,
+          "name": "La Terremoto de Alcorcón"
+        },
+        {
+          "id": 1149132,
+          "name": "Christian Vazquez"
+        }
+      ],
       "overviewEn": "Ana, a young Spanish woman who has just been dumped by her boyfriend, and her brother Tono, receive a call from their father to tell him that he is getting married in Mexico to a woman he met on the Internet. When they get there, they discover that the girl is 30 years younger than her father and they begin to live with her new in-laws, with the inevitable cultural clashes that this will entail."
     },
     {
@@ -6862,8 +8134,37 @@
       "addedAt": "2025-09-02T15:20:04+00:00",
       "tmdbId": 1035259,
       "poster": "https://image.tmdb.org/t/p/w500/rmwQ8GsdQ1M3LtemNWLErle2nBU.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        35,
+        80,
+        28
+      ],
+      "cast": [
+        {
+          "id": 3896,
+          "name": "Liam Neeson"
+        },
+        {
+          "id": 6736,
+          "name": "Pamela Anderson"
+        },
+        {
+          "id": 1294982,
+          "name": "Paul Walter Hauser"
+        },
+        {
+          "id": 6413,
+          "name": "Danny Huston"
+        },
+        {
+          "id": 30485,
+          "name": "CCH Pounder"
+        },
+        {
+          "id": 79072,
+          "name": "Kevin Durand"
+        }
+      ],
       "overviewEn": "Only one man has the particular set of skills... to lead Police Squad and save the world: Lt. Frank Drebin Jr. Following in his father's footsteps, he must solve a murder case to prevent Police Squad from closure."
     },
     {
@@ -6981,8 +8282,36 @@
       "addedAt": "2025-08-31T01:46:42+00:00",
       "tmdbId": 517909,
       "poster": "https://image.tmdb.org/t/p/w500/hwNMJgbiUUvPCxsnADjbV9ysM5j.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        80,
+        18
+      ],
+      "cast": [
+        {
+          "id": 5064,
+          "name": "Meryl Streep"
+        },
+        {
+          "id": 64,
+          "name": "Gary Oldman"
+        },
+        {
+          "id": 3131,
+          "name": "Antonio Banderas"
+        },
+        {
+          "id": 2954,
+          "name": "Jeffrey Wright"
+        },
+        {
+          "id": 1221716,
+          "name": "Melissa Rauch"
+        },
+        {
+          "id": 1708688,
+          "name": "Jeff Michalski"
+        }
+      ],
       "overviewEn": "When a widow gets swindled out of insurance money, her search for answers leads to two cunning lawyers in Panama who hide cash for the superrich."
     },
     {
@@ -7070,8 +8399,38 @@
       "addedAt": "2025-08-24T23:39:05+00:00",
       "tmdbId": 135397,
       "poster": "https://image.tmdb.org/t/p/w500/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        12,
+        878,
+        53,
+        28
+      ],
+      "cast": [
+        {
+          "id": 73457,
+          "name": "Chris Pratt"
+        },
+        {
+          "id": 18997,
+          "name": "Bryce Dallas Howard"
+        },
+        {
+          "id": 76793,
+          "name": "Irrfan Khan"
+        },
+        {
+          "id": 7132,
+          "name": "Vincent D'Onofrio"
+        },
+        {
+          "id": 17181,
+          "name": "Ty Simpkins"
+        },
+        {
+          "id": 1108907,
+          "name": "Nick Robinson"
+        }
+      ],
       "overviewEn": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond."
     },
     {
@@ -7217,8 +8576,37 @@
       "addedAt": "2025-08-18T02:11:08+00:00",
       "tmdbId": 575265,
       "poster": "https://image.tmdb.org/t/p/w500/iKPsC9EFUafRP9SrUznI61getVP.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        53,
+        12
+      ],
+      "cast": [
+        {
+          "id": 500,
+          "name": "Tom Cruise"
+        },
+        {
+          "id": 39459,
+          "name": "Hayley Atwell"
+        },
+        {
+          "id": 10182,
+          "name": "Ving Rhames"
+        },
+        {
+          "id": 11108,
+          "name": "Simon Pegg"
+        },
+        {
+          "id": 65344,
+          "name": "Esai Morales"
+        },
+        {
+          "id": 139820,
+          "name": "Pom Klementieff"
+        }
+      ],
       "overviewEn": "Ethan Hunt and team continue their search for the terrifying AI known as the Entity — which has infiltrated intelligence networks all over the globe — with the world's governments and a mysterious ghost from Hunt's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever."
     },
     {
@@ -7359,8 +8747,37 @@
       "addedAt": "2025-08-05T06:13:49+00:00",
       "tmdbId": 1234821,
       "poster": "https://image.tmdb.org/t/p/w500/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        878,
+        12,
+        28
+      ],
+      "cast": [
+        {
+          "id": 1245,
+          "name": "Scarlett Johansson"
+        },
+        {
+          "id": 932967,
+          "name": "Mahershala Ali"
+        },
+        {
+          "id": 80860,
+          "name": "Jonathan Bailey"
+        },
+        {
+          "id": 36669,
+          "name": "Rupert Friend"
+        },
+        {
+          "id": 1168097,
+          "name": "Manuel Garcia-Rulfo"
+        },
+        {
+          "id": 1362844,
+          "name": "Luna Blaise"
+        }
+      ],
       "overviewEn": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades."
     },
     {
@@ -7474,8 +8891,37 @@
       "addedAt": "2025-07-21T21:07:44+00:00",
       "tmdbId": 552524,
       "poster": "https://image.tmdb.org/t/p/w500/c32TsWLES7kL1uy6fF03V67AIYX.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        10751,
+        878,
+        35
+      ],
+      "cast": [
+        {
+          "id": 3988423,
+          "name": "Maia Kealoha"
+        },
+        {
+          "id": 3025125,
+          "name": "Sydney Agudong"
+        },
+        {
+          "id": 66193,
+          "name": "Chris Sanders"
+        },
+        {
+          "id": 58225,
+          "name": "Zach Galifianakis"
+        },
+        {
+          "id": 141034,
+          "name": "Billy Magnussen"
+        },
+        {
+          "id": 24047,
+          "name": "Courtney B. Vance"
+        }
+      ],
       "overviewEn": "The wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family."
     },
     {
@@ -7568,8 +9014,37 @@
       "addedAt": "2025-07-15T19:04:06+00:00",
       "tmdbId": 1071585,
       "poster": "https://image.tmdb.org/t/p/w500/oekamLQrwlJjRNmfaBE4llIvkir.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        878,
+        53
+      ],
+      "cast": [
+        {
+          "id": 1255540,
+          "name": "Allison Williams"
+        },
+        {
+          "id": 3444018,
+          "name": "Amie Donald"
+        },
+        {
+          "id": 2131391,
+          "name": "Violet McGraw"
+        },
+        {
+          "id": 2043430,
+          "name": "Jenna Davis"
+        },
+        {
+          "id": 1071699,
+          "name": "Brian Jordan Alvarez"
+        },
+        {
+          "id": 2089274,
+          "name": "Jen Van Epps"
+        }
+      ],
       "overviewEn": "After the underlying tech for M3GAN is stolen and misused by a powerful defense contractor to create a military-grade weapon known as Amelia, M3GAN's creator Gemma realizes that the only option is to resurrect M3GAN and give her a few upgrades, making her faster, stronger, and more lethal."
     },
     {
@@ -7580,8 +9055,37 @@
       "addedAt": "2025-07-08T23:53:04+00:00",
       "tmdbId": 1011477,
       "poster": "https://image.tmdb.org/t/p/w500/c90Lt7OQGsOmhv6x4JoFdoHzw5l.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        12,
+        18
+      ],
+      "cast": [
+        {
+          "id": 18897,
+          "name": "Jackie Chan"
+        },
+        {
+          "id": 3033265,
+          "name": "Ben Wang"
+        },
+        {
+          "id": 11866,
+          "name": "Joshua Jackson"
+        },
+        {
+          "id": 2030076,
+          "name": "Sadie Stanley"
+        },
+        {
+          "id": 21702,
+          "name": "Ming-Na Wen"
+        },
+        {
+          "id": 1148455,
+          "name": "Wyatt Oleff"
+        }
+      ],
       "overviewEn": "After a family tragedy, kung fu prodigy Li Fong is uprooted from his home in Beijing and forced to move to New York City with his mother. When a new friend needs his help, Li enters a karate competition – but his skills alone aren't enough. Li's kung fu teacher Mr. Han enlists original Karate Kid Daniel LaRusso for help, and Li learns a new way to fight, merging their two styles into one for the ultimate martial arts showdown."
     },
     {
@@ -7696,8 +9200,37 @@
       "addedAt": "2025-07-05T03:37:24+00:00",
       "tmdbId": 1064486,
       "poster": "https://image.tmdb.org/t/p/w500/57AgZv1ITeBLShiNdchZ5153evs.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        16,
+        35,
+        18
+      ],
+      "cast": [
+        {
+          "id": 235416,
+          "name": "Sarah Snook"
+        },
+        {
+          "id": 113505,
+          "name": "Kodi Smit-McPhee"
+        },
+        {
+          "id": 67837,
+          "name": "Jacki Weaver"
+        },
+        {
+          "id": 45586,
+          "name": "Magda Szubanski"
+        },
+        {
+          "id": 2413,
+          "name": "Dominique Pinon"
+        },
+        {
+          "id": 3043430,
+          "name": "Tony Armstrong"
+        }
+      ],
       "overviewEn": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life."
     },
     {
@@ -8305,8 +9838,38 @@
       "addedAt": "2025-05-14T16:20:39+00:00",
       "tmdbId": 950387,
       "poster": "https://image.tmdb.org/t/p/w500/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        10751,
+        14,
+        35,
+        12
+      ],
+      "cast": [
+        {
+          "id": 117642,
+          "name": "Jason Momoa"
+        },
+        {
+          "id": 70851,
+          "name": "Jack Black"
+        },
+        {
+          "id": 2680307,
+          "name": "Sebastian Eugene Hansen"
+        },
+        {
+          "id": 2604515,
+          "name": "Emma Myers"
+        },
+        {
+          "id": 1075037,
+          "name": "Danielle Brooks"
+        },
+        {
+          "id": 38334,
+          "name": "Jennifer Coolidge"
+        }
+      ],
       "overviewEn": "Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve."
     },
     {
@@ -8329,8 +9892,37 @@
       "addedAt": "2025-05-05T02:46:00+00:00",
       "tmdbId": 204611,
       "poster": "https://image.tmdb.org/t/p/w500/7HT0pnqdIejrjciSnYDvVGL4rXB.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        27,
+        878,
+        53
+      ],
+      "cast": [
+        {
+          "id": 1318112,
+          "name": "Tommy Giavocchini"
+        },
+        {
+          "id": 1318113,
+          "name": "Patrick Kelley"
+        },
+        {
+          "id": 1318114,
+          "name": "Shirly McCalla"
+        },
+        {
+          "id": 1318115,
+          "name": "Stacey Shulman"
+        },
+        {
+          "id": 1318116,
+          "name": "Christine Staples"
+        },
+        {
+          "id": 1318117,
+          "name": "Laura Tomas"
+        }
+      ],
       "overviewEn": "On October 8th, 1983, the Van Heese family gathered together to celebrate the 5th birthday of Michelle, the littlest member of their household. Everything was captured on VHS by Michael McPherson and his new camcorder — including the alien invasion."
     },
     {
@@ -8370,8 +9962,35 @@
       "addedAt": "2025-05-05T01:10:45+00:00",
       "tmdbId": 1094403,
       "poster": "https://image.tmdb.org/t/p/w500/m1rcLLs0KmS8Cg60sLoMZC2OyDR.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        27
+      ],
+      "cast": [
+        {
+          "id": 1221085,
+          "name": "Jessica Sula"
+        },
+        {
+          "id": 1046202,
+          "name": "Candice Coke"
+        },
+        {
+          "id": 2354012,
+          "name": "Chaney Morrow"
+        },
+        {
+          "id": 1908462,
+          "name": "Clarke Wolfe"
+        },
+        {
+          "id": 2676086,
+          "name": "Morgan Lennon"
+        },
+        {
+          "id": 2456341,
+          "name": "Valerie Loo"
+        }
+      ],
       "overviewEn": "A rookie police officer willingly takes the last shift at a newly decommissioned police station in an attempt to uncover the mysterious connection between her father's death and a vicious cult."
     },
     {
@@ -8382,8 +10001,36 @@
       "addedAt": "2025-05-05T01:00:46+00:00",
       "tmdbId": 296065,
       "poster": "https://image.tmdb.org/t/p/w500/oSTFMqFpVB4yq9SOIxBp8xZ9jh5.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        27,
+        9648
+      ],
+      "cast": [
+        {
+          "id": 576474,
+          "name": "Juliana Harkavy"
+        },
+        {
+          "id": 1046665,
+          "name": "Joshua Mikel"
+        },
+        {
+          "id": 112100,
+          "name": "Hank Stone"
+        },
+        {
+          "id": 139631,
+          "name": "J. LaRose"
+        },
+        {
+          "id": 1522029,
+          "name": "Sarah Sculco"
+        },
+        {
+          "id": 1541823,
+          "name": "Kathryn Kilger"
+        }
+      ],
       "overviewEn": "Rookie police officer Jessica Loren has been assigned the last shift at a closing police station and must wait for a hazmat crew to collect biomedical evidence. Ordered not to leave the station under any circumstances, Jessica comes to learn that it's more than just an outdated station, it's home to the ultimate embodiment of evil and his devoted bloodthirsty followers. Jessica is left to fend for herself in the Devil's playground."
     },
     {
@@ -8855,8 +10502,37 @@
       "addedAt": "2025-04-09T01:47:21+00:00",
       "tmdbId": 696506,
       "poster": "https://image.tmdb.org/t/p/w500/lrCcovGRcuv8Z1v3ae1ZH5Ird05.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        878,
+        35,
+        12
+      ],
+      "cast": [
+        {
+          "id": 11288,
+          "name": "Robert Pattinson"
+        },
+        {
+          "id": 1537686,
+          "name": "Naomi Ackie"
+        },
+        {
+          "id": 215055,
+          "name": "Steven Yeun"
+        },
+        {
+          "id": 103,
+          "name": "Mark Ruffalo"
+        },
+        {
+          "id": 3051,
+          "name": "Toni Collette"
+        },
+        {
+          "id": 1021689,
+          "name": "Anamaria Vartolomei"
+        }
+      ],
       "overviewEn": "Unlikely hero Mickey Barnes finds himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job… to die, for a living."
     },
     {
@@ -8919,8 +10595,36 @@
       "addedAt": "2025-04-02T06:08:48+00:00",
       "tmdbId": 1124620,
       "poster": "https://image.tmdb.org/t/p/w500/aGDekyIb0yfmnuLZciCozRPk2TE.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        27,
+        35
+      ],
+      "cast": [
+        {
+          "id": 587020,
+          "name": "Theo James"
+        },
+        {
+          "id": 61134,
+          "name": "Tatiana Maslany"
+        },
+        {
+          "id": 1721268,
+          "name": "Christian Convery"
+        },
+        {
+          "id": 3257962,
+          "name": "Colin O'Brien"
+        },
+        {
+          "id": 36801,
+          "name": "Adam Scott"
+        },
+        {
+          "id": 109,
+          "name": "Elijah Wood"
+        }
+      ],
       "overviewEn": "When twin brothers find a mysterious wind-up monkey, a series of outrageous deaths tear their family apart. Twenty-five years later, the monkey begins a new killing spree forcing the estranged brothers to confront the cursed toy."
     },
     {
@@ -8972,8 +10676,35 @@
       "addedAt": "2025-04-02T06:05:11+00:00",
       "tmdbId": 1380415,
       "poster": "https://image.tmdb.org/t/p/w500/fulEdvN5u6mIpwig7HcBnYpkJEQ.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        18
+      ],
+      "cast": [
+        {
+          "id": 1647127,
+          "name": "Jamie Ward"
+        },
+        {
+          "id": 1420278,
+          "name": "James Oliver Wheatley"
+        },
+        {
+          "id": 1805355,
+          "name": "Charlie MacGechan"
+        },
+        {
+          "id": 592528,
+          "name": "Nathalie Rapti Gomez"
+        },
+        {
+          "id": 9140,
+          "name": "James Faulkner"
+        },
+        {
+          "id": 17343,
+          "name": "Robert Knepper"
+        }
+      ],
       "overviewEn": "In the days leading to betrayal, a gathering of disciples unravels into a web of secrets and hidden motives. As tensions simmer beneath the surface, trust is tested, and loyalty is questioned. The Last Supper becomes a night where nothing is as it seems, and every glance hides a deeper truth."
     },
     {
@@ -9248,8 +10979,37 @@
       "addedAt": "2025-02-19T02:51:11+00:00",
       "tmdbId": 762509,
       "poster": "https://image.tmdb.org/t/p/w500/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        12,
+        10751,
+        16
+      ],
+      "cast": [
+        {
+          "id": 1763709,
+          "name": "Aaron Pierre"
+        },
+        {
+          "id": 1344361,
+          "name": "Kelvin Harrison Jr."
+        },
+        {
+          "id": 1074676,
+          "name": "Tiffany Boone"
+        },
+        {
+          "id": 107529,
+          "name": "Kagiso Lediga"
+        },
+        {
+          "id": 1251835,
+          "name": "Preston Nyman"
+        },
+        {
+          "id": 1680929,
+          "name": "Blue Ivy Carter"
+        }
+      ],
       "overviewEn": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny."
     },
     {
@@ -9378,8 +11138,39 @@
       "addedAt": "2025-01-28T17:28:10+00:00",
       "tmdbId": 1241982,
       "poster": "https://image.tmdb.org/t/p/w500/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        12,
+        16,
+        35,
+        10751,
+        14
+      ],
+      "cast": [
+        {
+          "id": 1564846,
+          "name": "Auliʻi Cravalho"
+        },
+        {
+          "id": 18918,
+          "name": "Dwayne Johnson"
+        },
+        {
+          "id": 4775908,
+          "name": "Hualālai Chung"
+        },
+        {
+          "id": 1868823,
+          "name": "Rose Matafeo"
+        },
+        {
+          "id": 55937,
+          "name": "David Fane"
+        },
+        {
+          "id": 3819173,
+          "name": "Awhimai Fraser"
+        }
+      ],
       "overviewEn": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced."
     },
     {
@@ -9634,8 +11425,37 @@
       "addedAt": "2025-01-22T20:09:35+00:00",
       "tmdbId": 503919,
       "poster": "https://image.tmdb.org/t/p/w500/yAKNmpcUweGH6WMCEWenwU9PsbE.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        18,
+        14,
+        53
+      ],
+      "cast": [
+        {
+          "id": 11288,
+          "name": "Robert Pattinson"
+        },
+        {
+          "id": 5293,
+          "name": "Willem Dafoe"
+        },
+        {
+          "id": 2309944,
+          "name": "Valeriia Karaman"
+        },
+        {
+          "id": 2507696,
+          "name": "Logan Hawkes"
+        },
+        {
+          "id": 2507697,
+          "name": "Kyla Nicolle"
+        },
+        {
+          "id": 1520954,
+          "name": "Shaun Clarke"
+        }
+      ],
       "overviewEn": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s."
     },
     {
@@ -9658,8 +11478,37 @@
       "addedAt": "2025-01-14T18:50:45+00:00",
       "tmdbId": 539972,
       "poster": "https://image.tmdb.org/t/p/w500/1GvBhRxY6MELDfxFrete6BNhBB5.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        12,
+        53
+      ],
+      "cast": [
+        {
+          "id": 27428,
+          "name": "Aaron Taylor-Johnson"
+        },
+        {
+          "id": 1437491,
+          "name": "Ariana DeBose"
+        },
+        {
+          "id": 2099497,
+          "name": "Fred Hechinger"
+        },
+        {
+          "id": 4941,
+          "name": "Alessandro Nivola"
+        },
+        {
+          "id": 984629,
+          "name": "Christopher Abbott"
+        },
+        {
+          "id": 934,
+          "name": "Russell Crowe"
+        }
+      ],
       "overviewEn": "Kraven Kravinoff's complex relationship with his ruthless gangster father, Nikolai, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared."
     },
     {
@@ -9687,8 +11536,37 @@
       "addedAt": "2025-01-14T18:49:02+00:00",
       "tmdbId": 605722,
       "poster": "https://image.tmdb.org/t/p/w500/m5NKltgQqqyoWJNuK18IqEGRG7J.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        878,
+        35,
+        28
+      ],
+      "cast": [
+        {
+          "id": 1560244,
+          "name": "Anthony Ramos"
+        },
+        {
+          "id": 240724,
+          "name": "Naomi Scott"
+        },
+        {
+          "id": 571418,
+          "name": "Kristofer Hivju"
+        },
+        {
+          "id": 17306,
+          "name": "Zachary Quinto"
+        },
+        {
+          "id": 3624700,
+          "name": "Izzy Jones"
+        },
+        {
+          "id": 4920162,
+          "name": "Leon Nurse-Joseph"
+        }
+      ],
       "overviewEn": "After crash-landing on an alien planet, an asteroid miner must contend with the challenges of his new surroundings, while making his way across the harsh terrain to the only other survivor – a woman who is trapped in her escape pod."
     },
     {
@@ -9866,8 +11744,38 @@
       "addedAt": "2024-12-27T20:57:03+00:00",
       "tmdbId": 839033,
       "poster": "https://image.tmdb.org/t/p/w500/23WCoDo6wzBfzbX7BGTNwVUqZfi.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        16,
+        14,
+        12,
+        28
+      ],
+      "cast": [
+        {
+          "id": 1248,
+          "name": "Brian Cox"
+        },
+        {
+          "id": 1339199,
+          "name": "Gaia Wise"
+        },
+        {
+          "id": 220232,
+          "name": "Luke Pasqualino"
+        },
+        {
+          "id": 1674206,
+          "name": "Laurence Ubong Williams"
+        },
+        {
+          "id": 78329,
+          "name": "Lorraine Ashbourne"
+        },
+        {
+          "id": 502,
+          "name": "Miranda Otto"
+        }
+      ],
       "overviewEn": "A sudden attack by Wulf, a clever and traitorous lord of Rohan seeking vengeance for the death of his father, forces Helm Hammerhand, the King of Rohan, and his people to make a daring last stand in the ancient stronghold of the Hornburg."
     },
     {
@@ -9971,8 +11879,37 @@
       "addedAt": "2024-12-14T21:09:22+00:00",
       "tmdbId": 1243381,
       "poster": "https://image.tmdb.org/t/p/w500/wpApuf1xky92ug8n5mP5aP7DiDy.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        18,
+        36,
+        28
+      ],
+      "cast": [
+        {
+          "id": 4156214,
+          "name": "Noa Cohen"
+        },
+        {
+          "id": 3044906,
+          "name": "Ido Tako"
+        },
+        {
+          "id": 4173,
+          "name": "Anthony Hopkins"
+        },
+        {
+          "id": 81480,
+          "name": "Ori Pfeffer"
+        },
+        {
+          "id": 1027675,
+          "name": "Hilla Vidor"
+        },
+        {
+          "id": 1693436,
+          "name": "Dudley O'Shaughnessy"
+        }
+      ],
       "overviewEn": "A miraculous conception. A merciless king. A murderous pursuit. Mary's journey to give birth to Jesus unfolds in this biblical coming-of-age epic."
     },
     {
@@ -10170,9 +12107,38 @@
       "addedAt": "2024-12-03T00:39:46+00:00",
       "tmdbId": 10628,
       "poster": "https://image.tmdb.org/t/p/w500/3sphb3Bm8PZ5nqLaQ4u4yv2sSyx.jpg",
-      "genres": [],
-      "cast": [],
-      "overviewEn": "Two childhood friends — a New York hairstylist and a wanna-be musician — get mixed-up with the mob and are forced to deliver $50,000 to Australia, but things go all wrong when the money is lost to a wild kangaroo."
+      "genres": [
+        12,
+        35,
+        80
+      ],
+      "cast": [
+        {
+          "id": 3035,
+          "name": "Jerry O'Connell"
+        },
+        {
+          "id": 18471,
+          "name": "Anthony Anderson"
+        },
+        {
+          "id": 13241,
+          "name": "Estella Warren"
+        },
+        {
+          "id": 4690,
+          "name": "Christopher Walken"
+        },
+        {
+          "id": 335,
+          "name": "Michael Shannon"
+        },
+        {
+          "id": 20982,
+          "name": "Marton Csokas"
+        }
+      ],
+      "overviewEn": "Two childhood friends—a New York hairstylist and a wanna-be musician—get mixed-up with the mob and are forced to deliver $50,000 to Australia, but things go all wrong when the money is lost to a wild kangaroo."
     },
     {
       "title": "Legally Blonde 2: Red, White & Blonde",
@@ -10182,8 +12148,36 @@
       "addedAt": "2024-12-01T05:49:20+00:00",
       "tmdbId": 10327,
       "poster": "https://image.tmdb.org/t/p/w500/4kC0UGTuJgFnlZq2ZM6OiY7nuY8.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        35,
+        10749
+      ],
+      "cast": [
+        {
+          "id": 368,
+          "name": "Reese Witherspoon"
+        },
+        {
+          "id": 35,
+          "name": "Sally Field"
+        },
+        {
+          "id": 9788,
+          "name": "Regina King"
+        },
+        {
+          "id": 38334,
+          "name": "Jennifer Coolidge"
+        },
+        {
+          "id": 14888,
+          "name": "Bruce McGill"
+        },
+        {
+          "id": 13314,
+          "name": "Dana Ivey"
+        }
+      ],
       "overviewEn": "Now a rising young lawyer, Elle Woods is about to make partner at her firm, but when she finds out her dog's relatives are being used as cosmetic test subjects, she heads to Washington D.C. to fight for animal rights."
     },
     {
@@ -10194,8 +12188,35 @@
       "addedAt": "2024-12-01T05:48:21+00:00",
       "tmdbId": 8835,
       "poster": "https://image.tmdb.org/t/p/w500/9ohlMrJHQqKhfUKh7Zr3JQqHNLZ.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        35
+      ],
+      "cast": [
+        {
+          "id": 368,
+          "name": "Reese Witherspoon"
+        },
+        {
+          "id": 36422,
+          "name": "Luke Wilson"
+        },
+        {
+          "id": 11826,
+          "name": "Selma Blair"
+        },
+        {
+          "id": 56045,
+          "name": "Matthew Davis"
+        },
+        {
+          "id": 8536,
+          "name": "Victor Garber"
+        },
+        {
+          "id": 38334,
+          "name": "Jennifer Coolidge"
+        }
+      ],
       "overviewEn": "Fashionable sorority queen Elle Woods has it all, but, she wants nothing more than to be Mrs. Warner Huntington III. But he dumps her before heading to Harvard Law School. Elle rallies all of her resources and gets into Harvard, determined to win him back. While there, she figures out that there is more to herself than just good looks."
     },
     {
@@ -10206,8 +12227,37 @@
       "addedAt": "2024-11-30T01:07:38+00:00",
       "tmdbId": 9367,
       "poster": "https://image.tmdb.org/t/p/w500/zRh7K4SV1xQ419m8gzGITak51vc.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        80,
+        53
+      ],
+      "cast": [
+        {
+          "id": 20498,
+          "name": "Carlos Gallardo"
+        },
+        {
+          "id": 57469,
+          "name": "Consuelo Gómez"
+        },
+        {
+          "id": 57470,
+          "name": "Jaime de Hoyos"
+        },
+        {
+          "id": 57471,
+          "name": "Peter Marquardt"
+        },
+        {
+          "id": 1192733,
+          "name": "Reinol Martinez"
+        },
+        {
+          "id": 1192734,
+          "name": "Ramiro Gómez"
+        }
+      ],
       "overviewEn": "El Mariachi just wants to play his guitar and carry on the family tradition. Unfortunately, the town he tries to find work in has another visitor, a killer who carries his guns in a guitar case. The drug lord and his henchmen mistake el Mariachi for the killer, Azul, and chase him around town trying to kill him and get his guitar case."
     },
     {
@@ -10400,8 +12450,37 @@
       "addedAt": "2024-11-15T02:26:58+00:00",
       "tmdbId": 592831,
       "poster": "https://image.tmdb.org/t/p/w500/doVWgLdNyK36nEyyZgVsEWFCO1e.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        878,
+        18,
+        14
+      ],
+      "cast": [
+        {
+          "id": 1023139,
+          "name": "Adam Driver"
+        },
+        {
+          "id": 4808,
+          "name": "Giancarlo Esposito"
+        },
+        {
+          "id": 1251069,
+          "name": "Nathalie Emmanuel"
+        },
+        {
+          "id": 119592,
+          "name": "Aubrey Plaza"
+        },
+        {
+          "id": 10959,
+          "name": "Shia LaBeouf"
+        },
+        {
+          "id": 10127,
+          "name": "Jon Voight"
+        }
+      ],
       "overviewEn": "In a futuristic New York known as New Rome, visionary architect Cesar Catilina dreams of building \"Megalopolis,\" a utopian city that redefines society’s limits. Opposing him is the corrupt Mayor Franklyn Cicero, who clings to power and profit. Between them stands Julia, the mayor’s daughter, whose love for Cesar forces her to choose between loyalty, ambition, and the fate of humanity."
     },
     {
@@ -10477,8 +12556,37 @@
       "addedAt": "2024-10-30T19:49:10+00:00",
       "tmdbId": 889737,
       "poster": "https://image.tmdb.org/t/p/w500/if8QiqCI7WAGImKcJCfzp6VTyKA.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        18,
+        80,
+        53
+      ],
+      "cast": [
+        {
+          "id": 73421,
+          "name": "Joaquin Phoenix"
+        },
+        {
+          "id": 237405,
+          "name": "Lady Gaga"
+        },
+        {
+          "id": 2039,
+          "name": "Brendan Gleeson"
+        },
+        {
+          "id": 2229,
+          "name": "Catherine Keener"
+        },
+        {
+          "id": 1545693,
+          "name": "Zazie Beetz"
+        },
+        {
+          "id": 4581,
+          "name": "Steve Coogan"
+        }
+      ],
       "overviewEn": "While struggling with his dual identity, Arthur Fleck not only stumbles upon true love, but also finds the music that's always been inside him."
     },
     {
@@ -11283,8 +13391,37 @@
       "addedAt": "2024-07-29T01:39:25+00:00",
       "tmdbId": 1160018,
       "poster": "https://image.tmdb.org/t/p/w500/m2zXTuNPkywdYLyWlVyJZW2QOJH.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        80,
+        53
+      ],
+      "cast": [
+        {
+          "id": 2011444,
+          "name": "Lakshya"
+        },
+        {
+          "id": 1374676,
+          "name": "Raghav Juyal"
+        },
+        {
+          "id": 2368989,
+          "name": "Tanya Maniktala"
+        },
+        {
+          "id": 85684,
+          "name": "Ashish Vidhyarthi"
+        },
+        {
+          "id": 2489738,
+          "name": "Abhishek Chauhan"
+        },
+        {
+          "id": 1046623,
+          "name": "Harsh Chhaya"
+        }
+      ],
       "overviewEn": "When an army commando finds out his true love is engaged against her will, he boards a New Dehli-bound train in a daring quest to derail the arranged marriage. But when a gang of knife-wielding thieves begin to terrorize innocent passengers on his train, the commando takes them on, one by one."
     },
     {
@@ -11319,8 +13456,38 @@
       "addedAt": "2024-07-28T04:01:19+00:00",
       "tmdbId": 9470,
       "poster": "https://image.tmdb.org/t/p/w500/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        35,
+        80,
+        14
+      ],
+      "cast": [
+        {
+          "id": 57607,
+          "name": "Stephen Chow"
+        },
+        {
+          "id": 119426,
+          "name": "Yuen Qiu"
+        },
+        {
+          "id": 57609,
+          "name": "Yuen Wah"
+        },
+        {
+          "id": 545277,
+          "name": "Lam Tze-chung"
+        },
+        {
+          "id": 83491,
+          "name": "Bruce Leung Siu-lung"
+        },
+        {
+          "id": 83635,
+          "name": "Eva Huang"
+        }
+      ],
       "overviewEn": "It's the 1940s, and the notorious Axe Gang terrorizes Shanghai. Small-time criminals Sing and Bone hope to join, but they only manage to make lots of very dangerous enemies. Fortunately for them, kung fu masters and hidden strength can be found in unlikely places. Now they just have to take on the entire Axe Gang."
     },
     {
@@ -11331,8 +13498,37 @@
       "addedAt": "2024-07-10T00:45:29+00:00",
       "tmdbId": 653346,
       "poster": "https://image.tmdb.org/t/p/w500/pCJQjQlU4W0OtbLemyRoDF9SeSy.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        878,
+        12,
+        28
+      ],
+      "cast": [
+        {
+          "id": 1586047,
+          "name": "Owen Teague"
+        },
+        {
+          "id": 2146942,
+          "name": "Freya Allan"
+        },
+        {
+          "id": 79072,
+          "name": "Kevin Durand"
+        },
+        {
+          "id": 1444816,
+          "name": "Peter Macon"
+        },
+        {
+          "id": 3905,
+          "name": "William H. Macy"
+        },
+        {
+          "id": 966554,
+          "name": "Eka Darville"
+        }
+      ],
       "overviewEn": "Several generations following Caesar's reign, apes – now the dominant species – live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all he's known about the past and to make choices that will define a future for apes and humans alike."
     },
     {
@@ -11757,8 +13953,37 @@
       "addedAt": "2024-05-15T21:14:44+00:00",
       "tmdbId": 799583,
       "poster": "https://image.tmdb.org/t/p/w500/avbU7Msx1O7387Lnh4N81Bq4gfC.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        35,
+        10752
+      ],
+      "cast": [
+        {
+          "id": 73968,
+          "name": "Henry Cavill"
+        },
+        {
+          "id": 1222992,
+          "name": "Eiza González"
+        },
+        {
+          "id": 64295,
+          "name": "Alan Ritchson"
+        },
+        {
+          "id": 1807132,
+          "name": "Henry Golding"
+        },
+        {
+          "id": 2130,
+          "name": "Cary Elwes"
+        },
+        {
+          "id": 61363,
+          "name": "Alex Pettyfer"
+        }
+      ],
       "overviewEn": "During World War II, the British Army assigns a group of competent soldiers to carry out a mission against the Nazi forces behind enemy lines... A true story about a secret British WWII organization — the Special Operations Executive. Founded by Winston Churchill, their irregular warfare against the Germans helped to change the course of the war, and gave birth to modern black operations."
     },
     {
@@ -11810,8 +14035,39 @@
       "addedAt": "2024-04-22T02:11:10+00:00",
       "tmdbId": 1011985,
       "poster": "https://image.tmdb.org/t/p/w500/nqXsAaQsKw2gKpkfhIgjXNDRqg7.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        16,
+        35,
+        12,
+        28,
+        10751
+      ],
+      "cast": [
+        {
+          "id": 70851,
+          "name": "Jack Black"
+        },
+        {
+          "id": 1625558,
+          "name": "Awkwafina"
+        },
+        {
+          "id": 19492,
+          "name": "Viola Davis"
+        },
+        {
+          "id": 4483,
+          "name": "Dustin Hoffman"
+        },
+        {
+          "id": 17419,
+          "name": "Bryan Cranston"
+        },
+        {
+          "id": 20904,
+          "name": "James Hong"
+        }
+      ],
       "overviewEn": "Po is gearing up to become the spiritual leader of his Valley of Peace, but also needs someone to take his place as Dragon Warrior. As such, he will train a new kung fu practitioner for the spot and will encounter a villain called the Chameleon who conjures villains from the past."
     },
     {
@@ -11899,8 +14155,35 @@
       "addedAt": "2024-04-19T05:27:28+00:00",
       "tmdbId": 938614,
       "poster": "https://image.tmdb.org/t/p/w500/mu8LRWT9GHkfiyHm7kgxT6YNvMW.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        27
+      ],
+      "cast": [
+        {
+          "id": 83854,
+          "name": "David Dastmalchian"
+        },
+        {
+          "id": 187400,
+          "name": "Laura Gordon"
+        },
+        {
+          "id": 62486,
+          "name": "Ian Bliss"
+        },
+        {
+          "id": 230609,
+          "name": "Fayssal Bazzi"
+        },
+        {
+          "id": 2554414,
+          "name": "Ingrid Torelli"
+        },
+        {
+          "id": 3964519,
+          "name": "Rhys Auteri"
+        }
+      ],
       "overviewEn": "A live broadcast of a late-night talk show in 1977 goes horribly wrong, unleashing evil into the nation's living rooms."
     },
     {
@@ -12045,8 +14328,36 @@
       "addedAt": "2024-03-19T23:43:28+00:00",
       "tmdbId": 634492,
       "poster": "https://image.tmdb.org/t/p/w500/iwZVbgw7p6YMIUsKum3uXGbqOmr.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        14
+      ],
+      "cast": [
+        {
+          "id": 118545,
+          "name": "Dakota Johnson"
+        },
+        {
+          "id": 115440,
+          "name": "Sydney Sweeney"
+        },
+        {
+          "id": 1428070,
+          "name": "Isabela Merced"
+        },
+        {
+          "id": 1972881,
+          "name": "Celeste O'Connor"
+        },
+        {
+          "id": 81051,
+          "name": "Tahar Rahim"
+        },
+        {
+          "id": 51944,
+          "name": "Mike Epps"
+        }
+      ],
       "overviewEn": "Forced to confront revelations about her past, paramedic Cassandra Webb forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present."
     },
     {
@@ -12098,8 +14409,36 @@
       "addedAt": "2024-03-13T03:31:44+00:00",
       "tmdbId": 913673,
       "poster": "https://image.tmdb.org/t/p/w500/xwjWUAajQJPj5aik1tounPguZbz.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        27,
+        18
+      ],
+      "cast": [
+        {
+          "id": 54789,
+          "name": "Sean Patrick Flanery"
+        },
+        {
+          "id": 144675,
+          "name": "Jordan Belfi"
+        },
+        {
+          "id": 158097,
+          "name": "Tom Ohmer"
+        },
+        {
+          "id": 1217738,
+          "name": "Glenn Beck"
+        },
+        {
+          "id": 1079780,
+          "name": "Daniel Martin Berkey"
+        },
+        {
+          "id": 16500,
+          "name": "Mark De Alessandro"
+        }
+      ],
       "overviewEn": "On the day of his scheduled execution, a convicted serial killer gets a psychiatric evaluation during which he claims he is a demon, and further claims that before their time is over, the psychiatrist will commit three murders of his own."
     },
     {
@@ -12110,8 +14449,36 @@
       "addedAt": "2024-03-11T04:25:15+00:00",
       "tmdbId": 13811,
       "poster": "https://image.tmdb.org/t/p/w500/OG0mxQt4YaNIWiz8EKJSHe9lPh.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        878,
+        53
+      ],
+      "cast": [
+        {
+          "id": 2963,
+          "name": "Nicolas Cage"
+        },
+        {
+          "id": 9827,
+          "name": "Rose Byrne"
+        },
+        {
+          "id": 77334,
+          "name": "Chandler Canterbury"
+        },
+        {
+          "id": 77335,
+          "name": "Ben Mendelsohn"
+        },
+        {
+          "id": 77336,
+          "name": "Nadia Townsend"
+        },
+        {
+          "id": 18359,
+          "name": "Terry Camilleri"
+        }
+      ],
       "overviewEn": "A teacher opens a time capsule that has been dug up at his son's elementary school; in it are some chilling predictions -- some that have already occurred and others that are about to -- that lead him to believe his family plays a role in the events that are about to unfold."
     },
     {
@@ -12122,8 +14489,36 @@
       "addedAt": "2024-03-11T04:11:10+00:00",
       "tmdbId": 399170,
       "poster": "https://image.tmdb.org/t/p/w500/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        35,
+        80
+      ],
+      "cast": [
+        {
+          "id": 38673,
+          "name": "Channing Tatum"
+        },
+        {
+          "id": 1023139,
+          "name": "Adam Driver"
+        },
+        {
+          "id": 8784,
+          "name": "Daniel Craig"
+        },
+        {
+          "id": 98522,
+          "name": "Riley Keough"
+        },
+        {
+          "id": 3897,
+          "name": "Katie Holmes"
+        },
+        {
+          "id": 77795,
+          "name": "Katherine Waterston"
+        }
+      ],
       "overviewEn": "Trying to reverse a family curse, brothers Jimmy and Clyde Logan set out to execute an elaborate robbery during the legendary Coca-Cola 600 race at the Charlotte Motor Speedway."
     },
     {
@@ -12847,8 +15242,38 @@
       "addedAt": "2024-01-23T12:37:33+00:00",
       "tmdbId": 940551,
       "poster": "https://image.tmdb.org/t/p/w500/ldfCF9RhR40mppkzmftxapaHeTo.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        10751,
+        35,
+        12,
+        16
+      ],
+      "cast": [
+        {
+          "id": 466505,
+          "name": "Kumail Nanjiani"
+        },
+        {
+          "id": 9281,
+          "name": "Elizabeth Banks"
+        },
+        {
+          "id": 1736671,
+          "name": "Caspar Jennings"
+        },
+        {
+          "id": 4031156,
+          "name": "Tresi Gazal"
+        },
+        {
+          "id": 1625558,
+          "name": "Awkwafina"
+        },
+        {
+          "id": 10556,
+          "name": "Carol Kane"
+        }
+      ],
       "overviewEn": "After a migrating duck family alights on their pond with thrilling tales of far-flung places, the Mallard family embarks on a family road trip, from New England, to New York City, to tropical Jamaica."
     },
     {
@@ -12952,8 +15377,37 @@
       "addedAt": "2024-01-20T00:38:23+00:00",
       "tmdbId": 180,
       "poster": "https://image.tmdb.org/t/p/w500/ccqpHq5tk5W4ymbSbuoy4uYOxFI.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        878,
+        28,
+        53
+      ],
+      "cast": [
+        {
+          "id": 500,
+          "name": "Tom Cruise"
+        },
+        {
+          "id": 72466,
+          "name": "Colin Farrell"
+        },
+        {
+          "id": 2206,
+          "name": "Samantha Morton"
+        },
+        {
+          "id": 2201,
+          "name": "Max von Sydow"
+        },
+        {
+          "id": 2207,
+          "name": "Lois Smith"
+        },
+        {
+          "id": 53,
+          "name": "Peter Stormare"
+        }
+      ],
       "overviewEn": "John Anderton is a top 'Precrime' cop in the late-21st century, when technology can predict crimes before they're committed. But Anderton becomes the quarry when another investigator targets him for a murder charge."
     },
     {
@@ -12964,8 +15418,37 @@
       "addedAt": "2024-01-18T18:58:42+00:00",
       "tmdbId": 955916,
       "poster": "https://image.tmdb.org/t/p/w500/h7wJI6mctrDJ9wMbFfgrBUTn1LT.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        35,
+        80
+      ],
+      "cast": [
+        {
+          "id": 55638,
+          "name": "Kevin Hart"
+        },
+        {
+          "id": 1216606,
+          "name": "Gugu Mbatha-Raw"
+        },
+        {
+          "id": 65731,
+          "name": "Sam Worthington"
+        },
+        {
+          "id": 7132,
+          "name": "Vincent D'Onofrio"
+        },
+        {
+          "id": 1042728,
+          "name": "Úrsula Corberó"
+        },
+        {
+          "id": 1003,
+          "name": "Jean Reno"
+        }
+      ],
       "overviewEn": "An international heist crew, led by Cyrus Whitaker, race to lift $500 million in gold from a passenger plane at 40,000 feet."
     },
     {
@@ -13081,8 +15564,37 @@
       "addedAt": "2024-01-08T18:15:20+00:00",
       "tmdbId": 753342,
       "poster": "https://image.tmdb.org/t/p/w500/s46YI7diwlqDVLe55uOaO1VzTId.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        36,
+        10752,
+        18
+      ],
+      "cast": [
+        {
+          "id": 73421,
+          "name": "Joaquin Phoenix"
+        },
+        {
+          "id": 556356,
+          "name": "Vanessa Kirby"
+        },
+        {
+          "id": 81051,
+          "name": "Tahar Rahim"
+        },
+        {
+          "id": 4757,
+          "name": "Rupert Everett"
+        },
+        {
+          "id": 1231402,
+          "name": "Mark Bonnar"
+        },
+        {
+          "id": 80365,
+          "name": "Paul Rhys"
+        }
+      ],
       "overviewEn": "An epic that details the checkered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine."
     },
     {
@@ -13186,8 +15698,37 @@
       "addedAt": "2023-12-10T11:37:51+00:00",
       "tmdbId": 726209,
       "poster": "https://image.tmdb.org/t/p/w500/29rhl1xopxA7JlGVVsf1UHfYPvN.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        18,
+        9648,
+        53
+      ],
+      "cast": [
+        {
+          "id": 1204,
+          "name": "Julia Roberts"
+        },
+        {
+          "id": 569,
+          "name": "Ethan Hawke"
+        },
+        {
+          "id": 932967,
+          "name": "Mahershala Ali"
+        },
+        {
+          "id": 2673750,
+          "name": "Myha'la"
+        },
+        {
+          "id": 1548301,
+          "name": "Farrah Mackenzie"
+        },
+        {
+          "id": 3603348,
+          "name": "Charlie Evans"
+        }
+      ],
       "overviewEn": "A family's getaway to a luxurious rental home takes an ominous turn when a cyberattack knocks out their devices—and two strangers appear at their door."
     },
     {
@@ -13239,8 +15780,37 @@
       "addedAt": "2023-12-10T03:33:25+00:00",
       "tmdbId": 609681,
       "poster": "https://image.tmdb.org/t/p/w500/xxh6CFgwzYW29dSOsRjRBTpfqWT.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        878,
+        12,
+        28
+      ],
+      "cast": [
+        {
+          "id": 60073,
+          "name": "Brie Larson"
+        },
+        {
+          "id": 970219,
+          "name": "Teyonah Parris"
+        },
+        {
+          "id": 2798462,
+          "name": "Iman Vellani"
+        },
+        {
+          "id": 2231,
+          "name": "Samuel L. Jackson"
+        },
+        {
+          "id": 118034,
+          "name": "Zawe Ashton"
+        },
+        {
+          "id": 480,
+          "name": "Gary Lewis"
+        }
+      ],
       "overviewEn": "When her duties send her to an anomalous wormhole linked to a Kree revolutionary, Carol's powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol's estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe."
     },
     {
@@ -13263,8 +15833,37 @@
       "addedAt": "2023-12-05T14:01:29+00:00",
       "tmdbId": 466420,
       "poster": "https://image.tmdb.org/t/p/w500/pi0kmFJAEcHpTjqITHPFUic9omf.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        80,
+        36,
+        18
+      ],
+      "cast": [
+        {
+          "id": 6193,
+          "name": "Leonardo DiCaprio"
+        },
+        {
+          "id": 380,
+          "name": "Robert De Niro"
+        },
+        {
+          "id": 1183917,
+          "name": "Lily Gladstone"
+        },
+        {
+          "id": 88124,
+          "name": "Jesse Plemons"
+        },
+        {
+          "id": 7863,
+          "name": "Tantoo Cardinal"
+        },
+        {
+          "id": 12074,
+          "name": "John Lithgow"
+        }
+      ],
       "overviewEn": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one—until the FBI steps in to unravel the mystery."
     },
     {
@@ -13275,8 +15874,37 @@
       "addedAt": "2023-11-29T07:00:23+00:00",
       "tmdbId": 798362,
       "poster": "https://image.tmdb.org/t/p/w500/bcuEjrwhp5HgEUnFe5lc4xpEqzt.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        53,
+        80,
+        9648
+      ],
+      "cast": [
+        {
+          "id": 1315036,
+          "name": "Daisy Ridley"
+        },
+        {
+          "id": 77335,
+          "name": "Ben Mendelsohn"
+        },
+        {
+          "id": 9828,
+          "name": "Garrett Hedlund"
+        },
+        {
+          "id": 1046903,
+          "name": "Caren Pistorius"
+        },
+        {
+          "id": 1704640,
+          "name": "Brooklynn Prince"
+        },
+        {
+          "id": 3550494,
+          "name": "Joey Carson"
+        }
+      ],
       "overviewEn": "Helena, a woman living a seemingly ordinary life, hides a dark secret—her father is the infamous 'Marsh King', the man who kept her and her mother captive in the wilderness for years. After a lifetime of trying to escape her past, Helena is forced to face her demons when her father unexpectedly escapes from prison."
     },
     {
@@ -13555,8 +16183,36 @@
       "addedAt": "2023-11-14T23:05:43+00:00",
       "tmdbId": 800158,
       "poster": "https://image.tmdb.org/t/p/w500/e7Jvsry47JJQruuezjU2X1Z6J77.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        80,
+        53
+      ],
+      "cast": [
+        {
+          "id": 17288,
+          "name": "Michael Fassbender"
+        },
+        {
+          "id": 3063,
+          "name": "Tilda Swinton"
+        },
+        {
+          "id": 124112,
+          "name": "Charles Parnell"
+        },
+        {
+          "id": 3229,
+          "name": "Arliss Howard"
+        },
+        {
+          "id": 100567,
+          "name": "Kerry O'Malley"
+        },
+        {
+          "id": 583628,
+          "name": "Sophie Charlotte"
+        }
+      ],
       "overviewEn": "After a fateful miss, an assassin battles his employers, and himself, on an international manhunt he insists isn't personal."
     },
     {
@@ -13685,8 +16341,37 @@
       "addedAt": "2023-10-29T02:37:53+00:00",
       "tmdbId": 575264,
       "poster": "https://image.tmdb.org/t/p/w500/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        12,
+        53
+      ],
+      "cast": [
+        {
+          "id": 500,
+          "name": "Tom Cruise"
+        },
+        {
+          "id": 39459,
+          "name": "Hayley Atwell"
+        },
+        {
+          "id": 10182,
+          "name": "Ving Rhames"
+        },
+        {
+          "id": 11108,
+          "name": "Simon Pegg"
+        },
+        {
+          "id": 933238,
+          "name": "Rebecca Ferguson"
+        },
+        {
+          "id": 556356,
+          "name": "Vanessa Kirby"
+        }
+      ],
       "overviewEn": "Ethan Hunt and his IMF team embark on their most dangerous mission yet: To track down a terrifying new weapon that threatens all of humanity before it falls into the wrong hands. With control of the future and the world's fate at stake and dark forces from Ethan's past closing in, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan must consider that nothing can matter more than his mission—not even the lives of those he cares about most."
     },
     {
@@ -14014,8 +16699,36 @@
       "addedAt": "2023-09-27T15:52:15+00:00",
       "tmdbId": 635910,
       "poster": "https://image.tmdb.org/t/p/w500/nrtbv6Cew7qC7k9GsYSf5uSmuKh.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        27,
+        14
+      ],
+      "cast": [
+        {
+          "id": 1154054,
+          "name": "Corey Hawkins"
+        },
+        {
+          "id": 1323109,
+          "name": "Aisling Franciosi"
+        },
+        {
+          "id": 83854,
+          "name": "David Dastmalchian"
+        },
+        {
+          "id": 111090,
+          "name": "Javier Botet"
+        },
+        {
+          "id": 15498,
+          "name": "Liam Cunningham"
+        },
+        {
+          "id": 1656685,
+          "name": "Chris Walley"
+        }
+      ],
       "overviewEn": "The crew of the merchant ship Demeter attempts to survive the ocean voyage from Carpathia to London as they are stalked each night by a merciless presence onboard the ship."
     },
     {
@@ -14089,8 +16802,37 @@
       "addedAt": "2023-09-14T23:05:34+00:00",
       "tmdbId": 647250,
       "poster": "https://image.tmdb.org/t/p/w500/x9dGI7LIOMMlFzyIBUta1svft2Y.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        35,
+        28,
+        80
+      ],
+      "cast": [
+        {
+          "id": 1187274,
+          "name": "Bert Kreischer"
+        },
+        {
+          "id": 2,
+          "name": "Mark Hamill"
+        },
+        {
+          "id": 1304335,
+          "name": "Jimmy Tatro"
+        },
+        {
+          "id": 204651,
+          "name": "Stephanie Kurtzuba"
+        },
+        {
+          "id": 111058,
+          "name": "Nikola Đuričko"
+        },
+        {
+          "id": 569938,
+          "name": "Iva Babić"
+        }
+      ],
       "overviewEn": "Bert Kreischer faces a familial crisis and the arrival of his estranged father when the ghost of his booze-soaked past arrives: a murderous mobster hellbent on kidnapping Bert back to the motherland to atone for his crimes. Together, he and his father must retrace the steps of his younger self in the midst of a war between a sociopathic crime family while they attempt to find common ground."
     },
     {
@@ -14101,8 +16843,37 @@
       "addedAt": "2023-09-14T23:01:31+00:00",
       "tmdbId": 717930,
       "poster": "https://image.tmdb.org/t/p/w500/lCanGgsqF4xD2WA5NF8PWeT3IXd.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        53,
+        10752
+      ],
+      "cast": [
+        {
+          "id": 17276,
+          "name": "Gerard Butler"
+        },
+        {
+          "id": 103330,
+          "name": "Navid Negahban"
+        },
+        {
+          "id": 77700,
+          "name": "Travis Fimmel"
+        },
+        {
+          "id": 492791,
+          "name": "Ali Fazal"
+        },
+        {
+          "id": 1437659,
+          "name": "Bahador Foladi"
+        },
+        {
+          "id": 1227646,
+          "name": "Nina Toussaint-White"
+        }
+      ],
       "overviewEn": "After his mission is exposed, an undercover CIA operative stuck deep in hostile territory in Afghanistan must fight his way out, alongside his Afghan translator, to an extraction point in Kandahar, all whilst avoiding elite enemy forces and foreign spies tasked with hunting them down."
     },
     {
@@ -14195,8 +16966,37 @@
       "addedAt": "2023-09-10T13:58:00+00:00",
       "tmdbId": 864101,
       "poster": "https://image.tmdb.org/t/p/w500/mv2DFhsaLeNgFzNe2G5CJhzbrkt.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        878,
+        18,
+        12
+      ],
+      "cast": [
+        {
+          "id": 93540,
+          "name": "Anatoliy Belyy"
+        },
+        {
+          "id": 235712,
+          "name": "Darya Moroz"
+        },
+        {
+          "id": 2218132,
+          "name": "Veronika Ustimova"
+        },
+        {
+          "id": 1533645,
+          "name": "Maxim Lagashkin"
+        },
+        {
+          "id": 2217915,
+          "name": "Evgeny Egorov"
+        },
+        {
+          "id": 587910,
+          "name": "Andrei Smolyakov"
+        }
+      ],
       "overviewEn": "Near future. Lera Arabova is a 15-year-old girl who lives with her family in Vladivostok. Lera's father has been working at the orbiting space station \"Mira\" for many years and has long lost contact with his daughter, turning only into a voice on the phone. After a meteor shower hits the city, Lera has only one chance to save her loved ones and the city from a new disaster. Her father helps her in this - through satellite surveillance systems and the telephone, he uses every opportunity to send a message to his daughter, watching from above from the station her every step."
     },
     {
@@ -14271,8 +17071,37 @@
       "addedAt": "2023-08-26T15:42:54+00:00",
       "tmdbId": 615656,
       "poster": "https://image.tmdb.org/t/p/w500/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        878,
+        27
+      ],
+      "cast": [
+        {
+          "id": 976,
+          "name": "Jason Statham"
+        },
+        {
+          "id": 78871,
+          "name": "Wu Jing"
+        },
+        {
+          "id": 1704579,
+          "name": "Shuya Sophia Cai"
+        },
+        {
+          "id": 177214,
+          "name": "Page Kennedy"
+        },
+        {
+          "id": 78994,
+          "name": "Sergio Peris-Mencheta"
+        },
+        {
+          "id": 7055,
+          "name": "Sienna Guillory"
+        }
+      ],
       "overviewEn": "An exploratory dive into the deepest depths of the ocean of a daring research team spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival."
     },
     {
@@ -14323,8 +17152,38 @@
       "addedAt": "2023-07-25T20:51:22+00:00",
       "tmdbId": 447277,
       "poster": "https://image.tmdb.org/t/p/w500/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        12,
+        10751,
+        14,
+        10749
+      ],
+      "cast": [
+        {
+          "id": 1735828,
+          "name": "Halle Bailey"
+        },
+        {
+          "id": 1599391,
+          "name": "Jonah Hauer-King"
+        },
+        {
+          "id": 55536,
+          "name": "Melissa McCarthy"
+        },
+        {
+          "id": 3810,
+          "name": "Javier Bardem"
+        },
+        {
+          "id": 517103,
+          "name": "Noma Dumezweni"
+        },
+        {
+          "id": 10672,
+          "name": "Art Malik"
+        }
+      ],
       "overviewEn": "The youngest of King Triton’s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. With mermaids forbidden to interact with humans, Ariel makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life – and her father’s crown – in jeopardy."
     },
     {
@@ -14668,8 +17527,37 @@
       "addedAt": "2023-05-06T05:42:41+00:00",
       "tmdbId": 9291,
       "poster": "https://image.tmdb.org/t/p/w500/nbKcVBcxF96ARW2oKHqDYAcLdu.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        18,
+        35,
+        80
+      ],
+      "cast": [
+        {
+          "id": 19292,
+          "name": "Adam Sandler"
+        },
+        {
+          "id": 2632,
+          "name": "Chris Rock"
+        },
+        {
+          "id": 16475,
+          "name": "Burt Reynolds"
+        },
+        {
+          "id": 69128,
+          "name": "Nelly"
+        },
+        {
+          "id": 69127,
+          "name": "Michael Irvin"
+        },
+        {
+          "id": 65236,
+          "name": "Bill Goldberg"
+        }
+      ],
       "overviewEn": "Disgraced pro football quarterback Paul Crewe lands in a Texas federal penitentiary, where manipulative Warden Hazen recruits him to advise the institution's football team of prison guards. Crewe suggests a tune-up game which lands him quarterbacking a crew of inmates in a game against the guards. Aided by incarcerated ex-NFL coach and player Nate Scarborough, Crewe and his team must overcome not only the bloodthirstiness of the opposition, but also the corrupt warden trying to fix the game against them."
     },
     {
@@ -14769,8 +17657,37 @@
       "addedAt": "2023-04-24T20:06:39+00:00",
       "tmdbId": 948713,
       "poster": "https://image.tmdb.org/t/p/w500/qcNDxDzd5OW9wE3c8nWxCBQoBrM.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        12,
+        10752
+      ],
+      "cast": [
+        {
+          "id": 1273309,
+          "name": "Alexander Dreymon"
+        },
+        {
+          "id": 1756015,
+          "name": "Harry Gilby"
+        },
+        {
+          "id": 1799858,
+          "name": "Mark Rowley"
+        },
+        {
+          "id": 1156305,
+          "name": "Arnas Fedaravičius"
+        },
+        {
+          "id": 190699,
+          "name": "Cavan Clerkin"
+        },
+        {
+          "id": 1362119,
+          "name": "James Northcote"
+        }
+      ],
       "overviewEn": "In the wake of King Edward's death, Uhtred of Bebbanburg and his comrades adventure across a fractured kingdom in the hopes of uniting England at last."
     },
     {
@@ -14945,8 +17862,37 @@
       "addedAt": "2023-04-12T08:37:41+00:00",
       "tmdbId": 11008,
       "poster": "https://image.tmdb.org/t/p/w500/kWHx5eq7PELkF3If7LrrhuBskRG.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        12,
+        35,
+        10751
+      ],
+      "cast": [
+        {
+          "id": 22675,
+          "name": "Damon Wayans"
+        },
+        {
+          "id": 80987,
+          "name": "Karyn Parsons"
+        },
+        {
+          "id": 204411,
+          "name": "Steven Martini"
+        },
+        {
+          "id": 149010,
+          "name": "Orlando Brown"
+        },
+        {
+          "id": 21282,
+          "name": "William Hickey"
+        },
+        {
+          "id": 11086,
+          "name": "Michael Ironside"
+        }
+      ],
       "overviewEn": "Major Benson Winifred Payne is being discharged from the Marines. Payne is a killin' machine, but the wars of the world are no longer fought on the battlefield. A career Marine, he has no idea what to do as a civilian, so his commander finds him a job - commanding officer of a local school's JROTC program, a bunch of ragtag losers with no hope."
     },
     {
@@ -15337,8 +18283,36 @@
       "addedAt": "2023-04-12T08:37:29+00:00",
       "tmdbId": 406429,
       "poster": "https://image.tmdb.org/t/p/w500/nMiTkBfAmXtCW2tbWHRiGb09Bjv.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        14
+      ],
+      "cast": [
+        {
+          "id": 1336,
+          "name": "Jet Li"
+        },
+        {
+          "id": 64439,
+          "name": "Fan Bingbing"
+        },
+        {
+          "id": 109434,
+          "name": "Huang Xiaoming"
+        },
+        {
+          "id": 78875,
+          "name": "Louis Koo"
+        },
+        {
+          "id": 150899,
+          "name": "Angelababy"
+        },
+        {
+          "id": 105423,
+          "name": "Jacky Heung"
+        }
+      ],
       "overviewEn": "During the reign of King Zhou, an official enters his bedchamber, and is devoured by the monstrous tails of Daji, his concubine. Outside their city, several warriors within a metal wagon discuss their strategies to free the Invisible People and their Chief, when Jiang Ziya appears to them. He tells them that when King Zhou was younger, he let himself become possessed by the Black Dragon for his quest for power."
     },
     {
@@ -16144,8 +19118,38 @@
       "addedAt": "2023-04-12T08:36:56+00:00",
       "tmdbId": 479455,
       "poster": "https://image.tmdb.org/t/p/w500/4FhQQfQsTVPLPvBrvIYIm4Qt1M9.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        35,
+        878,
+        28,
+        12
+      ],
+      "cast": [
+        {
+          "id": 74568,
+          "name": "Chris Hemsworth"
+        },
+        {
+          "id": 62561,
+          "name": "Tessa Thompson"
+        },
+        {
+          "id": 466505,
+          "name": "Kumail Nanjiani"
+        },
+        {
+          "id": 933238,
+          "name": "Rebecca Ferguson"
+        },
+        {
+          "id": 28847,
+          "name": "Rafe Spall"
+        },
+        {
+          "id": 7056,
+          "name": "Emma Thompson"
+        }
+      ],
       "overviewEn": "The Men in Black have always protected the Earth from the scum of the universe. In this new adventure, they tackle their biggest, most global threat to date: a mole in the Men in Black organization."
     },
     {
@@ -16314,8 +19318,36 @@
       "addedAt": "2023-04-12T08:36:50+00:00",
       "tmdbId": 459992,
       "poster": "https://image.tmdb.org/t/p/w500/1F9AItQ6fhrfhBVQlmC8ReOQAFG.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        35,
+        10749
+      ],
+      "cast": [
+        {
+          "id": 6885,
+          "name": "Charlize Theron"
+        },
+        {
+          "id": 19274,
+          "name": "Seth Rogen"
+        },
+        {
+          "id": 1371398,
+          "name": "O'Shea Jackson Jr."
+        },
+        {
+          "id": 83873,
+          "name": "June Diane Raphael"
+        },
+        {
+          "id": 206485,
+          "name": "Ravi Patel"
+        },
+        {
+          "id": 1333,
+          "name": "Andy Serkis"
+        }
+      ],
       "overviewEn": "Journalist Fred Flarsky reunites with his childhood crush, Charlotte Field, now one of the most influential women in the world. As she prepares to make a run for the Presidency, Charlotte hires Fred as her speechwriter — much to the dismay of her trusted advisers."
     },
     {
@@ -16417,8 +19449,37 @@
       "addedAt": "2023-04-12T08:36:45+00:00",
       "tmdbId": 530385,
       "poster": "https://image.tmdb.org/t/p/w500/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        27,
+        18,
+        9648
+      ],
+      "cast": [
+        {
+          "id": 1373737,
+          "name": "Florence Pugh"
+        },
+        {
+          "id": 1007683,
+          "name": "Jack Reynor"
+        },
+        {
+          "id": 1410478,
+          "name": "William Jackson Harper"
+        },
+        {
+          "id": 93491,
+          "name": "Will Poulter"
+        },
+        {
+          "id": 2096149,
+          "name": "Vilhelm Blomgren"
+        },
+        {
+          "id": 2209530,
+          "name": "Isabelle Grill"
+        }
+      ],
       "overviewEn": "Several friends travel to Sweden to study as anthropologists a summer festival that is held every ninety years in the remote hometown of one of them. What begins as a dream vacation in a place where the sun never sets, gradually turns into a dark nightmare as the mysterious inhabitants invite them to participate in their disturbing festive activities."
     },
     {
@@ -16524,8 +19585,38 @@
       "addedAt": "2023-04-12T08:36:42+00:00",
       "tmdbId": 420818,
       "poster": "https://image.tmdb.org/t/p/w500/pSfwXxP94xktZKn3UaeVe6VdFZl.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        12,
+        18,
+        10751,
+        16
+      ],
+      "cast": [
+        {
+          "id": 5294,
+          "name": "Chiwetel Ejiofor"
+        },
+        {
+          "id": 84292,
+          "name": "John Oliver"
+        },
+        {
+          "id": 119589,
+          "name": "Donald Glover"
+        },
+        {
+          "id": 15152,
+          "name": "James Earl Jones"
+        },
+        {
+          "id": 51878,
+          "name": "John Kani"
+        },
+        {
+          "id": 1981,
+          "name": "Alfre Woodard"
+        }
+      ],
       "overviewEn": "Simba idolizes his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub's arrival. Scar, Mufasa's brother—and former heir to the throne—has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba's exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his."
     },
     {
@@ -16715,8 +19806,37 @@
       "addedAt": "2023-04-12T08:36:34+00:00",
       "tmdbId": 353486,
       "poster": "https://image.tmdb.org/t/p/w500/pSgXKPU5h6U89ipF7HBYajvYt7j.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        12,
+        35,
+        14
+      ],
+      "cast": [
+        {
+          "id": 18918,
+          "name": "Dwayne Johnson"
+        },
+        {
+          "id": 55638,
+          "name": "Kevin Hart"
+        },
+        {
+          "id": 70851,
+          "name": "Jack Black"
+        },
+        {
+          "id": 543261,
+          "name": "Karen Gillan"
+        },
+        {
+          "id": 82666,
+          "name": "Rhys Darby"
+        },
+        {
+          "id": 21127,
+          "name": "Bobby Cannavale"
+        }
+      ],
       "overviewEn": "Four teenagers in detention discover an old video game console with a game they’ve never heard of. When they decide to play, they are immediately sucked into the jungle world of Jumanji in the bodies of their avatars. They’ll have to complete the adventure of their lives filled with fun, thrills and danger or be stuck in the game forever!"
     },
     {
@@ -17142,8 +20262,37 @@
       "addedAt": "2023-04-12T08:36:24+00:00",
       "tmdbId": 512895,
       "poster": "https://image.tmdb.org/t/p/w500/8wBEye516IKul9sW7JKGcFXVGfV.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        10751,
+        10749,
+        35
+      ],
+      "cast": [
+        {
+          "id": 62561,
+          "name": "Tessa Thompson"
+        },
+        {
+          "id": 15009,
+          "name": "Justin Theroux"
+        },
+        {
+          "id": 1253355,
+          "name": "Kiersey Clemons"
+        },
+        {
+          "id": 1142720,
+          "name": "Thomas Mann"
+        },
+        {
+          "id": 55398,
+          "name": "Ashley Jensen"
+        },
+        {
+          "id": 30082,
+          "name": "Benedict Wong"
+        }
+      ],
       "overviewEn": "The love story between a pampered Cocker Spaniel named Lady and a streetwise mongrel named Tramp. Lady finds herself out on the street after her owners have a baby and is saved from a pack by Tramp, who tries to show her to live her life footloose and collar-free."
     },
     {
@@ -17377,8 +20526,37 @@
       "addedAt": "2023-04-12T08:36:16+00:00",
       "tmdbId": 475557,
       "poster": "https://image.tmdb.org/t/p/w500/g9l7iLYusH82bbEbwGCJzhVkOe2.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        80,
+        53,
+        18
+      ],
+      "cast": [
+        {
+          "id": 73421,
+          "name": "Joaquin Phoenix"
+        },
+        {
+          "id": 380,
+          "name": "Robert De Niro"
+        },
+        {
+          "id": 1545693,
+          "name": "Zazie Beetz"
+        },
+        {
+          "id": 4432,
+          "name": "Frances Conroy"
+        },
+        {
+          "id": 16841,
+          "name": "Brett Cullen"
+        },
+        {
+          "id": 74242,
+          "name": "Shea Whigham"
+        }
+      ],
       "overviewEn": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure."
     },
     {
@@ -17529,8 +20707,37 @@
       "addedAt": "2023-04-12T08:36:10+00:00",
       "tmdbId": 59436,
       "poster": "https://image.tmdb.org/t/p/w500/4wBG5kbfagTQclETblPRRGihk0I.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        14,
+        35,
+        10749
+      ],
+      "cast": [
+        {
+          "id": 887,
+          "name": "Owen Wilson"
+        },
+        {
+          "id": 53714,
+          "name": "Rachel McAdams"
+        },
+        {
+          "id": 8534,
+          "name": "Kathy Bates"
+        },
+        {
+          "id": 29685,
+          "name": "Kurt Fuller"
+        },
+        {
+          "id": 3490,
+          "name": "Adrien Brody"
+        },
+        {
+          "id": 937039,
+          "name": "Carla Bruni"
+        }
+      ],
       "overviewEn": "While on a trip to Paris with his fiancée's family, a nostalgic screenwriter finds himself mysteriously going back to the 1920s every day at midnight."
     },
     {
@@ -17635,8 +20842,37 @@
       "addedAt": "2023-04-12T08:36:07+00:00",
       "tmdbId": 491283,
       "poster": "https://image.tmdb.org/t/p/w500/iqJhHjD6k6T07waELjMKDpQJUP.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        18,
+        36,
+        10402
+      ],
+      "cast": [
+        {
+          "id": 9137,
+          "name": "Renée Zellweger"
+        },
+        {
+          "id": 1498158,
+          "name": "Jessie Buckley"
+        },
+        {
+          "id": 168877,
+          "name": "Finn Wittrock"
+        },
+        {
+          "id": 17328,
+          "name": "Rufus Sewell"
+        },
+        {
+          "id": 5658,
+          "name": "Michael Gambon"
+        },
+        {
+          "id": 156356,
+          "name": "Richard Cordery"
+        }
+      ],
       "overviewEn": "Thirty years after starring in 'The Wizard of Oz', beloved actress and singer Judy Garland arrives in London to perform sold-out shows at the Talk of the Town nightclub. While there, she reminisces with friends and fans and begins a whirlwind romance with musician Mickey Deans, her soon-to-be fifth husband."
     },
     {
@@ -17658,8 +20894,37 @@
       "addedAt": "2023-04-12T08:36:04+00:00",
       "tmdbId": 50348,
       "poster": "https://image.tmdb.org/t/p/w500/mJsXLE40Is5edHq0nKIgIfm0PZv.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        80,
+        18,
+        53
+      ],
+      "cast": [
+        {
+          "id": 10297,
+          "name": "Matthew McConaughey"
+        },
+        {
+          "id": 11864,
+          "name": "Ryan Phillippe"
+        },
+        {
+          "id": 3905,
+          "name": "William H. Macy"
+        },
+        {
+          "id": 3141,
+          "name": "Marisa Tomei"
+        },
+        {
+          "id": 6164,
+          "name": "Josh Lucas"
+        },
+        {
+          "id": 5723,
+          "name": "John Leguizamo"
+        }
+      ],
       "overviewEn": "Mick Haller is a charismatic defense attorney who does business out of his Lincoln Continental sedan. Mick spends most of his time defending petty crooks and other bottom-feeders, so it comes as quite a surprise when he lands the case of a lifetime: defending a Beverly Hills playboy who is accused of attempted murder. However, what Mick initially thinks is an open-and-shut case with a big monetary reward develops into something more sinister."
     },
     {
@@ -18029,8 +21294,37 @@
       "addedAt": "2023-04-12T08:35:51+00:00",
       "tmdbId": 420809,
       "poster": "https://image.tmdb.org/t/p/w500/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        10751,
+        14,
+        12
+      ],
+      "cast": [
+        {
+          "id": 11701,
+          "name": "Angelina Jolie"
+        },
+        {
+          "id": 18050,
+          "name": "Elle Fanning"
+        },
+        {
+          "id": 1716493,
+          "name": "Harris Dickinson"
+        },
+        {
+          "id": 1160,
+          "name": "Michelle Pfeiffer"
+        },
+        {
+          "id": 32987,
+          "name": "Sam Riley"
+        },
+        {
+          "id": 5294,
+          "name": "Chiwetel Ejiofor"
+        }
+      ],
       "overviewEn": "Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play."
     },
     {
@@ -18134,8 +21428,37 @@
       "addedAt": "2023-04-12T08:35:46+00:00",
       "tmdbId": 207703,
       "poster": "https://image.tmdb.org/t/p/w500/r6q9wZK5a2K51KFj4LWVID6Ja1r.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        80,
+        35,
+        28
+      ],
+      "cast": [
+        {
+          "id": 1303037,
+          "name": "Taron Egerton"
+        },
+        {
+          "id": 5472,
+          "name": "Colin Firth"
+        },
+        {
+          "id": 2231,
+          "name": "Samuel L. Jackson"
+        },
+        {
+          "id": 2983,
+          "name": "Mark Strong"
+        },
+        {
+          "id": 1282054,
+          "name": "Sophie Cookson"
+        },
+        {
+          "id": 568657,
+          "name": "Sofia Boutella"
+        }
+      ],
       "overviewEn": "The story of a super-secret spy organization that recruits an unrefined but promising street kid into the agency's ultra-competitive training program just as a global threat emerges from a twisted tech genius."
     },
     {
@@ -18146,8 +21469,37 @@
       "addedAt": "2023-04-12T08:35:46+00:00",
       "tmdbId": 343668,
       "poster": "https://image.tmdb.org/t/p/w500/gzs4GYzgiPuPj2AgXJkp08LxPXZ.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        80,
+        35,
+        28
+      ],
+      "cast": [
+        {
+          "id": 1303037,
+          "name": "Taron Egerton"
+        },
+        {
+          "id": 5472,
+          "name": "Colin Firth"
+        },
+        {
+          "id": 1231,
+          "name": "Julianne Moore"
+        },
+        {
+          "id": 2983,
+          "name": "Mark Strong"
+        },
+        {
+          "id": 931785,
+          "name": "Hanna Alström"
+        },
+        {
+          "id": 4587,
+          "name": "Halle Berry"
+        }
+      ],
       "overviewEn": "When an attack on the Kingsman headquarters takes place and a new villain rises, Eggsy and Merlin are forced to work together with the American agency known as the Statesman to save the world."
     },
     {
@@ -18672,8 +22024,37 @@
       "addedAt": "2023-04-12T08:35:31+00:00",
       "tmdbId": 549053,
       "poster": "https://image.tmdb.org/t/p/w500/kDEjffiKgjuGo2DRzsqfjvW0CQh.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        35,
+        18,
+        10749
+      ],
+      "cast": [
+        {
+          "id": 1223786,
+          "name": "Emilia Clarke"
+        },
+        {
+          "id": 1807132,
+          "name": "Henry Golding"
+        },
+        {
+          "id": 1620,
+          "name": "Michelle Yeoh"
+        },
+        {
+          "id": 7056,
+          "name": "Emma Thompson"
+        },
+        {
+          "id": 82807,
+          "name": "Lydia Leonard"
+        },
+        {
+          "id": 36659,
+          "name": "Boris Isaković"
+        }
+      ],
       "overviewEn": "Kate is a young woman who has a habit of making bad decisions, and her last date with disaster occurs after she accepts work as Santa's elf for a department store. However, after she meets Tom there, her life takes a new turn."
     },
     {
@@ -18737,8 +22118,37 @@
       "addedAt": "2023-04-12T08:35:27+00:00",
       "tmdbId": 515001,
       "poster": "https://image.tmdb.org/t/p/w500/1mqL7VG4Ix8wmxwypmCA1HTHBky.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        35,
+        10752,
+        18
+      ],
+      "cast": [
+        {
+          "id": 2054851,
+          "name": "Roman Griffin Davis"
+        },
+        {
+          "id": 1356758,
+          "name": "Thomasin McKenzie"
+        },
+        {
+          "id": 1245,
+          "name": "Scarlett Johansson"
+        },
+        {
+          "id": 55934,
+          "name": "Taika Waititi"
+        },
+        {
+          "id": 6807,
+          "name": "Sam Rockwell"
+        },
+        {
+          "id": 221581,
+          "name": "Rebel Wilson"
+        }
+      ],
       "overviewEn": "Jojo, a lonely German boy during World War II has his world shaken when he learns that his single mother is hiding a Jewish girl in their home. Influenced by a buffoonish imaginary version of Adolf Hitler, he begins to question his beliefs and confront the conflict between propaganda and his own humanity."
     },
     {
@@ -18791,8 +22201,35 @@
       "addedAt": "2023-04-12T08:35:24+00:00",
       "tmdbId": 11978,
       "poster": "https://image.tmdb.org/t/p/w500/wNUAnXV1mzOOfvnVBIYsalkk078.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        18
+      ],
+      "cast": [
+        {
+          "id": 380,
+          "name": "Robert De Niro"
+        },
+        {
+          "id": 9777,
+          "name": "Cuba Gooding Jr."
+        },
+        {
+          "id": 6885,
+          "name": "Charlize Theron"
+        },
+        {
+          "id": 53923,
+          "name": "Aunjanue Ellis-Taylor"
+        },
+        {
+          "id": 11066,
+          "name": "Hal Holbrook"
+        },
+        {
+          "id": 4688,
+          "name": "Michael Rapaport"
+        }
+      ],
       "overviewEn": "Against formidable odds -- and an old-school diving instructor embittered by the U.S. Navy's new, less prejudicial policies -- Carl Brashear sets his sights on becoming the Navy's first African-American master diver in this uplifting true story. Their relationship starts out on the rocks, but fate ultimately conspires to bring the men together into a setting of mutual respect, triumph and honor."
     },
     {
@@ -18803,8 +22240,37 @@
       "addedAt": "2023-04-12T08:35:23+00:00",
       "tmdbId": 522162,
       "poster": "https://image.tmdb.org/t/p/w500/3Ipjy1UtaTnY2SO6T8TVlQWeD0a.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        10752,
+        36,
+        28
+      ],
+      "cast": [
+        {
+          "id": 1047649,
+          "name": "Ed Skrein"
+        },
+        {
+          "id": 17178,
+          "name": "Patrick Wilson"
+        },
+        {
+          "id": 57755,
+          "name": "Woody Harrelson"
+        },
+        {
+          "id": 114019,
+          "name": "Luke Evans"
+        },
+        {
+          "id": 16855,
+          "name": "Mandy Moore"
+        },
+        {
+          "id": 967781,
+          "name": "Luke Kleintank"
+        }
+      ],
       "overviewEn": "The story of the Battle of Midway, and the leaders and soldiers who used their instincts, fortitude and bravery to overcome massive odds."
     },
     {
@@ -19106,8 +22572,37 @@
       "addedAt": "2023-04-12T08:35:15+00:00",
       "tmdbId": 512200,
       "poster": "https://image.tmdb.org/t/p/w500/2RyMYPKmlUcT4BkVmPIOUV4X2iC.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        12,
+        35,
+        14
+      ],
+      "cast": [
+        {
+          "id": 18918,
+          "name": "Dwayne Johnson"
+        },
+        {
+          "id": 55638,
+          "name": "Kevin Hart"
+        },
+        {
+          "id": 70851,
+          "name": "Jack Black"
+        },
+        {
+          "id": 543261,
+          "name": "Karen Gillan"
+        },
+        {
+          "id": 1625558,
+          "name": "Awkwafina"
+        },
+        {
+          "id": 130565,
+          "name": "Nick Jonas"
+        }
+      ],
       "overviewEn": "As the gang return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored in order to escape the world’s most dangerous game."
     },
     {
@@ -19561,8 +23056,36 @@
       "addedAt": "2023-04-12T08:35:02+00:00",
       "tmdbId": 9429,
       "poster": "https://image.tmdb.org/t/p/w500/7oZ5xE4AL4D5EbeQUaoRxahgzJX.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        35,
+        10749
+      ],
+      "cast": [
+        {
+          "id": 58317,
+          "name": "Chris Kattan"
+        },
+        {
+          "id": 23659,
+          "name": "Will Ferrell"
+        },
+        {
+          "id": 6486,
+          "name": "Dan Hedaya"
+        },
+        {
+          "id": 28640,
+          "name": "Molly Shannon"
+        },
+        {
+          "id": 87295,
+          "name": "Richard Grieco"
+        },
+        {
+          "id": 34735,
+          "name": "Loni Anderson"
+        }
+      ],
       "overviewEn": "Despite being well into adulthood, brothers Doug and Steve Butabi still live at home and work in the flower shop owned by their dad. They exist only to hit on women at discos, though they're routinely unsuccessful until a chance run-in with Richard Grieco gets them inside the swank Roxbury club. Mistaken for high rollers, they meet their dream women, Vivica and Cambi, and resolve to open a club of their own."
     },
     {
@@ -19573,8 +23096,37 @@
       "addedAt": "2023-04-12T08:35:01+00:00",
       "tmdbId": 522212,
       "poster": "https://image.tmdb.org/t/p/w500/2bDZl3PzFLFWe4gaFUQnnaslqT3.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        18,
+        80,
+        36
+      ],
+      "cast": [
+        {
+          "id": 135651,
+          "name": "Michael B. Jordan"
+        },
+        {
+          "id": 60073,
+          "name": "Brie Larson"
+        },
+        {
+          "id": 134,
+          "name": "Jamie Foxx"
+        },
+        {
+          "id": 1371398,
+          "name": "O'Shea Jackson Jr."
+        },
+        {
+          "id": 28847,
+          "name": "Rafe Spall"
+        },
+        {
+          "id": 1281250,
+          "name": "Rob Morgan"
+        }
+      ],
       "overviewEn": "The powerful true story of Harvard-educated lawyer Bryan Stevenson, who goes to Alabama to defend the disenfranchised and wrongly condemned — including Walter McMillian, a man sentenced to death despite evidence proving his innocence. Bryan fights tirelessly for Walter with the system stacked against them."
     },
     {
@@ -19760,8 +23312,38 @@
       "addedAt": "2023-04-12T08:34:53+00:00",
       "tmdbId": 9972,
       "poster": "https://image.tmdb.org/t/p/w500/WihoHaU9yvhhdoSqDAhiIlNN8g.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        80,
+        18,
+        53
+      ],
+      "cast": [
+        {
+          "id": 16483,
+          "name": "Sylvester Stallone"
+        },
+        {
+          "id": 55636,
+          "name": "Donald Sutherland"
+        },
+        {
+          "id": 22384,
+          "name": "John Amos"
+        },
+        {
+          "id": 1105,
+          "name": "Sonny Landham"
+        },
+        {
+          "id": 3197,
+          "name": "Tom Sizemore"
+        },
+        {
+          "id": 1735,
+          "name": "Frank McRae"
+        }
+      ],
       "overviewEn": "Frank Leone is nearing the end of his prison term for a relatively minor crime. Just before he is paroled, however, Warden Drumgoole takes charge. Drumgoole was assigned to a hell-hole prison after his administration was publicly humiliated by Leone, and has now arrived on the scene to ensure that Leone never sees the light of day."
     },
     {
@@ -20008,8 +23590,35 @@
       "addedAt": "2023-04-12T08:34:29+00:00",
       "tmdbId": 9399,
       "poster": "https://image.tmdb.org/t/p/w500/51NskrlR0aqpSpJ29GXZdlCRiEZ.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28
+      ],
+      "cast": [
+        {
+          "id": 15111,
+          "name": "Jean-Claude Van Damme"
+        },
+        {
+          "id": 45101,
+          "name": "Harrison Page"
+        },
+        {
+          "id": 115888,
+          "name": "Lisa Pelikan"
+        },
+        {
+          "id": 34486,
+          "name": "Ashley Johnson"
+        },
+        {
+          "id": 57663,
+          "name": "Deborah Rennard"
+        },
+        {
+          "id": 2719,
+          "name": "Brian Thompson"
+        }
+      ],
       "overviewEn": "Lyon Gaultier is a deserter in the Foreign Legion arriving in the USA entirely hard up. He finds his brother between life and death and his sister-in-law without the money needed to heal her husband and to maintain her child. To earn the money needed, Gaultier decides to take part in some very dangerous clandestine fights."
     },
     {
@@ -20287,8 +23896,37 @@
       "addedAt": "2023-04-12T08:34:15+00:00",
       "tmdbId": 337401,
       "poster": "https://image.tmdb.org/t/p/w500/jG209nGkkhs1XPB9qyKH0aTU1m8.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        12,
+        14,
+        28
+      ],
+      "cast": [
+        {
+          "id": 122503,
+          "name": "Liu Yifei"
+        },
+        {
+          "id": 1341,
+          "name": "Donnie Yen"
+        },
+        {
+          "id": 643,
+          "name": "Gong Li"
+        },
+        {
+          "id": 1336,
+          "name": "Jet Li"
+        },
+        {
+          "id": 58319,
+          "name": "Jason Scott Lee"
+        },
+        {
+          "id": 1305610,
+          "name": "Yoson An"
+        }
+      ],
       "overviewEn": "When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential."
     },
     {
@@ -20645,8 +24283,37 @@
       "addedAt": "2023-04-12T08:33:52+00:00",
       "tmdbId": 293167,
       "poster": "https://image.tmdb.org/t/p/w500/r2517Vz9EhDhj88qwbDVj8DCRZN.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        12,
+        14
+      ],
+      "cast": [
+        {
+          "id": 91606,
+          "name": "Tom Hiddleston"
+        },
+        {
+          "id": 2231,
+          "name": "Samuel L. Jackson"
+        },
+        {
+          "id": 1230,
+          "name": "John Goodman"
+        },
+        {
+          "id": 60073,
+          "name": "Brie Larson"
+        },
+        {
+          "id": 1151657,
+          "name": "Jing Tian"
+        },
+        {
+          "id": 20286,
+          "name": "Toby Kebbell"
+        }
+      ],
       "overviewEn": "Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island."
     },
     {
@@ -20828,8 +24495,37 @@
       "addedAt": "2023-04-12T08:33:37+00:00",
       "tmdbId": 941,
       "poster": "https://image.tmdb.org/t/p/w500/6gt44oqb4nE8vflPElffeGwsHVl.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        53,
+        80
+      ],
+      "cast": [
+        {
+          "id": 2461,
+          "name": "Mel Gibson"
+        },
+        {
+          "id": 2047,
+          "name": "Danny Glover"
+        },
+        {
+          "id": 2048,
+          "name": "Gary Busey"
+        },
+        {
+          "id": 14312,
+          "name": "Mitchell Ryan"
+        },
+        {
+          "id": 11784,
+          "name": "Tom Atkins"
+        },
+        {
+          "id": 14313,
+          "name": "Darlene Love"
+        }
+      ],
       "overviewEn": "A veteran cop and an unstable detective become partners who must put their differences aside in order to bring down a heroin-smuggling ring run by ex-Special Forces."
     },
     {
@@ -20840,8 +24536,37 @@
       "addedAt": "2023-04-12T08:33:36+00:00",
       "tmdbId": 942,
       "poster": "https://image.tmdb.org/t/p/w500/1EEIUw0tkX7AJZ1ikZrtKZZKlC6.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        53,
+        80
+      ],
+      "cast": [
+        {
+          "id": 2461,
+          "name": "Mel Gibson"
+        },
+        {
+          "id": 2047,
+          "name": "Danny Glover"
+        },
+        {
+          "id": 4517,
+          "name": "Joe Pesci"
+        },
+        {
+          "id": 14324,
+          "name": "Joss Ackland"
+        },
+        {
+          "id": 14325,
+          "name": "Derrick O'Connor"
+        },
+        {
+          "id": 14326,
+          "name": "Patsy Kensit"
+        }
+      ],
       "overviewEn": "Riggs and Murtaugh are on the trail of South African diplomats using their immunity to engage in criminal activities."
     },
     {
@@ -20852,8 +24577,37 @@
       "addedAt": "2023-04-12T08:33:35+00:00",
       "tmdbId": 943,
       "poster": "https://image.tmdb.org/t/p/w500/8FnOudDHPOY7MFJnvQMR1qpuyek.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        53,
+        80
+      ],
+      "cast": [
+        {
+          "id": 2461,
+          "name": "Mel Gibson"
+        },
+        {
+          "id": 2047,
+          "name": "Danny Glover"
+        },
+        {
+          "id": 4517,
+          "name": "Joe Pesci"
+        },
+        {
+          "id": 14343,
+          "name": "Rene Russo"
+        },
+        {
+          "id": 14344,
+          "name": "Stuart Wilson"
+        },
+        {
+          "id": 14328,
+          "name": "Steve Kahan"
+        }
+      ],
       "overviewEn": "Riggs and Murtaugh pursue a former officer who uses his knowledge of police procedure and policies to steal and sell confiscated guns and ammunition to local street gangs."
     },
     {
@@ -20904,8 +24658,37 @@
       "addedAt": "2023-04-12T08:33:33+00:00",
       "tmdbId": 944,
       "poster": "https://image.tmdb.org/t/p/w500/pTLliHRoG0Qwp6qycmrMB4bD3mr.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        80,
+        53
+      ],
+      "cast": [
+        {
+          "id": 2461,
+          "name": "Mel Gibson"
+        },
+        {
+          "id": 2047,
+          "name": "Danny Glover"
+        },
+        {
+          "id": 4517,
+          "name": "Joe Pesci"
+        },
+        {
+          "id": 14343,
+          "name": "Rene Russo"
+        },
+        {
+          "id": 2632,
+          "name": "Chris Rock"
+        },
+        {
+          "id": 1336,
+          "name": "Jet Li"
+        }
+      ],
       "overviewEn": "With personal crises and age weighing in on them, LAPD officers Riggs and Murtaugh must contend with a deadly Chinese crime lord trying to get his brother out of prison."
     },
     {
@@ -21073,8 +24856,37 @@
       "addedAt": "2023-04-12T08:33:18+00:00",
       "tmdbId": 460465,
       "poster": "https://image.tmdb.org/t/p/w500/nkayOAUBUu4mMvyNf9iHSUiPjF1.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        14,
+        12
+      ],
+      "cast": [
+        {
+          "id": 1610940,
+          "name": "Lewis Tan"
+        },
+        {
+          "id": 136347,
+          "name": "Jessica McNamee"
+        },
+        {
+          "id": 51684,
+          "name": "Mehcad Brooks"
+        },
+        {
+          "id": 189230,
+          "name": "Josh Lawson"
+        },
+        {
+          "id": 1525689,
+          "name": "Ludi Lin"
+        },
+        {
+          "id": 1358974,
+          "name": "Max Huang"
+        }
+      ],
       "overviewEn": "Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung's best warrior, Sub-Zero, seeks out and trains with Earth's greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe."
     },
     {
@@ -21643,8 +25455,37 @@
       "addedAt": "2023-04-12T08:32:49+00:00",
       "tmdbId": 451048,
       "poster": "https://image.tmdb.org/t/p/w500/yKy9ELL8CON5sqDg4yIvBb5LTZL.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        14,
+        35,
+        12
+      ],
+      "cast": [
+        {
+          "id": 18918,
+          "name": "Dwayne Johnson"
+        },
+        {
+          "id": 5081,
+          "name": "Emily Blunt"
+        },
+        {
+          "id": 25616,
+          "name": "Edgar Ramírez"
+        },
+        {
+          "id": 212285,
+          "name": "Jack Whitehall"
+        },
+        {
+          "id": 88124,
+          "name": "Jesse Plemons"
+        },
+        {
+          "id": 13242,
+          "name": "Paul Giamatti"
+        }
+      ],
       "overviewEn": "Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take her down the Amazon in his dilapidated boat. Together, they search for an ancient tree that holds the power to heal – a discovery that will change the future of medicine."
     },
     {
@@ -22326,8 +26167,37 @@
       "addedAt": "2023-04-12T08:32:15+00:00",
       "tmdbId": 476669,
       "poster": "https://image.tmdb.org/t/p/w500/iMjSfMUuCkCE7z5fzGtjeDusPD3.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        12,
+        53
+      ],
+      "cast": [
+        {
+          "id": 5469,
+          "name": "Ralph Fiennes"
+        },
+        {
+          "id": 59620,
+          "name": "Gemma Arterton"
+        },
+        {
+          "id": 7026,
+          "name": "Rhys Ifans"
+        },
+        {
+          "id": 1247,
+          "name": "Matthew Goode"
+        },
+        {
+          "id": 2441,
+          "name": "Tom Hollander"
+        },
+        {
+          "id": 1716493,
+          "name": "Harris Dickinson"
+        }
+      ],
       "overviewEn": "As a collection of history's worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them."
     },
     {
@@ -22415,8 +26285,36 @@
       "addedAt": "2023-04-12T08:32:07+00:00",
       "tmdbId": 10466,
       "poster": "https://image.tmdb.org/t/p/w500/bohhidIi1WWU5NNYF9l5wLQu3Ii.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        35,
+        10749
+      ],
+      "cast": [
+        {
+          "id": 31,
+          "name": "Tom Hanks"
+        },
+        {
+          "id": 56881,
+          "name": "Shelley Long"
+        },
+        {
+          "id": 7674,
+          "name": "Alexander Godunov"
+        },
+        {
+          "id": 21151,
+          "name": "Maureen Stapleton"
+        },
+        {
+          "id": 3266,
+          "name": "Joe Mantegna"
+        },
+        {
+          "id": 6541,
+          "name": "Philip Bosco"
+        }
+      ],
       "overviewEn": "After being evicted from their Manhattan apartment, a couple buy what looks like the home of their dreams—only to find themselves saddled with a bank-account-draining nightmare. Struggling to keep their relationship together as their rambling mansion falls to pieces around them, the two watch in hilarious horror as everything—including the kitchen sink—disappears into the Money Pit."
     },
     {
@@ -22546,8 +26444,37 @@
       "addedAt": "2023-04-12T08:31:54+00:00",
       "tmdbId": 526896,
       "poster": "https://image.tmdb.org/t/p/w500/Av8Z2jZhEm1FLkFzMThzz9hndJF.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        878,
+        14
+      ],
+      "cast": [
+        {
+          "id": 7499,
+          "name": "Jared Leto"
+        },
+        {
+          "id": 136532,
+          "name": "Matt Smith"
+        },
+        {
+          "id": 1371297,
+          "name": "Adria Arjona"
+        },
+        {
+          "id": 15440,
+          "name": "Jared Harris"
+        },
+        {
+          "id": 8169,
+          "name": "Tyrese Gibson"
+        },
+        {
+          "id": 90534,
+          "name": "Al Madrigal"
+        }
+      ],
       "overviewEn": "Dangerously ill with a rare blood disorder, and determined to save others suffering his same fate, Dr. Michael Morbius attempts a desperate gamble. What at first appears to be a radical success soon reveals itself to be a remedy potentially worse than the disease."
     },
     {
@@ -22689,8 +26616,37 @@
       "addedAt": "2023-04-12T08:31:40+00:00",
       "tmdbId": 507086,
       "poster": "https://image.tmdb.org/t/p/w500/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        12,
+        878,
+        53
+      ],
+      "cast": [
+        {
+          "id": 73457,
+          "name": "Chris Pratt"
+        },
+        {
+          "id": 18997,
+          "name": "Bryce Dallas Howard"
+        },
+        {
+          "id": 4784,
+          "name": "Laura Dern"
+        },
+        {
+          "id": 4783,
+          "name": "Sam Neill"
+        },
+        {
+          "id": 4785,
+          "name": "Jeff Goldblum"
+        },
+        {
+          "id": 206425,
+          "name": "DeWanda Wise"
+        }
+      ],
       "overviewEn": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures."
     },
     {
@@ -22754,8 +26710,39 @@
       "addedAt": "2023-04-12T08:31:31+00:00",
       "tmdbId": 438148,
       "poster": "https://image.tmdb.org/t/p/w500/4dBDk1LPdvdhcZdjQBmdXwiVKUA.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        16,
+        35,
+        80,
+        878,
+        10751
+      ],
+      "cast": [
+        {
+          "id": 4495,
+          "name": "Steve Carell"
+        },
+        {
+          "id": 124747,
+          "name": "Pierre Coffin"
+        },
+        {
+          "id": 1903,
+          "name": "Alan Arkin"
+        },
+        {
+          "id": 40036,
+          "name": "Taraji P. Henson"
+        },
+        {
+          "id": 1620,
+          "name": "Michelle Yeoh"
+        },
+        {
+          "id": 5823,
+          "name": "Julie Andrews"
+        }
+      ],
       "overviewEn": "A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions."
     },
     {
@@ -22778,8 +26765,38 @@
       "addedAt": "2023-04-12T08:31:30+00:00",
       "tmdbId": 718789,
       "poster": "https://image.tmdb.org/t/p/w500/ox4goZd956BxqJH6iLwhWPL9ct4.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        16,
+        878,
+        10751,
+        12
+      ],
+      "cast": [
+        {
+          "id": 16828,
+          "name": "Chris Evans"
+        },
+        {
+          "id": 74688,
+          "name": "Keke Palmer"
+        },
+        {
+          "id": 21198,
+          "name": "Peter Sohn"
+        },
+        {
+          "id": 55934,
+          "name": "Taika Waititi"
+        },
+        {
+          "id": 1102500,
+          "name": "Dale Soules"
+        },
+        {
+          "id": 9274,
+          "name": "James Brolin"
+        }
+      ],
       "overviewEn": "Legendary Space Ranger Buzz Lightyear embarks on an intergalactic adventure alongside a group of ambitious recruits and his robot companion Sox."
     },
     {
@@ -23012,8 +27029,36 @@
       "addedAt": "2023-04-12T08:31:06+00:00",
       "tmdbId": 276907,
       "poster": "https://image.tmdb.org/t/p/w500/4shf5Alq4KWCKqrAAQe0JGJHYp5.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        80,
+        53
+      ],
+      "cast": [
+        {
+          "id": 2524,
+          "name": "Tom Hardy"
+        },
+        {
+          "id": 70456,
+          "name": "Emily Browning"
+        },
+        {
+          "id": 2040,
+          "name": "Christopher Eccleston"
+        },
+        {
+          "id": 11207,
+          "name": "David Thewlis"
+        },
+        {
+          "id": 1303037,
+          "name": "Taron Egerton"
+        },
+        {
+          "id": 9046,
+          "name": "Chazz Palminteri"
+        }
+      ],
       "overviewEn": "Suave, charming and volatile, Reggie Kray and his unstable twin brother Ronnie start to leave their mark on the London underworld in the 1960s. Using violence to get what they want, the siblings orchestrate robberies and murders while running nightclubs and protection rackets. With police Detective Leonard \"Nipper\" Read hot on their heels, the brothers continue their rapid rise to power and achieve tabloid notoriety."
     },
     {
@@ -23112,8 +27157,35 @@
       "addedAt": "2023-04-12T08:30:58+00:00",
       "tmdbId": 2123,
       "poster": "https://image.tmdb.org/t/p/w500/rvRrcbLbpn7UJGRH1JupgHOeJFq.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        35
+      ],
+      "cast": [
+        {
+          "id": 206,
+          "name": "Jim Carrey"
+        },
+        {
+          "id": 9137,
+          "name": "Renée Zellweger"
+        },
+        {
+          "id": 21802,
+          "name": "Mongo Brownlee"
+        },
+        {
+          "id": 60672,
+          "name": "Zen Gesner"
+        },
+        {
+          "id": 2955,
+          "name": "Chris Cooper"
+        },
+        {
+          "id": 18471,
+          "name": "Anthony Anderson"
+        }
+      ],
       "overviewEn": "Rhode Island State Trooper Charlie Baileygates has a multiple personality disorder. One personality is crazy and aggressive, while the other is more friendly and laid back. Both of these personalities fall in love with the same woman named Irene after Charlie loses his medication."
     },
     {
@@ -23287,8 +27359,37 @@
       "addedAt": "2023-04-12T08:30:36+00:00",
       "tmdbId": 9593,
       "poster": "https://image.tmdb.org/t/p/w500/vkhEaWAv5j3qgrOGp3BgMeiYPKj.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        14,
+        28,
+        35
+      ],
+      "cast": [
+        {
+          "id": 1100,
+          "name": "Arnold Schwarzenegger"
+        },
+        {
+          "id": 58119,
+          "name": "Austin O'Brien"
+        },
+        {
+          "id": 20751,
+          "name": "Bridgette Wilson"
+        },
+        {
+          "id": 1164,
+          "name": "F. Murray Abraham"
+        },
+        {
+          "id": 40176,
+          "name": "Art Carney"
+        },
+        {
+          "id": 4391,
+          "name": "Charles Dance"
+        }
+      ],
       "overviewEn": "After his father's death, a young boy finds solace in action movies featuring an indestructible cop. Given a magic ticket by a theater manager, he is transported into the film and teams up with the cop to stop a villain who escapes into the real world."
     },
     {
@@ -23483,8 +27584,37 @@
       "addedAt": "2023-04-12T08:30:25+00:00",
       "tmdbId": 551271,
       "poster": "https://image.tmdb.org/t/p/w500/eeUNWsdoiOijOZAMaWFDA5Pb1n8.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        28,
+        18,
+        36
+      ],
+      "cast": [
+        {
+          "id": 11107,
+          "name": "Ben Foster"
+        },
+        {
+          "id": 103994,
+          "name": "Sophie Lowe"
+        },
+        {
+          "id": 3895,
+          "name": "Michael Caine"
+        },
+        {
+          "id": 141876,
+          "name": "Roland Møller"
+        },
+        {
+          "id": 929608,
+          "name": "Magnus Samuelsson"
+        },
+        {
+          "id": 1844,
+          "name": "Til Schweiger"
+        }
+      ],
       "overviewEn": "The story of fifteenth century Czech icon and warlord, Jan Zizka, who defeated armies of the Teutonic Order and the Holy Roman Empire."
     },
     {
@@ -23535,8 +27665,36 @@
       "addedAt": "2023-04-12T08:30:18+00:00",
       "tmdbId": 593643,
       "poster": "https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        35,
+        27
+      ],
+      "cast": [
+        {
+          "id": 1397778,
+          "name": "Anya Taylor-Joy"
+        },
+        {
+          "id": 5469,
+          "name": "Ralph Fiennes"
+        },
+        {
+          "id": 3292,
+          "name": "Nicholas Hoult"
+        },
+        {
+          "id": 47627,
+          "name": "Janet McTeer"
+        },
+        {
+          "id": 17342,
+          "name": "Paul Adelstein"
+        },
+        {
+          "id": 207389,
+          "name": "Rob Yang"
+        }
+      ],
       "overviewEn": "A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises."
     },
     {
@@ -23547,8 +27705,36 @@
       "addedAt": "2023-04-12T08:30:17+00:00",
       "tmdbId": 536554,
       "poster": "https://image.tmdb.org/t/p/w500/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        878,
+        27
+      ],
+      "cast": [
+        {
+          "id": 1255540,
+          "name": "Allison Williams"
+        },
+        {
+          "id": 2131391,
+          "name": "Violet McGraw"
+        },
+        {
+          "id": 3444018,
+          "name": "Amie Donald"
+        },
+        {
+          "id": 2043430,
+          "name": "Jenna Davis"
+        },
+        {
+          "id": 1319469,
+          "name": "Ronny Chieng"
+        },
+        {
+          "id": 1071699,
+          "name": "Brian Jordan Alvarez"
+        }
+      ],
       "overviewEn": "A brilliant toy company roboticist uses artificial intelligence to develop M3GAN, a life-like doll programmed to emotionally bond with her newly orphaned niece. But when the doll's programming works too well, she becomes overprotective of her new friend with terrifying results."
     },
     {
@@ -24025,8 +28211,36 @@
       "addedAt": "2023-04-12T08:29:46+00:00",
       "tmdbId": 937278,
       "poster": "https://image.tmdb.org/t/p/w500/130H1gap9lFfiTF9iDrqNIkFvC9.jpg",
-      "genres": [],
-      "cast": [],
+      "genres": [
+        35,
+        18
+      ],
+      "cast": [
+        {
+          "id": 31,
+          "name": "Tom Hanks"
+        },
+        {
+          "id": 1309844,
+          "name": "Mariana Treviño"
+        },
+        {
+          "id": 1286537,
+          "name": "Cameron Britton"
+        },
+        {
+          "id": 2797317,
+          "name": "Mack Bayda"
+        },
+        {
+          "id": 1168097,
+          "name": "Manuel Garcia-Rulfo"
+        },
+        {
+          "id": 80615,
+          "name": "Juanita Jennings"
+        }
+      ],
       "overviewEn": "When a lively young family moves in next door, grumpy widower Otto Anderson meets his match in a quick-witted, pregnant woman named Marisol, leading to an unlikely friendship that turns his world upside down."
     },
     {
