@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-23T10:00:04+00:00",
+  "updatedAt": "2026-11-23T14:00:05+00:00",
   "movies": [
+    {
+      "title": "The Pact",
+      "originalTitle": "",
+      "year": 2012,
+      "overview": "As a woman struggles to come to grips with her past in the wake of her mother's death and the disappearance of her sister, an unsettling presence emerges in her childhood home.",
+      "addedAt": "2026-11-23T13:37:40+00:00",
+      "tmdbId": 111440,
+      "poster": "https://image.tmdb.org/t/p/w500/o0a4iSc5yKEiV15NCTI5GwrZudc.jpg",
+      "overviewEn": "After their mother passes away, sisters Nicole and Annie reluctantly return to their childhood home to pay their last respects. While staying overnight in the house, the sisters sense a mysterious presence in their midst: noises startling them in the night, objects moving about, a fallen picture of an unknown woman posed next to their mother. Annie begins experiencing a series of intense and disturbing dreams - visions that lead her to uncover something terrible about her mother's past that is finally revealing itself."
+    },
     {
       "title": "Guarding Stars",
       "originalTitle": "",
