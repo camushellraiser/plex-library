@@ -1,0 +1,32 @@
+/* Plex Library 5.0: quiet discovery controls, letting poster art lead. */
+.metric-link{appearance:none;border:0;border-radius:0;color:inherit;background:transparent;text-align:left;font:inherit;width:100%;cursor:pointer;position:relative;transition:background-color .18s ease}
+.metric-link:hover{background:rgba(229,165,45,.055)}
+.metric-link:focus-visible{outline:2px solid var(--gold);outline-offset:-4px;z-index:2}
+.metric-link.is-selected{background:rgba(229,165,45,.045)}
+.metric-link.is-selected::after{content:"";position:absolute;inset:auto 15px 0;height:2px;background:linear-gradient(90deg,transparent,rgba(229,165,45,.7),transparent)}
+.metric-link .metric-info strong{font-variant-numeric:tabular-nums}
+.genre-select-wrap{max-width:190px}
+.genre-select-wrap select{width:100%;min-width:160px;background-color:#181b25}
+.active-filter{display:flex;align-items:center;gap:12px;justify-content:flex-start;flex-wrap:wrap;color:#9da3b1;font-size:11px;padding:0 0 16px}
+.active-filter button{border:0;background:transparent;color:#d4ab69;padding:6px 3px;font-size:11px;font-weight:700;text-decoration:underline;text-underline-offset:3px}
+.active-filter button:focus-visible,.dialog-actor:focus-visible{outline:2px solid var(--gold);outline-offset:3px}
+.dialog-genres{display:flex;flex-wrap:wrap;gap:6px;margin:13px 0 3px}
+.dialog-genre{font-size:10px;letter-spacing:.01em;color:#c5cbd5;border:1px solid #3a3e4a;background:#252733;padding:5px 9px;border-radius:99px;line-height:1.3}
+.dialog-cast{margin-top:20px;padding-top:17px;border-top:1px solid #343743}
+.dialog-cast-label{font-size:10px;font-weight:800;text-transform:uppercase;letter-spacing:1.1px;color:#a6abb7;margin-bottom:11px}
+.dialog-cast-list{display:flex;flex-wrap:wrap;gap:8px}
+.dialog-actor{color:#e4e6ea;background:#242733;border:1px solid #3a3f4b;padding:8px 11px;font-size:11px;font-weight:650;border-radius:9px;line-height:1.2;transition:background .18s ease,border-color .18s ease}
+.dialog-actor:hover{background:#332f2b;border-color:rgba(226,173,86,.65)}
+@media(max-width:610px){
+  .metric-link{text-align:center}
+  .list-controls{flex-wrap:wrap;gap:10px;justify-content:flex-start}
+  .list-controls .result-count{flex-basis:100%}
+  .genre-select-wrap{flex:1;max-width:none;min-width:0}
+  .genre-select-wrap select{min-width:0}
+  .list-controls .select-wrap:not(.genre-select-wrap){flex:1;min-width:0}
+  .list-controls .select-wrap:not(.genre-select-wrap) select{min-width:0;width:100%}
+  .dialog-cast{margin-top:17px;padding-top:15px}
+  .dialog-cast-list{gap:7px}
+  .dialog-actor{padding:8px 10px}
+}
+@media(prefers-reduced-motion:reduce){.metric-link,.dialog-actor{transition:none}}
