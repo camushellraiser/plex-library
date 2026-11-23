@@ -10,6 +10,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css?v=6">
+  <link rel="stylesheet" href="discovery.css?v=5">
 </head>
 <body>
   <svg class="svg-sprites" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
@@ -72,9 +73,9 @@
     </section>
 
     <section class="metrics" aria-label="Información del catálogo">
-      <div class="metric"><span class="metric-icon"><svg class="icon"><use href="#icon-film"/></svg></span><span class="metric-info"><strong id="movieTotal">—</strong><span data-i18n="metricMovies">Películas en Plex</span></span></div>
-      <div class="metric"><span class="metric-icon"><svg class="icon"><use href="#icon-clock"/></svg></span><span class="metric-info"><strong data-i18n="metricHourlyValue">Cada hora</strong><span data-i18n="metricHourly">Actualización automática</span></span></div>
-      <div class="metric"><span class="metric-icon"><svg class="icon"><use href="#icon-mail"/></svg></span><span class="metric-info"><strong data-i18n="metricRequestValue">Solicitudes</strong><span data-i18n="metricRequest">Pide las que faltan</span></span></div>
+      <button class="metric metric-link is-selected" type="button" data-stat="all" aria-pressed="true"><span class="metric-icon"><svg class="icon"><use href="#icon-film"/></svg></span><span class="metric-info"><strong id="movieTotal">—</strong><span data-i18n="metricMovies">Películas en Plex</span></span></button>
+      <button class="metric metric-link" type="button" data-stat="recent" aria-pressed="false"><span class="metric-icon"><svg class="icon"><use href="#icon-sparkle"/></svg></span><span class="metric-info"><strong id="recentTotal">—</strong><span id="recentLabel">Agregadas en 30 días</span></span></button>
+      <button class="metric metric-link" type="button" data-stat="year" aria-pressed="false"><span class="metric-icon"><svg class="icon"><use href="#icon-clock"/></svg></span><span class="metric-info"><strong id="releaseTotal">—</strong><span id="releaseLabel">Películas de este año</span></span></button>
     </section>
 
     <section class="workspace" id="workspace">
@@ -89,8 +90,9 @@
       <section id="libraryView" role="tabpanel" aria-labelledby="libraryTab">
         <div class="section-head">
           <div><div class="small-heading" data-i18n="libraryOverline">EXPLORA TU CINE</div><h2 id="listTitle" data-i18n="libraryTitle">Todas las películas</h2><p id="listDescription" data-i18n="libraryDescription">Todo lo que puedes encontrar hoy en nuestra biblioteca.</p></div>
-          <div class="list-controls"><span class="result-count" id="count"></span><label class="select-wrap"><span class="sr-only" data-i18n="sortLabel">Ordenar películas</span><select id="sort"><option value="recent" data-i18n="sortRecent">Más recientes</option><option value="title" data-i18n="sortTitle">Título A–Z</option><option value="year" data-i18n="sortYear">Año de estreno</option></select></label></div>
+          <div class="list-controls"><span class="result-count" id="count"></span><label id="genreWrap" class="select-wrap genre-select-wrap" hidden><span class="sr-only">Filtrar por género</span><select id="genreFilter"><option value="">Todos los géneros</option></select></label><label class="select-wrap"><span class="sr-only" data-i18n="sortLabel">Ordenar películas</span><select id="sort"><option value="recent" data-i18n="sortRecent">Más recientes</option><option value="title" data-i18n="sortTitle">Título A–Z</option><option value="year" data-i18n="sortYear">Año de estreno</option></select></label></div>
         </div>
+        <div class="active-filter" id="activeFilter" hidden><span id="activeFilterText"></span><button type="button" id="clearFilters">Quitar filtros</button></div>
         <div class="movie-grid" id="movies" aria-live="polite"></div>
         <div class="empty-state" id="empty" hidden>
           <div class="empty-icon"><svg class="icon"><use href="#icon-search"/></svg></div>
@@ -159,6 +161,6 @@
     <div id="adminList" class="admin-list"></div>
   </dialog>
   <div class="toast" id="toast" role="status" aria-live="polite"></div>
-  <script src="config.js"></script><script src="app.js?v=6"></script>
+  <script src="config.js"></script><script src="app.js?v=6"></script><script src="discovery.js?v=5"></script>
 </body>
 </html>
