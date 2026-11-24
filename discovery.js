@@ -135,12 +135,20 @@
       const yearLine=info.querySelector('.dialog-year');
       if(pills.childElementCount) yearLine.after(pills);
     }
+    const summary=info.querySelector('.dialog-summary');
+    if(summary) {
+      const section=el('section','dialog-synopsis');
+      section.append(el('h3','dialog-section-label',language==='en'?'Synopsis':'Sinopsis'),summary);
+      $('dialogContent').append(section);
+    }
     if(movie.cast?.length) {
       const wrap=el('section','dialog-cast');
-      wrap.append(el('div','dialog-cast-label',word('cast')));
+      wrap.append(el('h3','dialog-cast-label dialog-section-label',word('cast')));
       const list=el('div','dialog-cast-list');
       for(const person of movie.cast.slice(0,5)) {
-        const b=el('button','dialog-actor',person.name); b.type='button';
+        const b=el('button','dialog-actor'); b.type='button';
+        b.append(el('span','dialog-actor-name',person.name));
+        const arrow=el('span','dialog-actor-arrow'); arrow.setAttribute('aria-hidden','true'); b.append(arrow);
         b.setAttribute('aria-label',word('actorTitle',{actor:person.name}));
         b.addEventListener('click',()=>{
           closeDialog();metric='all';genre='';actor=person;
