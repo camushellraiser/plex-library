@@ -1,0 +1,24 @@
+{
+  "id": "./",
+  "name": "Plex Library",
+  "short_name": "Plex Library",
+  "start_url": "./",
+  "scope": "./",
+  "display": "browser",
+  "background_color": "#090a10",
+  "theme_color": "#0a0b11",
+  "icons": [
+    {
+      "src": "icon-192.png?v=1",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png?v=1",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
