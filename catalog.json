@@ -1,6 +1,45 @@
 {
-  "updatedAt": "2026-11-26T09:00:04+00:00",
+  "updatedAt": "2026-11-26T12:00:05+00:00",
   "movies": [
+    {
+      "title": "Crazy Magical Mexico",
+      "originalTitle": "Loco México Mágico",
+      "year": 2026,
+      "overview": "An eccentric mayor obsessed with making Alvarado, Veracruz a tourist hotspot decides to film a Hollywood-style movie. He assembles a makeshift crew of locals who know nothing about filmmaking, led by a quinceañera videographer.",
+      "addedAt": "2026-11-26T11:50:08+00:00",
+      "tmdbId": 1700680,
+      "poster": "https://image.tmdb.org/t/p/w500/wCUD4k1EYhFwuTpsUwKfY3fvWOT.jpg",
+      "genres": [
+        35
+      ],
+      "cast": [
+        {
+          "id": 105843,
+          "name": "Silverio Palacios"
+        },
+        {
+          "id": 2349377,
+          "name": "Daniel Sosa"
+        },
+        {
+          "id": 2732919,
+          "name": "Fernando Cuautle"
+        },
+        {
+          "id": 4244397,
+          "name": "Sofía Carrera"
+        },
+        {
+          "id": 4840693,
+          "name": "Rocío Guzmán"
+        },
+        {
+          "id": 971363,
+          "name": "Norma Reyna"
+        }
+      ],
+      "overviewEn": "A man finds the best motivation to secure and save his town: making an independent Mexican film."
+    },
     {
       "title": "The Pact",
       "originalTitle": "",
